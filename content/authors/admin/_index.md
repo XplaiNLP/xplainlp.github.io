@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Prof. Dr.-Ing. Sebastian Möller
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Sebastian
+last_name: Möller
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Quality and Usability
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Technische Universität Berlin
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
