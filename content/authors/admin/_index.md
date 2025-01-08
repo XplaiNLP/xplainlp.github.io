@@ -27,14 +27,14 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: MEng in 
+      institution: 
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BSc in 
+      institution: s
       year: 2008
 
 # Social/Academic Networking
