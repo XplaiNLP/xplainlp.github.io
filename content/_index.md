@@ -8,14 +8,19 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
+        XplaiNLP Research Group
       text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        <span style="color: #DCDCDC; font-size: 0.8rem;">
+        The NLP Research Group at the Quality and Usability Lab, Technische Universität Berlin.
+        </span>
+    design:
+      background:
+        image:
+          filename: welcome.jpg
+          filters:
+            brightness: 0.3
+        text_color_light: true
+      
   
   - block: collection
     content:
