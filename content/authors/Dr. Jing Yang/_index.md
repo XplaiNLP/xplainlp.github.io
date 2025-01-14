@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Researchers
+role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:

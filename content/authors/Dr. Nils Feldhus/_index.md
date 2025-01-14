@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Dr. Vera Schmitt
+title: Dr. Nils Feldhus
 
 # Full name (for SEO)
-first_name: Vera
-last_name: Schmitt
+first_name: Nils
+last_name: Feldhus
 
 # Username (this should match the folder name)
 authors:
-  - Dr. Vera Schmitt
+  - Dr. Nils Feldhus
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Head of XplaiNLP Research Group
+role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -23,13 +23,16 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-  - Head of XplaiNLP Research Group at the Department of Electrical Engineering and Computer Science, Quality and Usability Lab, Technische Universität Berlin
-  - Guest Researcher at German Research Center for Artificial Intelligence (DFKI), Speech and Language Technology (SLT) group
+  - Senior Researcher
+  - Guest Researcher at German Research Center for Artificial Intelligence (DFKI)
 
 interests:
-  - Human-Computer Interaction
-  - Natural Language Processing
-  - Legal and Ethical Considerations
+  - Interpretability and Analysis of NLP Models
+  - Rationale Generation
+  - Text Simplification and Summarization
+  - Dialogue Systems, Interactive Systems and User Interfaces
+  - Trustworthy Biomedical and Clinical NLP
+  - Human Evaluation of Model-Generated Text
 
 education:
   courses:
@@ -74,4 +77,8 @@ email: 'vera.schmitt(at)tu-berlin.de'
 user_groups:
   - Senior Researchers
 ---
-Dr. Vera Schmitt build up and is leading the XplaiNLP group at the QUL, based on the aquired funding from third-party projects. With her group she is exploring core NLP topisc, xAI, HCI and legal aspects of AI systems in the domain of disinformation detection and medical data processing. Vera completed her undergraduate studies in Politics and Public Administration (B.A.) at the University of Konstanz. During this time, she developed a keen interest in statistics and co-founded CorrelAid, a non-profit community of data science enthusiasts. Afterward, she pursued her passion for data science by enrolling in a Master's program in Data Science at Leuphana University in Lüneburg. As a member of the ChangemakerXchange she actively contributed to projects of CorrelAid in various countries, including Malaysia, Japan, and Singapore. Following this, she started a Ph.D. at the Q&U Labe at the TU Berlin, concerning the topic of economic aspects of privacy. During her PhD, she aquired a BMBF research group funding (KI-Nachwuchsgruppen unter Leitung von Frauen) of 1.4 Million € to significantly extend her already existing group.
+Nils completed his undergraduate studies in Computational Linguistics (B.A.) at Heidelberg University in 2016 and obtained a master's degree in Cognitive Systems (M.Sc.) at Potsdam University in 2020, specializing in natural language processing and machine learning techniques.
+In January 2020, he joined the Speech and Language Technology research group at German Research Institute for Artificial Intelligence (DFKI) in Berlin and worked on various NLP-related topics with a focus on explainability and dialogue systems. Between 2021 and 2024, he pursued his PhD at TU Berlin under the supervision of Prof. Sebastian Möller. He will defend his thesis with the title "Approaches for Generating and Evaluating Natural Language Explanations of Language Models" in early 2025.
+In December 2024, he joined TU Berlin conducting research on the BIFOLD agility project IlluminateCardio ("Interpretable Large Language Models for the Cardiovascular Medicine") and is affiliated with the XplaiNLP group at TU Berlin as a Senior Researcher as well as with DFKI as a guest researcher.
+
+Personal website: https://nfelnlp.github.io/
