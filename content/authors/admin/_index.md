@@ -1,33 +1,33 @@
 ---
 # Display name
-title: Prof. Dr.-Ing. Sebastian Möller
+title: Dr.rer.nat. Vera Schmitt
 
 # Full Name (for SEO)
-first_name: Sebastian
-last_name: Möller
+first_name: Vera 
+last_name: Schmitt
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Quality and Usability
+role: Founder and Head of the XplaiNLP Group
 
 # Organizations/Affiliations
 organizations:
-  - name: Technische Universität Berlin
+  - name: Technical University Berlin/ German Research Center for Artificial Intelligence
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professor for Quality and Usability Lab at the Technische Universität Berlin
+bio: 
+  - Head of XplaiNLP Research Group at the Department of Electrical Engineering and Computer Science, Quality and Usability Lab, Technische Universität Berlin
+  - Guest Researcher at German Research Center for Artificial Intelligence (DFKI), Speech and Language Technology (SLT) group
 
 interests:
-  - Quality of voice and video transmissions and gaming
-  - User experience of voice-based and multimodal services
-  - Model-based prediction of quality and usability
-  - Multimodal and mobile interaction
-  - Virtual and Augmented Reality
-  - Speech signal processing and speech technology
-  - Usable security and privacy
+  - Natural Language Processing
+  - eXplainable Artificial Intelligence
+  - Human-Computer Interaction
+  - Intelligent Decision Support 
+  - Legal and Ethical Considerations
 
 education:
   courses:
@@ -76,8 +76,4 @@ user_groups:
   - Chair
 ---
 
-Sebastian Möller was born in 1968 and studied electrical engineering at the universities of Bochum, Orléans (France) and Bologna (Italy). From 1994 to 2005, he was a research associate and later a university lecturer at the Institute for Communication Acoustics (IKA) at Ruhr University Bochum, where he worked on speech signal transmission, speech technology and communication acoustics, as well as on aspects of the quality of speech-based systems. From 2005 to 2015, he worked at Telekom Innovation Laboratories, an affiliated institute of Technische Universität Berlin. In April 2007, he was appointed university professor in the field of "Quality and Usability" at TU Berlin. From 2015 to 2017 he was Vice Dean for Research of the Faculty of Electrical Engineering and Computer Science at TU Berlin, and from 2017 to 2019 Dean of this faculty. Since 2017, he has headed the research area "Speech and Language Technology" at the German Research Center for Artificial Intelligence, DFKI, as Scientific Director.
-
-Sebastian Möller received his PhD from Ruhr-Universität Bochum in 1999 with a thesis on the assessment and prediction of speech quality in communication technology systems. In 2000, he was a visiting scientist at the Institut dalle Molle d'Intélligence Artificielle Perceptive (IDIAP) in Martigny, Switzerland, working on the quality of speech recognition systems. He habilitated at the Faculty of Electrical Engineering and Information Technology at the Ruhr University Bochum in 2004 with a book on the quality of telephone-based speech dialog systems. In September 2008, he worked as a Visiting Fellow at MARCS Auditory Laboratories, University of Western Sydney (Australia) on the evaluation of avatars. In November 2011 he taught as Visiting Professor at Universidad de Granada (Spain), from February to April 2012 and from May to July 2014 he was Visiting Professor at Ben Gurion University of the Negev in Be'er Sheva (Israel), in October 2013 he was Visiting Professor at NTNU in Trondheim (Norway), and from 2012 to 2018 he was Adjunct Professor at the University of Canberra (Australia). Since 2018, he has been an Adjunct Professor at the University of Technology Sydney (Australia). His last book entitled "Quality Engineering" was published in 2010, and the book he co-edited "Quality of Experience: Advanced Concepts, Applications and Methods" in 2014.
-
-Sebastian Möller was awarded the GEERS Prize in 1998 for his interdisciplinary work on the analysis of infant cries for early detection of hearing impairment; he also received the ITG Prize of the VDE in 2001, the Lothar-Cremer Prize of the German Society for Acoustics (DEGA) in 2003, a Heisenberg Fellowship of the DFG in 2005, and the Johann Philipp Reis Prize in 2009. Since 1997, he has participated in the standardization activities of the International Telecommunication Union (ITU-T) on the topic of transmission quality of telephone networks, from 2001-2016 as rapporteur for question Q.8 /12 and since 2017 for question Q.15/12. Furthermore, he chaired the DEGA technical committee "Speech Acoustics" from 2009 to 2015, was a member of the board of ITG in VDE from 2015 to 2020, and has been a member of the board of the International Speech Communication Association, ISCA, from 2026 to 2023. Between 2021 and 2023, he served as a president to ISCA.
+Dr. Vera Schmitt build up and is leading the XplaiNLP group at the QUL, based on the aquired funding from third-party projects. With her group she is exploring core NLP topisc, xAI, HCI and legal aspects of AI systems in the domain of disinformation detection and medical data processing. Vera completed her undergraduate studies in Politics and Public Administration (B.A.) at the University of Konstanz. During this time, she developed a keen interest in statistics and co-founded CorrelAid, a non-profit community of data science enthusiasts. Afterward, she pursued her passion for data science by enrolling in a Master's program in Data Science at Leuphana University in Lüneburg. As a member of the ChangemakerXchange she actively contributed to projects of CorrelAid in various countries, including Malaysia, Japan, and Singapore. Following this, she started a Ph.D. at the Q&U Labe at the TU Berlin, concerning the topic of economic aspects of privacy. During her PhD, she aquired a BMBF research group funding (KI-Nachwuchsgruppen unter Leitung von Frauen) of 1.4 Million € to significantly extend her already existing group.
