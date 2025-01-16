@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Dr. Vera Schmitt
+title: Dr.-Ing. Lisa Raithel
 
 # Full name (for SEO)
-first_name: Vera
-last_name: Schmitt
+first_name: Lisa
+last_name: Raithel
 
 # Username (this should match the folder name)
 authors:
-  - Dr. Vera Schmitt
+  -  Dr.-Ing. Lisa Raithel
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,18 +18,19 @@ role: Head of XplaiNLP Research Group
 
 # Organizations/Affiliations
 organizations:
-  - name: Technische Universität Berlin
+  - name: Technical University Berlin, German Research Center for Artificial Intelligence
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-  - Head of XplaiNLP Research Group at the Department of Electrical Engineering and Computer Science, Quality and Usability Lab, Technische Universität Berlin
-  - Guest Researcher at German Research Center for Artificial Intelligence (DFKI), Speech and Language Technology (SLT) group
+  
 
 interests:
-  - Human-Computer Interaction
-  - Natural Language Processing
-  - Legal and Ethical Considerations
+    - Biomedical/clinical NLP, focusing on the patients' perspective
+    - Information Extraction
+    - Cross-lingual/cultural language modeling/analysis
+    - Handling of sensitive (user-generated) data, anonymization and data generation techniques
+    - Speculation detection / factuality assessment of health-related claims
 
 education:
   courses:
@@ -74,4 +75,8 @@ email: 'vera.schmitt(at)tu-berlin.de'
 user_groups:
   - Senior Researchers
 ---
-Dr. Vera Schmitt build up and is leading the XplaiNLP group at the QUL, based on the aquired funding from third-party projects. With her group she is exploring core NLP topisc, xAI, HCI and legal aspects of AI systems in the domain of disinformation detection and medical data processing. Vera completed her undergraduate studies in Politics and Public Administration (B.A.) at the University of Konstanz. During this time, she developed a keen interest in statistics and co-founded CorrelAid, a non-profit community of data science enthusiasts. Afterward, she pursued her passion for data science by enrolling in a Master's program in Data Science at Leuphana University in Lüneburg. As a member of the ChangemakerXchange she actively contributed to projects of CorrelAid in various countries, including Malaysia, Japan, and Singapore. Following this, she started a Ph.D. at the Q&U Labe at the TU Berlin, concerning the topic of economic aspects of privacy. During her PhD, she aquired a BMBF research group funding (KI-Nachwuchsgruppen unter Leitung von Frauen) of 1.4 Million € to significantly extend her already existing group.
+Dr.-Ing. Lisa Raithel completed her undergraduate studies in Computational Linguistics at Potsdam University (B.Sc.). She then pursued her master's degree in Cognitive Systems at Potsdam University, specializing in deep learning techniques for natural language processing. During her studies, Lisa gained experience in both academia and industry, including positions at the Leibniz-Centre General Linguistics (ZAS) and Yukka Lab AG. She conducted her master's thesis research at DFKI GmbH in Berlin, successfully completing it in 2019 (M.Sc.).
+
+After obtaining her master's degree, Lisa worked as a software engineer at Giance (now Unicepta) before transitioning back to academia for a double degree PhD program (cotutelle) at Technische Universität Berlin and Université Paris-Saclay under the supervision of Prof. Sebastian Möller and Pierre Zweigenbaum, Directeur de Recherche CNRS. Her doctoral research focused on cross-lingual information extraction for the detection of adverse drug reactions. During that time, Lisa spent one year at LISN in Orsay, France (2021 - 2022) and three months at the Social Computing Lab at NAIST in Nara, Japan (2023). In February 2024, she successfully defended her thesis at TU Berlin.
+
+Lisa is currently working as a post-doctoral researcher at TU Berlin / BIFOLD and is affiliated with the Speech- & Language Technology group of DFKI GmbH as a guest researcher. Her research interests continue to center on natural language processing and its applications in the healthcare domain.
