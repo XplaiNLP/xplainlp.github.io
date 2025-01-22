@@ -19,7 +19,7 @@ sections:
           - Guest-researchers & Partners
           - Research Assistants
       sort_by: Params.last_name
-      sort_ascending: git 
+      sort_ascending: true
     design:
       show_interests: false
       show_role: true
