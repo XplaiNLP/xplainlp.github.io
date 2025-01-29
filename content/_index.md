@@ -28,7 +28,9 @@ sections:
   - block: portfolio
     content:
       title: Research
-      subtitle: In the XplaiNLP Group, we create intelligent decision support systems (IDSS), by researching the whole cycle from developing and implementing large lansguage models, and designing user interfaces with human-meaningful representations of model outputs and metadata, by implementing eXplanations and transparency features from NLP-based predictions.
+      subtitle: Analyse linguistic patterns, extract information from text and assess models for comprehensibility and reliability
+      text: |
+        In the XplaiNLP Group, we create intelligent decision support systems (IDSS), by researching the whole cycle from developing and implementing large lansguage models, and designing user interfaces with human-meaningful representations of model outputs and metadata, by implementing eXplanations and transparency features from NLP-based predictions.
 
       filters:
         # Folders to display content from
