@@ -3,7 +3,11 @@ title: Mis- and Disinformation Detection
 date: 2020-12-01
 ---
 
-Create intelligent decision support systems (IDSS), by researching the whole cycle from developing and implementing large language models, and designing user interfaces with human-meaningful representations of model outputs and metadata, by implementing eXplanations and transparency features from NLP-based predictions.
+Develop and apply LLMs for fake news and hate speech detection.
+Develop and utilize knowledge bases with known fakes and facts.
+Utilise RAGs for supporting human fact-checking tasks.
+Factuality analysis of generated content for summarization or knowledge enrichment.
+
 <!--keep-->
 <!--three-->
 <!--blank lines-->

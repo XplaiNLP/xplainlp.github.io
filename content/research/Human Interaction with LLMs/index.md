@@ -1,9 +1,13 @@
 ---
-title: Mis- and Disinformation Detection
+title: Human Interaction with LLMs
 date: 2020-12-01
 ---
+Beyond fine-tuning LLMs for several use cases we also work on human interaction with LLMs to make the results useful for the above-mentioned use cases:
+Design and validate  IDSS for fake news detection.
+Implementation and validation of human-meaningful  eXplanations to improve transparency and trust in the system’s decisions.
+Legal requirement analysis based on AI Act, DSA, DA, and GDPR to comply with the legal obligations in the IDSS design and LLM implementation.
 
-Create intelligent decision support systems (IDSS), by researching the whole cycle from developing and implementing large language models, and designing user interfaces with human-meaningful representations of model outputs and metadata, by implementing eXplanations and transparency features from NLP-based predictions.
+
 <!--keep-->
 <!--three-->
 <!--blank lines-->

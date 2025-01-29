@@ -2,7 +2,6 @@
 title: 'Explainability of Large Language Model'
 
 authors:
-  - admin
 
 date: '2024-02-21'
 
@@ -21,8 +20,8 @@ image:
   focal_point: ''
   preview_only: false
 ---
-Development of explanations (such as post-hoc explanations, causal reasoning, and Chain-of-Thought Prompting) for transparent AI models
-Human-centered XAI is prioritized to develop explanations that can be personalized for user needs at different levels of abstraction and detail
+Development of explanations (such as post-hoc explanations, causal reasoning, and Chain-of-Thought Prompting) for transparent AI models.
+Human-centered XAI is prioritized to develop explanations that can be personalized for user needs at different levels of abstraction and detail.
 Development of methods to verify model faithfulness, ensuring that explanations or predictions accurately reflect the actual internal decision-making process.
 <!--keep-->
 <!--three-->

@@ -2,7 +2,6 @@
 title: "Medical Data and Privacy"
 
 authors:
-- admin
 
 date: "2015-09-01T00:00:00Z"
 
@@ -21,5 +20,5 @@ url_slides: ''
 url_source: ''
 url_video: ''
 ---
-Develop and utilise LLMs for proper anonymization of text-based medical records for open-source publishing
-LLM-based text anonymization of text data for various sensitive use cases for open-source publishing
+Develop and utilise LLMs for proper anonymization of text-based medical records for open-source publishing.
+LLM-based text anonymization of text data for various sensitive use cases for open-source publishing.

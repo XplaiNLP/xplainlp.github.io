@@ -12,8 +12,9 @@ sections:
           XplaiNLP Research Group
         </div>
         <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh;">
-          <span style="color: #DCDCDC; font-size: 1rem;">
-          Advancing Natural Language Processing at the Quality and Usability Lab, Technische Universität Berlin.
+          <span style="color:rgba(150, 148, 148, 0.87); font-size: 1rem;">
+          NLP Research Group at the Quality and Usability Lab,
+          Technische Universität Berlin
           </span>
         </div>
     design:
@@ -27,7 +28,7 @@ sections:
   - block: portfolio
     content:
       title: Research
-      subtitle: Our mission is to advance the field of Natural Language Processing through explainable and user-centric approaches. We focus on developing transparent, efficient, and practical NLP solutions that bridge the gap between complex language models and human understanding.
+      subtitle: In the XplaiNLP Group, we create intelligent decision support systems (IDSS), by researching the whole cycle from developing and implementing large lansguage models, and designing user interfaces with human-meaningful representations of model outputs and metadata, by implementing eXplanations and transparency features from NLP-based predictions.
 
       filters:
         # Folders to display content from
@@ -38,7 +39,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: News
       subtitle:
       text:
       count: 5
@@ -59,6 +60,7 @@ sections:
     content:
       title: Projects
       text: |
+        ## Running
         ### [NEWS-POLYGRAPH](https://news-polygraph.com/)
         Verification and Extraction of Disinformation Narratives with Individualized Explanations
         ### [VERANDA](https://www.tu.berlin/qu/forschung/laufende-vergangene-projekte/laufende-projekte/veranda)
@@ -66,9 +68,23 @@ sections:
         ### [VeraXtract](https://www.tu.berlin/en/qu/research/current-past-projects/laufende-projekte/veraxtract)
         Verification and Extraction of Disinformation Narratives with Individualized Explanations
 
+        ## Past
+        ### [ateSDG](https://www.tu.berlin/en/qu/forschung/laufende-vergangene-projekte/laufende-projekte/atesdg)
+        ### [DFG-project LocTrace](https://www.tu.berlin/en/qu/research/current-past-projects/past-projects/monetary-valuation-of-location-information)
+    design:
+      columns: '2'
+
+  - block: markdown
+    content:
+      title: Teaching
+      text: |
+        ### [Natural Language Processing (Summer Term)](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=41047&version=1&sprache=2)
+        ### Privacy Seminar (Summer Term)
+        ### Advanced Study Projects (Summer and Winter Term)
 
     design:
       columns: '2'
+
 
   - block: markdown
     content:

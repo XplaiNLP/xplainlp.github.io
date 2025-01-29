@@ -29,18 +29,6 @@ interests:
   - Intelligent Decision Support 
   - Legal and Ethical Considerations
 
-education:
-  courses:
-    - course: PhD in
-      institution: Stanford University
-      year: 2012
-    - course: MEng in 
-      institution: 
-      year: 2009
-    - course: BSc in 
-      institution: s
-      year: 2008
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -68,7 +56,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
