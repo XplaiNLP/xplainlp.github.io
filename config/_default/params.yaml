@@ -7,19 +7,17 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
-  font: native
-  font_size: L
+  font: my_font_set
+  font_size: M
 
 # SEO
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Research Lab
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    description: 'XplaiNLP Research Group at Quality and Usability Lab, Technische Universität Berlin.'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -37,7 +35,7 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: false
 
