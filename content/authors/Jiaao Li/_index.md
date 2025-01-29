@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Student Researcher
 
 # Organizations/Affiliations
 organizations:

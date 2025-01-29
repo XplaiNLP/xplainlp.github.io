@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Ariana Sahitaj
+title: Yoana Tsoneva
 
 # Full name (for SEO)
-first_name: Ariana
-last_name: Sahitaj
+first_name: Yoana
+last_name: Tsoneva
 
 # Username (this should match the folder name)
 authors:
-  - Ariana Sahitaj
+  - Yoana Tsoneva
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Student Researcher
 
 # Organizations/Affiliations
 organizations:

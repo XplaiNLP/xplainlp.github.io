@@ -5,7 +5,7 @@ name = "my_font_set"
 google_fonts = "family=Grandiflora+One&display=swap&family=Scope+One&display=swap&family=M+PLUS+1p"
 
 # Font families
-heading_font = "Scope One"
+heading_font = "M PLUS 1p"
 body_font = "M PLUS 1p"
 nav_font = "Scope One"
 mono_font = "Grandiflora One"
