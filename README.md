@@ -1,6 +1,7 @@
 # Quality and Usability Lab
 
 [Hugoblox|Docs](https://bootstrap.hugoblox.com)
+[Hugo Site Customization](https://bootstrap.hugoblox.com/getting-started/customization/)
 
 ## Updating Information in This Repository
 
