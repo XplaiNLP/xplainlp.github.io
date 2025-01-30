@@ -1,5 +1,6 @@
 ---
 title: 'Explainability of Large Language Model'
+subtitle: ''
 
 authors:
 
@@ -23,7 +24,12 @@ image:
 Development of explanations (such as post-hoc explanations, causal reasoning, and Chain-of-Thought Prompting) for transparent AI models.
 Human-centered XAI is prioritized to develop explanations that can be personalized for user needs at different levels of abstraction and detail.
 Development of methods to verify model faithfulness, ensuring that explanations or predictions accurately reflect the actual internal decision-making process.
+{style="color: grey"}
 <!--keep-->
 <!--three-->
 <!--blank lines-->
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+* Wang, Qianli, et al. "Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem." arXiv preprint arXiv:2409.07123 (2024).
+
+* Villa-Arenas, Luis Felipe, et al. "Anchored Alignment for Self-Explanations Enhancement." arXiv preprint arXiv:2410.13216 (2024).
+
+* Wang, Qianli, et al. "FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation." arXiv preprint arXiv:2501.00777 (2025).
