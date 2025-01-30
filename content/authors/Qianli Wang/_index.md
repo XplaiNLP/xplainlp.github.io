@@ -23,13 +23,12 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-  - Head of XplaiNLP Research Group at the Department of Electrical Engineering and Computer Science, Quality and Usability Lab, Technische Universität Berlin
-  - Guest Researcher at German Research Center for Artificial Intelligence (DFKI), Speech and Language Technology (SLT) group
-
+  - PhD Candidate
 interests:
-  - Human-Computer Interaction
-  - Natural Language Processing
-  - Legal and Ethical Considerations
+  - Post-hoc explanations (counterfactual generation, rationale generation etc.)
+  - Interactive conversational XAI systems
+  - Evaluation of text generation
+  - Data-centric interpretability
 
 education:
   courses:
@@ -67,11 +66,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'vera.schmitt(at)tu-berlin.de'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
 ---
-Dr. Vera Schmitt build up and is leading the XplaiNLP group at the QUL, based on the aquired funding from third-party projects. With her group she is exploring core NLP topisc, xAI, HCI and legal aspects of AI systems in the domain of disinformation detection and medical data processing. Vera completed her undergraduate studies in Politics and Public Administration (B.A.) at the University of Konstanz. During this time, she developed a keen interest in statistics and co-founded CorrelAid, a non-profit community of data science enthusiasts. Afterward, she pursued her passion for data science by enrolling in a Master's program in Data Science at Leuphana University in Lüneburg. As a member of the ChangemakerXchange she actively contributed to projects of CorrelAid in various countries, including Malaysia, Japan, and Singapore. Following this, she started a Ph.D. at the Q&U Labe at the TU Berlin, concerning the topic of economic aspects of privacy. During her PhD, she aquired a BMBF research group funding (KI-Nachwuchsgruppen unter Leitung von Frauen) of 1.4 Million € to significantly extend her already existing group.
+Qianli Wang completed his undergraduate studies(B.Sc.) in Computer Science at Freie Universität Berlin in 2021. He then pursued a graduate program (M.Sc.) in Computer Science at Technische Universität Berlin. During this time, he worked as a student research assistant at the SLT group, DFKI with a focus on interactive dialogue-based explanation, where he also wrote his master's thesis, titled "A Singular LLM is All You Need for Dialogue-Based Explanation Regarding NLP Tasks," in collaboration with TU Berlin in 2023.
+
+Currently, he is working as a doctoral researcher at the QU Lab in the XplaiNLP group, TU Berlin and affiliated with the SLT group of DFKI as a guest researcher, focusing on the explainability and interpretability of LLMs.

@@ -23,25 +23,15 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-  - Head of XplaiNLP Research Group at the Department of Electrical Engineering and Computer Science, Quality and Usability Lab, Technische Universität Berlin
-  - Guest Researcher at German Research Center for Artificial Intelligence (DFKI), Speech and Language Technology (SLT) group
+  #- Senior Researcher
+  #- Guest Researcher at German Research Center for Artificial Intelligence (DFKI)
 
 interests:
-  - Human-Computer Interaction
-  - Natural Language Processing
-  - Legal and Ethical Considerations
+  - Natural language explanation generation
+  - Large language model tuning/prompting
+  - Synthetic text evaluation
+  - Human preference study on text  generation
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -67,11 +57,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'vera.schmitt(at)tu-berlin.de'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Senior Researchers
 ---
-Dr. Vera Schmitt build up and is leading the XplaiNLP group at the QUL, based on the aquired funding from third-party projects. With her group she is exploring core NLP topisc, xAI, HCI and legal aspects of AI systems in the domain of disinformation detection and medical data processing. Vera completed her undergraduate studies in Politics and Public Administration (B.A.) at the University of Konstanz. During this time, she developed a keen interest in statistics and co-founded CorrelAid, a non-profit community of data science enthusiasts. Afterward, she pursued her passion for data science by enrolling in a Master's program in Data Science at Leuphana University in Lüneburg. As a member of the ChangemakerXchange she actively contributed to projects of CorrelAid in various countries, including Malaysia, Japan, and Singapore. Following this, she started a Ph.D. at the Q&U Labe at the TU Berlin, concerning the topic of economic aspects of privacy. During her PhD, she aquired a BMBF research group funding (KI-Nachwuchsgruppen unter Leitung von Frauen) of 1.4 Million € to significantly extend her already existing group.
+Jing Yang completed her Bachelor’s degree in Information and Computing Science at the Hubei University of Technology in China, followed by a Master’s degree in Computer Science at Hunan University, China. Her Master’s dissertation is related to identifying 3D printed objects and printers with Digital Forensics and Machine Learning. After obtaining her Master’s degree in 2019, Jing pursued her PhD at the RECOD.ai lab from the University of Campinas in Brazil, under the supervision of Prof. Anderson Rocha. During 2022-2023, Jing did a research internship at the Ubiquitous Knowledge Processing lab in TU Darmstadt. Her PhD thesis is related to improving fact-checking efficiency and explainability with few-shot learning and large language models. Jing is currently working as a post-doc researcher at TU Berlin, focusing on topics related to generating natural language languages for AI-based disinformation detection.

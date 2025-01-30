@@ -23,25 +23,12 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-  - Head of XplaiNLP Research Group at the Department of Electrical Engineering and Computer Science, Quality and Usability Lab, Technische Universität Berlin
-  - Guest Researcher at German Research Center for Artificial Intelligence (DFKI), Speech and Language Technology (SLT) group
-
+  - PhD Candidate
 interests:
-  - Human-Computer Interaction
-  - Natural Language Processing
-  - Legal and Ethical Considerations
-
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - (Privacy-preserving) Machine Learning
+  - Data Utility Preservation After De-Identification
+  - (AI-based) Pseudonymization and Anonymization
+  - Information Extraction
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -67,11 +54,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'vera.schmitt(at)tu-berlin.de'
+email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
 ---
-Dr. Vera Schmitt build up and is leading the XplaiNLP group at the QUL, based on the aquired funding from third-party projects. With her group she is exploring core NLP topisc, xAI, HCI and legal aspects of AI systems in the domain of disinformation detection and medical data processing. Vera completed her undergraduate studies in Politics and Public Administration (B.A.) at the University of Konstanz. During this time, she developed a keen interest in statistics and co-founded CorrelAid, a non-profit community of data science enthusiasts. Afterward, she pursued her passion for data science by enrolling in a Master's program in Data Science at Leuphana University in Lüneburg. As a member of the ChangemakerXchange she actively contributed to projects of CorrelAid in various countries, including Malaysia, Japan, and Singapore. Following this, she started a Ph.D. at the Q&U Labe at the TU Berlin, concerning the topic of economic aspects of privacy. During her PhD, she aquired a BMBF research group funding (KI-Nachwuchsgruppen unter Leitung von Frauen) of 1.4 Million € to significantly extend her already existing group.
+Ibrahim Baroud studied Computer Science (B.Sc.) at the Technical University of Berlin. During his Bachelor’s studies, he worked as a research assistant at the Charité – Berlin University Medicine, where he submitted his Bachelor’s thesis entitled Detection and Analysis of Inconsistency in Patient-Reported Outcomes Measurement Information System (PROMIS). He also holds a Master’s degree (M.Sc.) from the Technical University of Berlin. Meanwhile, he worked at the German Research Center for Artificial Intelligence (DFKI), where he completed his Master’s thesis on dealing with offensive language for automatic joke generation. In September 2023, he joined the Q&U Lab as a researcher and PhD student studying the effect of various de-identification techniques on clinical data’s utility and robustness against privacy attacks.
