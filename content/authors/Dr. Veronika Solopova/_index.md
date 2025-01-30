@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Head of XplaiNLP Research Group
+role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
