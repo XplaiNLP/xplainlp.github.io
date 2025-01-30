@@ -13,7 +13,7 @@ sections:
         </div>
         <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh;">
           <span style="color: #DCDCDC; font-size: 1rem;">
-          In the XplaiNLP Group, we create intelligent decision support systems (IDSS), by researching the whole cycle from developing and implementing large lansguage models, and designing user interfaces with human-meaningful representations of model outputs and metadata, by implementing eXplanations and transparency features from NLP-based predictions.
+          XplaiNLP: Advancing Transparent and Trustworthy AI for Decision Support in High-Stakes Domains
           </span>
         </div>
     design:
@@ -28,9 +28,6 @@ sections:
     content:
       title: Applications
       text: |
-        Although we are always looking for highly motivated and talented researchers, we get far more applications than we have positions available. 
-        If you’d like to join our team, please check the following for open positions:
-
         ### Research Assistant and Scholarship (d/m/f)
         We are currently looking for talented postdocs! Please check this [website](https://www.tu.berlin/en/qu/about-us/job-offers) for open positions.
 
