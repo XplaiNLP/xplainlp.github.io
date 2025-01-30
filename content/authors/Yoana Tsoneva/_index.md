@@ -23,7 +23,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-  - Student Researcher
 
 interests:
   - Human-Computer Interaction

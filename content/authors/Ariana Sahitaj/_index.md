@@ -23,9 +23,9 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-  - Student Researcher
 
 interests:
+  - Natural Language Processing
 
 
 # Social/Academic Networking

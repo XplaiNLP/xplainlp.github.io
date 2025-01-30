@@ -23,7 +23,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-  - PhD Candidate
 
 interests:
   - Fake News Detection
