@@ -140,37 +140,29 @@ sections:
         </div>
 
         ## Research Networks
-        - [CERTAIN](https://www.certain-trust.eu/)
-        - [AI4Media](https://www.ai4media.eu/)
-        - [AI-GRID](https://www.ai-grid.eu/)
-  
-    design:
-      columns: '2'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
         <div style="display: flex; gap: 20px;">
 
         <div style="flex: 1;">
-  
-        ### Academic Partnerships in Tübingen
-        - [TÜ AI Center](#)
+
+        - [CERTAIN](https://www.certain-trust.eu/)
+
         </div>
 
         <div style="flex: 1;">
 
-        ### PhD programs
-        - [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](#)
+        - [AI4Media](https://www.ai4media.eu/)
 
-        ### Spin-offs
-        - Maddox AI (founded by Matthias Bethge, Wieland Brendel, Peter Droege, Alexander Ecker & Behar Veliqi)
+        </div>
+
+        <div style="flex: 1;">
+
+        - [AI-GRID](https://www.ai-grid.eu/)
 
         </div>
 
         </div>
+  
     design:
-      columns: '1'
+      columns: '2'
 ---
