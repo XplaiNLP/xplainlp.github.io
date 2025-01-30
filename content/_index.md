@@ -95,17 +95,55 @@ sections:
       title: Partnerships
       text: |
         ## Academic Partnerships
-        * Quality and Usability Lab, TU Berlin
-        * Berlin Institute for the Foundations of Learning and Data (BIFOLD)
-        * Einstein Center Digital Future (ECDF)
+        <div style="display: flex; gap: 20px;">
+
+        <div style="flex: 1;">
+
+        - [Quality and Usability Lab, TU Berlin](https://www.tu.berlin/qu)
+        - [Berlin Institute for the Foundations of Learning and Data (BIFOLD)](https://www.bifold.berlin)
+        - [Einstein Center Digital Future (ECDF)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.digital-future.berlin/&ved=2ahUKEwjXj6b_252LAxXlSvEDHZIUKl4QFnoECBAQAQ&usg=AOvVaw0tcYQGq7jghqPvw4fGUbht)
+
+        </div>
+
+        <div style="flex: 1;">
+
+        - [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/web/dfki/en)
+        - Fraunhofer [IDMT](https://www.idmt.fraunhofer.de) / [AISEC](https://www.aisec.fraunhofer.de/)
+        - [BIH/IfSS](https://www.bih-ifss.de/)
+        - [Charité](https://www.charite.de/)
+
+        </div>
+        </div>
+
 
         ## Industry Collaborations
-        * Tech Innovation Hub Berlin
-        * Language AI Research Consortium
+        <div style="display: flex; gap: 20px;">
+
+        <div style="flex: 1;">
+
+        - [Deutsche Welle (DW)](https://www.dw.com/en)
+        - [Rundfunk Berlin-Brandenburg (RBB)](https://www.rbb-online.de/)
+        - [Deutsche Presse-Agentur (dpa)](https://www.dpa.com/)
+        - [Ubermetrics Technology GmbH](https://www.ubermetrics.de/)
+
+        </div>
+
+        <div style="flex: 1;">
+
+        - [INTAPP GmbH](https://www.intapp.de/)
+        - [Transfermedia GmbH](https://www.transfermedia.de/)
+        - [Crowdee GmbH](https://www.crowdee.de/)
+        - [AI Berlin](https://www.ai-berlin.de/)
+
+        </div>
+
+        </div>
 
         ## Research Networks
-        * European Association for NLP
-        * German Research Network for AI
+        - [CERTAIN](https://www.certain-trust.eu/)
+        - [AI4Media](https://www.ai4media.eu/)
+        - [AI-GRID](https://www.ai-grid.eu/)
+  
     design:
       columns: '2'
 
@@ -114,7 +152,25 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        <div style="display: flex; gap: 20px;">
+
+        <div style="flex: 1;">
+  
+        ### Academic Partnerships in Tübingen
+        - [TÜ AI Center](#)
+        </div>
+
+        <div style="flex: 1;">
+
+        ### PhD programs
+        - [International Max Planck Research School for Intelligent Systems (IMPRS-IS)](#)
+
+        ### Spin-offs
+        - Maddox AI (founded by Matthias Bethge, Wieland Brendel, Peter Droege, Alexander Ecker & Behar Veliqi)
+
+        </div>
+
+        </div>
     design:
       columns: '1'
 ---
