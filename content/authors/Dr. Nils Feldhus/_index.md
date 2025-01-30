@@ -23,8 +23,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-  - Senior Researcher
-  - Guest Researcher at German Research Center for Artificial Intelligence (DFKI)
+  # - Senior Researcher
+  #- Guest Researcher at German Research Center for Artificial Intelligence (DFKI)
 
 interests:
   - Interpretability and Analysis of NLP Models

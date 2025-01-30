@@ -75,7 +75,7 @@ sections:
       title: News
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
@@ -84,7 +84,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: news
     design:
       view: compact
       columns: '2'
