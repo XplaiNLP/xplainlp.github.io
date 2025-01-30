@@ -1,4 +1,4 @@
-# Quality and Usability Lab
+# XplaiNLP Research Group
 
 [Hugoblox|Docs](https://bootstrap.hugoblox.com)
 [Hugo Site Customization](https://bootstrap.hugoblox.com/getting-started/customization/)
