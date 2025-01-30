@@ -13,7 +13,7 @@ sections:
         </div>
         <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh;">
           <span style="color: #DCDCDC; font-size: 1rem;">
-          Our mission is to advance the field of Natural Language Processing through explainable and user-centric approaches. We focus on developing transparent, efficient, and practical NLP solutions that bridge the gap between complex language models and human understanding.
+          In the XplaiNLP Group, we create intelligent decision support systems (IDSS), by researching the whole cycle from developing and implementing large lansguage models, and designing user interfaces with human-meaningful representations of model outputs and metadata, by implementing eXplanations and transparency features from NLP-based predictions.
           </span>
         </div>
     design:
@@ -28,30 +28,32 @@ sections:
     content:
       title: Applications
       text: |
-        Although we are always looking for highly motivated and talented researchers, we get far more applications than we have positions available. If you’d like to join our team, please do not send your applications via email but see the following:
+        Although we are always looking for highly motivated and talented researchers, we get far more applications than we have positions available. 
+        If you’d like to join our team, please check the following for open positions:
 
-        #### Postdocs
-        Leading researches that
+        ### Research Assistant and Scholarship (d/m/f)
+        We are currently looking for talented postdocs! Please check this [website](https://www.tu.berlin/en/qu/about-us/job-offers) for open positions.
 
-        #### PhD students
-        We are always looking for talented PhD student candidates
+        ### Student Assistant:
+        * Studentische Hilfskraft 80 Monatsstunden ("Medinym", deadline 09.01.2025) [TUB-Stellenticket](https://www.jobs.tu-berlin.de/stellenausschreibungen/190255)
+        * Studentische Hilfskraft 60/80 Monatsstunden (Natural Language Processing) [download via TUB-Cloud](https://tubcloud.tu-berlin.de/s/CbbBDQFK8DkbzKy)
+        * Studentische Hilfskraft bis 80 Monatsstunden (Cross-topics incl. web design, social media, MVP creation and testing, deadline 31.01.2025) [via DFKI](https://jobs.dfki.de/ausschreibung/studentische-hilfskraft-mwdx-fr-20hwoche-575928.html)
+        * Studentische Hilfskraft bis 80 Monatsstunden (NLP/LLMs/RAGs for fact-checking, deadline 31.01.2025) [via DFKI](https://jobs.dfki.de/ausschreibung/studentische-hilfskraft-mwdx-fr-20hwoche-575990.html)
+        * Studentische Hilfskraft bis 80 Monatsstunden (AI generated image detection, deadline 31.01.2025) [via DFKI](https://jobs.dfki.de/ausschreibung/studentische-hilfkraft-mwdx-fr-ai-generated-image-detection-20hwoche--575968.html)
 
-        #### Internships, Lab Rotations, Bachelor or Master Thesis
-        As we get many requests, we can evaluate only a small fraction carefully. Generally, you should not expect a response. You can increase the chances of your application by carefully answering our ...
-
-        #### Questions
-        If you have questions regarding applications, please contact ...
+        ### Bachelor or Master Thesis
+        We are always looking for talented students for Bachelor or Master Thesis. Please check the [website](https://www.tu.berlin/en/qu/study-and-teaching/theses) for more information.
     design:
       columns: '2'
       spacing:
         padding: ['20px', '0', '20px', '0']
+  
   - block: contact
     content:
       title: Contact
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+      text: |
+      email: sekretariat(at)qu.tu-berlin.de
+      phone: 
       address:
         street: Ernst-Reuter-Platz 7
         city: Berlin
