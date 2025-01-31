@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Nils Feldhus
+title: Nils Feldhus
 
 # Full name (for SEO)
 first_name: Nils
@@ -8,7 +8,7 @@ last_name: Feldhus
 
 # Username (this should match the folder name)
 authors:
-  - Dr. Nils Feldhus
+  - Nils Feldhus
 
 # Is this the primary user of the site?
 superuser: false
