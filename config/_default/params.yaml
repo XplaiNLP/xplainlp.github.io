@@ -10,6 +10,10 @@ appearance:
   font: my_font_set
   font_size: M
 
+ui:
+  dark_mode: "auto"  # Automatically applies dark mode based on user's system preferences
+  dark_mode_toggle: true  # Displays a toggle button for manual switching
+
 # SEO
 
 marketing:
