@@ -9,7 +9,7 @@ authors:
     - admin
     - Charlott Jakob
     - Salar Mohtaj
-    - admin
+    - Vera Schmitt
     - Sebastian Möller
 # Author notes (optional)
 author_notes: 
