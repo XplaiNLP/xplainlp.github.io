@@ -5,7 +5,7 @@ authors:
     - admin
 ---
 
-Last Friday, I was thrilled to participate in an intriguing panel discussion with Alexandra Geese, Jörg Müller, Patrick Stegemann, Moritz Demmig and Dr. David Biesinger moderated by Jörg Thadeusz at the rooftop lounge (Studio 14) at Rundfunk Berlin-Brandenburg! 
+Last Friday, Vera participated in an intriguing panel discussion with Alexandra Geese, Jörg Müller, Patrick Stegemann, Moritz Demmig and Dr. David Biesinger moderated by Jörg Thadeusz at the rooftop lounge (Studio 14) at Rundfunk Berlin-Brandenburg! 
 
 <!--more-->
 
