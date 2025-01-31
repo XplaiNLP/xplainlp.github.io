@@ -7,8 +7,8 @@ subtitle: 'Qianli Wang, Nils Feldhus, Simon Ostermann, Luis Felipe Villa-Arenas,
 # and it will be replaced with their full name and linked to their profile.
 authors:
     - Qianli Wang
-    - Dr. Nils Feldhus
-    - admin
+    - Nils Feldhus
+    - Vera Schmitt
 # Author notes (optional)
 author_notes: 
 
