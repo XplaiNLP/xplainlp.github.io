@@ -29,7 +29,7 @@ sections:
       title: Applications
       text: |
         ### Research Assistant and Scholarship (d/m/f)
-        We continously looking for talented PhDs and student researchers - please check our website [website](https://www.tu.berlin/en/qu/about-us/job-offers) for open positions.
+        We continously looking for talented PhDs and student researchers - please check our [website](https://www.tu.berlin/en/qu/about-us/job-offers) for open positions.
 
         ### Student Assistant:
         * Studentische Hilfskraft 80 Monatsstunden ("Medinym", deadline 09.01.2025) [TUB-Stellenticket](https://www.jobs.tu-berlin.de/stellenausschreibungen/190255)
@@ -49,7 +49,6 @@ sections:
       phone: 
       address:
         street: Marchstraße 23
-        city: Berlin
         region: Berlin
         postcode: '10587'
         country: Germany
