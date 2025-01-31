@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: dark
   font: my_font_set
   font_size: M
 
