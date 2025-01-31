@@ -29,14 +29,10 @@ sections:
       title: Applications
       text: |
         ### Research Assistant and Scholarship (d/m/f)
-        We are currently looking for talented postdocs! Please check this [website](https://www.tu.berlin/en/qu/about-us/job-offers) for open positions.
+        We continously looking for talented PhDs and student researchers - please check our website [website](https://www.tu.berlin/en/qu/about-us/job-offers) for open positions.
 
         ### Student Assistant:
         * Studentische Hilfskraft 80 Monatsstunden ("Medinym", deadline 09.01.2025) [TUB-Stellenticket](https://www.jobs.tu-berlin.de/stellenausschreibungen/190255)
-        * Studentische Hilfskraft 60/80 Monatsstunden (Natural Language Processing) [download via TUB-Cloud](https://tubcloud.tu-berlin.de/s/CbbBDQFK8DkbzKy)
-        * Studentische Hilfskraft bis 80 Monatsstunden (Cross-topics incl. web design, social media, MVP creation and testing, deadline 31.01.2025) [via DFKI](https://jobs.dfki.de/ausschreibung/studentische-hilfskraft-mwdx-fr-20hwoche-575928.html)
-        * Studentische Hilfskraft bis 80 Monatsstunden (NLP/LLMs/RAGs for fact-checking, deadline 31.01.2025) [via DFKI](https://jobs.dfki.de/ausschreibung/studentische-hilfskraft-mwdx-fr-20hwoche-575990.html)
-        * Studentische Hilfskraft bis 80 Monatsstunden (AI generated image detection, deadline 31.01.2025) [via DFKI](https://jobs.dfki.de/ausschreibung/studentische-hilfkraft-mwdx-fr-ai-generated-image-detection-20hwoche--575968.html)
 
         ### Bachelor or Master Thesis
         We are always looking for talented students for Bachelor or Master Thesis. Please check the [website](https://www.tu.berlin/en/qu/study-and-teaching/theses) for more information.
