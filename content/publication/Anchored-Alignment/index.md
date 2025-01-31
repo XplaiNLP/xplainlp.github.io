@@ -6,7 +6,7 @@ authors:
   - Ata Nizamoglu
   - Qianli Wang
   - Sebastian Möller
-  - admin
+  - Vera Schmitt
 
 # 17 Oct 2024
 date: "2024-10-17T00:00:00Z"
