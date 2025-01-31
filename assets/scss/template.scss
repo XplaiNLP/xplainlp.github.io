@@ -7,3 +7,27 @@
 .cta-group {
   justify-content: center;
 }
+
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+}
+
+[data-theme="dark"] {
+  --bg-color: #121212;
+  --text-color: #ffffff;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+// Style the dark mode toggle button
+#dark-mode-toggle {
+  cursor: pointer;
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  margin-left: 10px;
+}
