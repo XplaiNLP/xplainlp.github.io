@@ -49,21 +49,18 @@ sections:
     content:
       title: Contact
       text: |
-      email: sekretariat(at)qu.tu-berlin.de
+      email: contact Vera Schmitt
       phone: 
       address:
-        street: Ernst-Reuter-Platz 7
+        street: Marchstraße 23
         city: Berlin
         region: Berlin
         postcode: '10587'
         country: Germany
         country_code: DE
       coordinates:
-        latitude: '52.512779'
-        longitude: '13.320082'
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        latitude: '52.5166418239938'
+        longitude: '13.323748906836089'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
