@@ -16,6 +16,8 @@ superuser: false
 # Role/position
 role: Senior Researcher
 
+weight: 1
+
 # Organizations/Affiliations
 organizations:
   - name: Technische Universität Berlin
