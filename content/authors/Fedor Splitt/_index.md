@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yoana Tsoneva
+title: Fedor Splitt
 
 # Full name (for SEO)
 first_name: Fedor 
