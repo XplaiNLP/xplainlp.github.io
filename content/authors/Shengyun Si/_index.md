@@ -63,5 +63,5 @@ email: ''
 user_groups:
   - Researchers
 ---
-...
+Will join the group soon...
 
