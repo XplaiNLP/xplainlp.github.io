@@ -1,14 +1,15 @@
 ---
-title: 'Multi-Task Learning'
-subtitle: 'Qianli Wang, Nils Feldhus, Simon Ostermann, Luis Felipe Villa-Arenas, Sebastian Möller, Vera Schmitt'
+title: 'Multi-Task Learning for German Text Readability'
+subtitle: 'Salar Mohtaj, Vera Schmitt, Razieh Khamsehashari, Sebastian Möller'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-    - Qianli Wang
-    - Nils Feldhus
+    - Salar Mohtaj
     - Vera Schmitt
+    - Razieh Khamsehashari
+    - Sebastian Möller
 # Author notes (optional)
 author_notes: 
 
