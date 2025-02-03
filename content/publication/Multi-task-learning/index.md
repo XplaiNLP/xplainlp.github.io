@@ -28,7 +28,7 @@ publication_types: ['paper-conference']
 publication: In *COLING 2025*
 publication_short: In *COLING 2025*
 
-abstract: ...
+abstract: Automated text readability assessment is the process of assigning a number to the level of difficulty of a piece of textautomatically. Machine learning and natural language processing techniques made it possible to measure the readability andcomplexity of the fast-growing textual content on the web. In this paper, we proposed a multi-task learning approach topredict the readability of German text based on pre-trained models. The proposed multi-task model has been trained on threetasks: text complexity, understandability, and lexical difficulty assessment. The results show a significant improvement in themodel’s performance in the multi-task learning setting compared to single-task learning, where each model has been trainedseparately for each task.
 # Summary. An optional shortened abstract.
 summary: 
 
