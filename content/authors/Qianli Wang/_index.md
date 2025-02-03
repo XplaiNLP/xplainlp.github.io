@@ -16,6 +16,8 @@ superuser: false
 # Role/position
 role: PhD Candidate
 
+weight: 3
+
 # Organizations/Affiliations
 organizations:
   - name: Technische Universität Berlin
