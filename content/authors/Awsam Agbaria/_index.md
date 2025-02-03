@@ -61,4 +61,4 @@ email: ''
 user_groups:
   - Research Assistants
 ---
-
+Will join the group soon...
