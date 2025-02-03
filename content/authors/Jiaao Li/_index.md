@@ -16,6 +16,8 @@ superuser: false
 # Role/position
 role: Student Researcher
 
+weight: 3
+
 # Organizations/Affiliations
 organizations:
   - name: Technische Universität Berlin
