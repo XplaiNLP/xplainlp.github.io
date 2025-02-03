@@ -18,7 +18,8 @@ sections:
           - Researchers
           - Guest-researchers & Partners
           - Research Assistants
-      sort_by: Params.last_name
+      <!-- sort_by: Params.last_name -->
+      sort_by: weight
       sort_ascending: true
       
     design:
