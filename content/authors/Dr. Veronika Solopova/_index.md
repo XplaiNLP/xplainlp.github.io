@@ -16,6 +16,8 @@ superuser: true
 # Role/position
 role: Senior Researcher
 
+weight: 3
+
 # Organizations/Affiliations
 organizations:
   - name: Technical University Berlin, German Research Center for Artificial Intelligence
