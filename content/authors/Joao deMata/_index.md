@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Joao deMata
+title: João da Mata
 
 # Full name (for SEO)
-first_name: Joao  
-last_name: deMata
+first_name: João 
+last_name: da Mata  
 
 # Username (this should match the folder name)
 authors:
-  - Joao deMata
+  - João da Mata
 
 # Is this the primary user of the site?
 superuser: false
