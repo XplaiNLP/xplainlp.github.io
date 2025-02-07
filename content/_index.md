@@ -13,8 +13,10 @@ sections:
         </div>
         <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh;">
           <span style="color:rgba(150, 148, 148, 0.87); font-size: 1rem;">
-          NLP Research Group at the Quality and Usability Lab,
-          Technische Universität Berlin
+          NLP Research Group at the <a href="https://www.tu.berlin/en/qu" target="_blank">Quality and Usability Lab, TU Berlin</a> and <a href="https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology" target="_blank">SLT at DFKI</a>,
+
+
+https://www.dfki.de/web/forschung/forschungsbereiche/speech-and-language-technology
           </span>
         </div>
     design:
