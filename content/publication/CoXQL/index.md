@@ -7,7 +7,6 @@ authors:
   - Nils Feldhus
   - Simon Ostermann
   - Sebastian Möller
-  - Vera Schmitt
 date: "2024-09-11T00:00:00Z"
 doi: ""
 
