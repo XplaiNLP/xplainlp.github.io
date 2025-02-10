@@ -8,6 +8,9 @@ subtitle: 'Qianli Wang, Nils Feldhus, Simon Ostermann, Luis Felipe Villa-Arenas,
 authors:
     - Qianli Wang
     - Nils Feldhus
+    - Simon Ostermann
+    - Luis Felipe Villa-Arenas
+    - Sebastian Möller
     - Vera Schmitt
 # Author notes (optional)
 author_notes: 
@@ -21,11 +24,11 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['preprint']
 
 # Publication name and optional abbreviated publication name.
-publication: In *COLING 2025*
-publication_short: In *COLING 2025*
+publication: arXiv
+publication_short: arXiv
 
 abstract: Counterfactual examples are widely used in natural language processing (NLP) as valuable data to improve models, and in explainable artificial intelligence (XAI) to understand model behavior. The automated generation of counterfactual examples remains a challenging task even for large language models (LLMs), despite their impressive performance on many tasks. In this paper, we first introduce ZeroCF, a faithful approach for leveraging important words derived from feature attribution methods to generate counterfactual examples in a zero-shot setting. Second, we present a new framework, FitCF, which further verifies aforementioned counterfactuals by label flip verification and then inserts them as demonstrations for few-shot prompting, outperforming two state-of-the-art baselines. Through ablation studies, we identify the importance of each of FitCF's core components in improving the quality of counterfactuals, as assessed through flip rate, perplexity, and similarity measures. Furthermore, we show the effectiveness of LIME and Integrated Gradients as backbone attribution methods for FitCF and find that the number of demonstrations has the largest effect on performance. Finally, we reveal a strong correlation between the faithfulness of feature attribution scores and the quality of generated counterfactuals.
 # Summary. An optional shortened abstract.

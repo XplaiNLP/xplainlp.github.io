@@ -4,7 +4,7 @@ subtitle: 'Qianli Wang, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Sebastia
 authors:
   - Qianli Wang
   - Tatiana Anikina
-  - Dr. Nils Feldhus
+  - Nils Feldhus
   - Simon Ostermann
   - Sebastian Möller
   - Vera Schmitt
@@ -17,11 +17,11 @@ publishDate: "2024-09-11T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["preprint"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "COLING 2025"
+publication_short: "COLING 2025"
 
 abstract: Natural language explanations (NLEs) are vital for elucidating the reasoning behind large language model (LLM) decisions. Many techniques have been developed to generate NLEs using LLMs. However, like humans, LLMs might not always produce optimal NLEs on first attempt. Inspired by human learning processes, we introduce Cross-Refine, which employs role modeling by deploying two LLMs as generator and critic, respectively. The generator outputs a first NLE and then refines this initial explanation using feedback and suggestions provided by the critic. Cross-Refine does not require any supervised training data or additional training. We validate Cross-Refine across three NLP tasks using three state-of-the-art open-source LLMs through automatic and human evaluation. We select Self-Refine (Madaan et al., 2023) as the baseline, which only utilizes self-feedback to refine the explanations. Our findings from automatic evaluation and a user study indicate that Cross-Refine outperforms Self-Refine. Meanwhile, Cross-Refine can perform effectively with less powerful LLMs, whereas Self-Refine only yields strong results with ChatGPT. Additionally, we conduct an ablation study to assess the importance of feedback and suggestions. Both of them play an important role in refining explanations. We further evaluate Cross-Refine on a bilingual dataset in English and German.
 
@@ -30,10 +30,7 @@ summary:
 tags:
 featured: false
 
-links:
-- name: Google Scholar
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pKbJC10AAAAJ&sortby=pubdate&citft=1&citft=3&email_for_op=ljaxmcx%40gmail.com&citation_for_view=pKbJC10AAAAJ:JV2RwH3_ST0C
-url_pdf: https://arxiv.org/pdf/2409.07123
+url_pdf: https://aclanthology.org/2025.coling-main.77.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
