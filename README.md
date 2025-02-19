@@ -2,12 +2,6 @@
 **Our Webiste:**
 [XplaiNLP](https://xplainlp.github.io)
 
-**Related Documentation**
-
-[Hugoblox|Docs](https://bootstrap.hugoblox.com)
-
-[Hugo Site Customization](https://bootstrap.hugoblox.com/getting-started/customization/)
-
 ## Updating Information in This Repository
 
 To ensure that all changes to the repository are made safely and collaboratively, please follow the steps below when updating any information. 
@@ -89,3 +83,9 @@ Thank you for your cooperation!
 ## Contact
 
 If you have any questions or need further assistance, please contact Jiaao Li on our Discord
+
+## Related Documentation
+
+[Hugoblox|Docs](https://bootstrap.hugoblox.com)
+
+[Hugo Site Customization](https://bootstrap.hugoblox.com/getting-started/customization/)
