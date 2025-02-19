@@ -1,11 +1,18 @@
 # XplaiNLP Research Group
+**Our Webiste:**
+[XplaiNLP](https://xplainlp.github.io)
+
+**Related Documentation**
 
 [Hugoblox|Docs](https://bootstrap.hugoblox.com)
+
 [Hugo Site Customization](https://bootstrap.hugoblox.com/getting-started/customization/)
 
 ## Updating Information in This Repository
 
-To ensure that all changes to the repository are made safely and collaboratively, please follow the steps below when updating any information. This includes updating personal information, research content, or any other data in the repository.
+To ensure that all changes to the repository are made safely and collaboratively, please follow the steps below when updating any information. 
+
+This includes updating personal information, research content, or any other data in the repository.
 
 ### Steps to Update Information
 1. **Realize some information is incorrect**
@@ -14,46 +21,54 @@ To ensure that all changes to the repository are made safely and collaboratively
 
 Clone the forked repository to your local machine.
 
-    ```
+    
     git clone https://github.com/your-username/your-repo.git
-    ```
+    
 
 3. **Create a New Branch**: 
 
-Create a new branch for the changes you want to make. Name the branch descriptively. For example, if you are updating your personal information, you might name the branch `jiaao-info`.
+Create a new branch for the changes you want to make. Name the branch descriptively. 
 
-    ```
+For example, if you are updating your personal information, you might name the branch `jiaao-info`.
+
+    
     git checkout -b jiaao-info
-    ```
+    
 
 4. **Make Changes**: 
 
-Make the necessary changes to the files. For example, updating your profile in the [authors](http://_vscodecontentref_/1) directory.
+Make the necessary changes to the files. 
+
+For example, updating your profile in the [authors](http://_vscodecontentref_/1) directory.
 
 5. **Commit Changes**: 
 
 Commit the changes with a descriptive message.
 
-    ```
+    
     git add .
     git commit -m "Updated personal information for Jiaao Li"
-    ```
+    
 
 6. **Push Changes**: 
 
 Push the changes to your forked repository.
 
-    ```
+    
     git push origin jiaao-info
-    ```
+    
 
 7. **Create a Pull Request**: 
 
-Go to the original repository on GitHub and create a pull request from your branch. Provide a clear description of the changes you have made.
+Go to the original repository on GitHub and create a pull request from your branch. 
+
+Provide a clear description of the changes you have made.
 
 8. **Review and Merge**: 
 
-Other staff members can review the pull request. Once approved, it can be merged into the main branch.
+Other staff members can review the pull request. 
+
+Once approved, it can be merged into the main branch.
 
 ### Example Branch Names
 
