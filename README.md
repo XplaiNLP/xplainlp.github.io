@@ -14,7 +14,7 @@ To ensure that all changes to the repository are made safely and collaboratively
 
 Clone the forked repository to your local machine.
 
-    ```sh
+    ```
     git clone https://github.com/your-username/your-repo.git
     ```
 
@@ -22,7 +22,7 @@ Clone the forked repository to your local machine.
 
 Create a new branch for the changes you want to make. Name the branch descriptively. For example, if you are updating your personal information, you might name the branch `jiaao-info`.
 
-    ```sh
+    ```
     git checkout -b jiaao-info
     ```
 
@@ -34,7 +34,7 @@ Make the necessary changes to the files. For example, updating your profile in t
 
 Commit the changes with a descriptive message.
 
-    ```sh
+    ```
     git add .
     git commit -m "Updated personal information for Jiaao Li"
     ```
@@ -43,7 +43,7 @@ Commit the changes with a descriptive message.
 
 Push the changes to your forked repository.
 
-    ```sh
+    ```
     git push origin jiaao-info
     ```
 
@@ -73,4 +73,4 @@ Thank you for your cooperation!
 
 ## Contact
 
-If you have any questions or need further assistance, please contact the repository maintainer.
+If you have any questions or need further assistance, please contact Jiaao Li on our Discord
