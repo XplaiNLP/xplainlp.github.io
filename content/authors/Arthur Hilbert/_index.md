@@ -27,10 +27,17 @@ organizations:
 bio: 
 
 interests:
-  - Post-hoc explanations (counterfactual generation, rationale generation etc.)
-  - Interactive conversational XAI systems
-  - Evaluation of text generation
-  - Data-centric interpretability
+  - User-centric xAI Design
+  - ML systems' explainability and interpretability
+  - Extraction of entities, relations, narratives
+
+side topics:
+  - AI-Driven Sports Analytics
+  - Game-Based AI Research
+  - higher-dimensional GANs
+  - Neural Cellular Automata
+
+feel free to approach me if you want to do a project in any of these topics :)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -39,16 +46,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'arthur.hilbert@tu-berlin.de'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/dagobert42
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,4 +64,6 @@ email: ''
 user_groups:
   - Researchers
 ---
-Will join the group soon...
+Arthur Hilbert completed his undergraduate studies (B.Eng.) in Media Engineering at TH Nürnberg Georg Simon Ohm in 2018. Prior to his graduate studies, Arthur gained industry experience as an audio software developer at MAGIX Software, designing professional audio plugins. He then pursued a graduate program (M.Sc.) in Cognitive Systems at the University of Potsdam, where he authored his master’s thesis, titled “SchreiberLing: A Portable Model for Classification and Repair of German Speech-To-Text Data,” under the supervision of Prof. Dr. Manfred Stede at the Applied CL Discourse Research Lab in 2024. During his master studies, he worked as a research intern at Intel Labs’ “Multimodal Dialogue and Interaction” group, leveraging LLMs for key entity recognition in low-resource domains and as a working student at Scalable Minds, contributing to the open-source AI-driven 3D data analysis tool webknossos.org.
+
+In February 2025 he joined the XplaiNLP Group within the Q&U Lab at Technical University Berlin as a doctoral researcher in the VeraXtract project.
