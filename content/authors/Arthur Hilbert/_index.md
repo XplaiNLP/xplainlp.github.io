@@ -30,8 +30,6 @@ interests:
   - User-centric xAI Design
   - ML systems' explainability and interpretability
   - Extraction of entities, relations, narratives
-
-side topics:
   - AI-Driven Sports Analytics
   - Game-Based AI Research
   - higher-dimensional GANs
