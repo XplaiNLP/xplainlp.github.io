@@ -16,7 +16,7 @@ This includes updating personal information, research content, or any other data
 Clone the forked repository to your local machine.
 
     
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/XplaiNLP/xplainlp.github.io.git
     
 
 3. **Create a New Branch**: 
