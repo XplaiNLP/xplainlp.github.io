@@ -34,8 +34,7 @@ interests:
   - Game-Based AI Research
   - higher-dimensional GANs
   - Neural Cellular Automata
-
-feel free to approach me if you want to do a project in any of these topics :)
+  - (Feel free to approach me if you want to do a project in any of these topics :))
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
