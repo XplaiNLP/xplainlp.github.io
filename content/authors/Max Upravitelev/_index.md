@@ -16,7 +16,7 @@ superuser: false
 # Role/position
 role: PhD Candidate
 
-weight: 6
+weight: 7
 
 # Organizations/Affiliations
 organizations:
