@@ -151,7 +151,7 @@ sections:
 
         - [Deutsche Presse-Agentur (dpa)](https://www.dpa.com/)
         - [Deutsche Welle (DW)](https://www.dw.com/en)
-        - [Rundfunk Berlin-Brandenburg (RBB)](https://www.rbb-online.de/)
+        - [Rundfunk Berlin-Brandenburg (rbb)](https://www.rbb-online.de/)
         - [Ubermetrics Technology GmbH/Unicepta](https://www.ubermetrics.de/)
 
         </div>
