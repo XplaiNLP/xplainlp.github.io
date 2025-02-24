@@ -130,16 +130,17 @@ sections:
 
         - [Quality and Usability Lab, TU Berlin](https://www.tu.berlin/qu)
         - [Berlin Institute for the Foundations of Learning and Data (BIFOLD)](https://www.bifold.berlin)
-        - [Einstein Center Digital Future (ECDF)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.digital-future.berlin/&ved=2ahUKEwjXj6b_252LAxXlSvEDHZIUKl4QFnoECBAQAQ&usg=AOvVaw0tcYQGq7jghqPvw4fGUbht)
 
         </div>
 
         <div style="flex: 1;">
-
-        - [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/web/dfki/en)
+    
         - Fraunhofer [IDMT](https://www.idmt.fraunhofer.de) / [AISEC](https://www.aisec.fraunhofer.de/)
+        - Tel Aviv University, [Prof. Joachim Meyer](https://www.jmeyer.sites.tau.ac.il/)
+        - 
         - [BIH/IfSS](https://www.bih-ifss.de/)
         - [Charité](https://www.charite.de/)
+        - [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/web/dfki/en)
 
         </div>
         </div>
@@ -150,16 +151,16 @@ sections:
 
         <div style="flex: 1;">
 
+        - [Deutsche Presse-Agentur (dpa)](https://www.dpa.com/)
         - [Deutsche Welle (DW)](https://www.dw.com/en)
         - [Rundfunk Berlin-Brandenburg (RBB)](https://www.rbb-online.de/)
-        - [Deutsche Presse-Agentur (dpa)](https://www.dpa.com/)
-        - [Ubermetrics Technology GmbH](https://www.ubermetrics.de/)
+        - [Ubermetrics Technology GmbH/Unicepta](https://www.ubermetrics.de/)
 
         </div>
 
         <div style="flex: 1;">
 
-        - [INTAPP GmbH](https://www.intapp.de/)
+        - [delphai/INTAPP GmbH](https://www.delphai.com/)
         - [Transfermedia GmbH](https://www.transfermedia.de/)
         - [Crowdee GmbH](https://www.crowdee.de/)
         - [AI Berlin](https://www.ai-berlin.de/)
