@@ -13,7 +13,7 @@ sections:
         </div>
         <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh;">
           <span style="color:rgba(150, 148, 148, 0.87); font-size: 1rem;">
-          NLP Research Group at the <a href="https://www.tu.berlin/en/qu" target="_blank">Quality and Usability Lab, TU Berlin</a> and <a href="https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology" target="_blank">SLT at DFKI</a>,
+          NLP and XAI Research Group at the <a href="https://www.tu.berlin/en/qu" target="_blank"> at TU Berlin</a>
           </span>
         </div>
     design:
