@@ -130,16 +130,14 @@ sections:
 
         - [Quality and Usability Lab, TU Berlin](https://www.tu.berlin/qu)
         - [Berlin Institute for the Foundations of Learning and Data (BIFOLD)](https://www.bifold.berlin)
+        - Tel Aviv University, [Prof. Joachim Meyer](https://www.jmeyer.sites.tau.ac.il/)
 
         </div>
 
         <div style="flex: 1;">
     
         - Fraunhofer [IDMT](https://www.idmt.fraunhofer.de) / [AISEC](https://www.aisec.fraunhofer.de/)
-        - Tel Aviv University, [Prof. Joachim Meyer](https://www.jmeyer.sites.tau.ac.il/)
-        - 
-        - [BIH/IfSS](https://www.bih-ifss.de/)
-        - [Charité](https://www.charite.de/)
+        - Charité [BIH](https://www.bihealth.org/en/)/[IfSS](https://sexualmedizin.charite.de/)
         - [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/web/dfki/en)
 
         </div>
