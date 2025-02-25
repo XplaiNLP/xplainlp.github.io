@@ -27,10 +27,11 @@ organizations:
 bio: 
 
 interests:
-  - Post-hoc explanations (counterfactual generation, rationale generation etc.)
-  - Interactive conversational XAI systems
-  - Evaluation of text generation
-  - Data-centric interpretability
+  - Intelligent Decision Support Systems (IDSS) for Fact-Checking
+  - Explainable Artificial Intelligence
+  - Human-Computer Interaction
+  - Multi-Modal AI Integration
+  - Regulatory and Ethical Compliance in AI
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -63,5 +64,6 @@ email: ''
 user_groups:
   - Researchers
 ---
-Will join the group soon...
+João da Mata began his academic journey with a technical degree in IT. He then pursued a Bachelor's degree in Journalism at the Minas Gerais' Federal University in Brazil, where his passion for media and investigative reporting took root. Early roles — as a reporter at Rádio UFMG, an intern at the Press Division of the German Parliament, and a contributor at taz, die Tageszeitung — provided him with a diverse perspective on media, politics, and public discourse. Motivated to bridge technology and media, João advanced his studies with a Master’s degree in Media Science at Humboldt-Universität zu Berlin, completing his thesis on Recommendation Systems. He further refined his interdisciplinary expertise through research-oriented positions, notably as a research assistant at CNPq in Brazil and at DFKI in Germany.
+Now a PhD candidate at TU Berlin’s QU Lab, João is exploring IDSS for fact-checking workflows. His research integrates multi-modal AI, explainable interfaces, and legal compliance to strengthen media verification processes in the fight against disinformation.
 
