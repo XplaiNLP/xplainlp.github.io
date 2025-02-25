@@ -1,6 +1,6 @@
 ---
 title: Interview with DW: "Fact check: AI influencers targeting German elections" 
-date: 2025-10-02
+date: 2025-02-10
 authors:
     - admin
 ---
