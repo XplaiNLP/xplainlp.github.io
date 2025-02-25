@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Luis-Felipe Villa-Arenas
+title: João da Mata
 
 # Full name (for SEO)
 first_name: João 
