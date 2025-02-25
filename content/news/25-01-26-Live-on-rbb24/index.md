@@ -1,6 +1,6 @@
 ---
 title: Live on rbb24 & ARD Mediathek – Fighting Disinformation Together!
-date: 2025-01-26
+date: 2025-01-27
 authors:
     - admin
 ---
