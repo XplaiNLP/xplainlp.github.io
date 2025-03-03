@@ -61,3 +61,44 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+cascade:
+  - _target:
+      path: /research/**
+    pager: false
+    editable: false
+    reading_time: false
+    commentable: false
+    show_related: false
+    show_breadcrumb: false
+    share: false
+    profile: false
+    header:
+      navbar:
+        enable: true
+  - _target:
+      path: /publication/**
+    pager: false
+    editable: false
+    reading_time: false
+    commentable: false
+    show_related: false
+    show_breadcrumb: false
+    share: false
+    profile: false
+    header:
+      navbar:
+        enable: true
+  - _target:
+      path: /news/**
+    pager: false
+    editable: false
+    reading_time: false
+    commentable: false
+    show_related: false
+    show_breadcrumb: false
+    share: false
+    profile: false
+    header:
+      navbar:
+        enable: true

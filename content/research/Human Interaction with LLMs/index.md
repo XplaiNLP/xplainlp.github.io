@@ -1,6 +1,8 @@
 ---
 title: Human Interaction with LLMs
 date: 2020-12-01
+share: false
+
 ---
 Beyond fine-tuning LLMs for several use cases we also work on human interaction with LLMs to make the results useful for the above-mentioned use cases:
 Design and validate  IDSS for fake news detection.

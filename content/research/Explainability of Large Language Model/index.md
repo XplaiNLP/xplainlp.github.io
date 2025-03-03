@@ -17,6 +17,7 @@ tags: [research]
 
 # Display this page in the Featured widget?
 featured: true
+share: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
