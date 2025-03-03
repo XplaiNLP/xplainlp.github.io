@@ -2,10 +2,15 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "family=Grandiflora+One&display=swap&family=Scope+One&display=swap&family=M+PLUS+1p"
+google_fonts = "family=Grandiflora+One&display=swap&family=Scope+One&display=swap&family=M+PLUS+1p&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
 
 # Font families
-heading_font = "M PLUS 1p"
-body_font = "M PLUS 1p"
-nav_font = "Scope One"
-mono_font = "Grandiflora One"
+# heading_font = "M PLUS 1p"
+# body_font = "M PLUS 1p"
+# nav_font = "Scope One"
+# mono_font = "Grandiflora One"
+
+heading_font = "Roboto"
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto"
