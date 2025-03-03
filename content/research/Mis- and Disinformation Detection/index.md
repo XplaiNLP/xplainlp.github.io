@@ -13,11 +13,12 @@ tags: [research]
 
 # Display this page in the Featured widget?
 featured: true
+share: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Illustration of how natural language queries from users are parsed into executable operations'
+  caption: 'Illustration of News Verification Dashboard containing the explanation'
   focal_point: ''
   preview_only: false
 ---
@@ -27,11 +28,9 @@ Develop and utilize knowledge bases with known fakes and facts.
 Utilise RAGs for supporting human fact-checking tasks.
 Factuality analysis of generated content for summarization or knowledge enrichment.
 {style="color: grey"}
-
 <!--keep-->
 <!--three-->
 <!--blank lines-->
-
 - **Sahitaj, Premtim**, et al. (2025) "From Construction to Application: Advancing Argument Mining with the Large-Scale KIALOPRIME Dataset."
 
 - **Sahitaj, Premtim**, et al. (2024) "Towards Automated Fact-Checking of Real-World Claims: Exploring Task Formulation and Assessment with LLMs." *arXiv:2502.08909*
