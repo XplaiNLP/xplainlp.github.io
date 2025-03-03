@@ -3,6 +3,10 @@ title: 'Explainability of Large Language Model'
 subtitle: ''
 
 authors:
+  - Nils Feldhus
+  - Qianli Wang
+  - Luis-Felipe Villa-Arenas
+  - admin
 
 date: '2024-02-21'
 
@@ -28,8 +32,18 @@ Development of methods to verify model faithfulness, ensuring that explanations 
 <!--keep-->
 <!--three-->
 <!--blank lines-->
-* Wang, Qianli, et al. "Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem." arXiv preprint arXiv:2409.07123 (2024).
+- **Wang, Qianli**, et al. (2024) "Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem." *arXiv:2409.07123*
 
-* Villa-Arenas, Luis Felipe, et al. "Anchored Alignment for Self-Explanations Enhancement." arXiv preprint arXiv:2410.13216 (2024).
+- **Villa-Arenas, Luis Felipe**, et al. (2024) "Anchored Alignment for Self-Explanations Enhancement." *arXiv:2410.13216*
 
-* Wang, Qianli, et al. "FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation." arXiv preprint arXiv:2501.00777 (2025).
+- **Wang, Qianli**, et al. (2025) "FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation." *arXiv:2501.00777*
+
+- **Feldhus, Nils**, et al. (2024) "Towards Modeling and Evaluating Instructional Explanations in Teacher-Student Dialogues." *GoodIT '24* 
+
+- **Wehner, Nikolas Feldhus, Nils**, et al. (2024) "QoEXplainer: Mediating Explainable Quality of Experience Models with Large Language Models." *QoMEX 2024 Demos / ACM IMX 2024*
+
+- **Wang, Qianli**, et al. (2024) "LLMCheckup: Conversational Examination of Large Language Models via Interpretability Tools." *NAACL 2024*
+
+- **Schmitt, Vera**, et al. (2024) "The Role of Explainability in Collaborative Human-AI Disinformation Detection." *FAccT 2024*
+
+- **Feldhus, Nils**, et al. (2021) "Thermostat: A Large Collection of NLP Model Explanations and Analysis Tools." *EMNLP-System Demonstrations (2021)*
