@@ -12,6 +12,9 @@ This includes updating personal information, research content, or any webpage co
 ### Steps to Update Information
 
 1. **Realize some information is incorrect or incomplete**
+    If it can be fixed quickly, such as a typo, spelling mistake or incorrect number. Please just use the *EDIT* mode on Github for quick fixes.
+
+    However, if the amount of change will be heavy or complex. Please continue to follow the steps below.
 
 2. **Clone the Repository**:
 
@@ -20,7 +23,7 @@ This includes updating personal information, research content, or any webpage co
         git clone https://github.com/XplaiNLP/xplainlp.github.io.git
         cd xplainlp.github.io
 
-4. **Create a New Branch**:
+3. **Create a New Branch**:
 
     Create a new branch for the changes you want to make. Please name the branch descriptively.
 
@@ -28,31 +31,30 @@ This includes updating personal information, research content, or any webpage co
 
         git checkout -b jiaao-info
 
-6. **Make Changes**:
+4. **Make Changes**:
 
     Make the necessary changes to the files.
 
-    For example, updating your profile in the <code>xplainlp.github.io/content/authors/</code> directory.
+    For example, updating your profile in the ``xplainlp.github.io/content/authors/`` directory.
 
-7. **Commit Changes**:
+5. **Commit Changes**:
 
     Commit the changes with a descriptive message.
 
         git add .
         git commit -m "Update personal information for Jiaao Li"
 
-8. **Push Changes**:
+6. **Push Changes**:
 
     Push the changes to your new branch.
 
         git push origin jiaao-info
-    
 
-9. **Create a Pull Request**:
+7. **Create a Pull Request**:
 
     Go to the original repository on GitHub and create a pull request from your branch with a clear description of the changes.
 
-10. **Review and Merge**:
+8. **Review and Merge**:
 
     Other staff members can review the pull request.
 
@@ -76,7 +78,7 @@ Thank you for your cooperation!
 
 ## Contact
 
-If you have any questions or need further assistance, please contact **Jiaao Li** on our Discord channel,
+If you have any questions or need further assistance, please contact **Jiaao Li** on our Discord channel.
 
 ## Related Documentation
 
