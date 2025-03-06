@@ -12,18 +12,19 @@ This includes updating personal information, research content, or any webpage co
 ### Steps to Update Information
 
 1. **Realize some information is incorrect or incomplete**
+
     If it can be fixed quickly, such as a typo, spelling mistake or incorrect number. Please just use the *EDIT* mode on Github for quick fixes.
 
     However, if the amount of change will be heavy or complex. Please continue to follow the steps below.
 
-2. **Clone the Repository**:
+2. **Clone the Repository**
 
     Clone the forked repository to your local machine.
 
         git clone https://github.com/XplaiNLP/xplainlp.github.io.git
         cd xplainlp.github.io
 
-3. **Create a New Branch**:
+3. **Create a New Branch**
 
     Create a new branch for the changes you want to make. Please name the branch descriptively.
 
@@ -31,34 +32,48 @@ This includes updating personal information, research content, or any webpage co
 
         git checkout -b jiaao-info
 
-4. **Make Changes**:
+4. **Make Changes**
 
     Make the necessary changes to the files.
 
-    For example, updating your profile in the ``xplainlp.github.io/content/authors/`` directory.
+    For example, updating your profile in the ``xplainlp.github.io/content/authors/Jiaao Li/`` directory.
 
-5. **Commit Changes**:
+    Most of content are stored in the ``xplainlp.github.io/content/`` directory.
+
+5. **Commit Changes**
 
     Commit the changes with a descriptive message.
 
         git add .
         git commit -m "Update personal information for Jiaao Li"
 
-6. **Push Changes**:
+6. **Push Changes**
 
     Push the changes to your new branch.
 
         git push origin jiaao-info
 
-7. **Create a Pull Request**:
+7. **Create a Pull Request**
 
     Go to the original repository on GitHub and create a pull request from your branch with a clear description of the changes.
 
-8. **Review and Merge**:
+8. **Review and Merge**
 
     Other staff members can review the pull request.
 
     Once approved, it can be merged into the main branch.
+
+## Contact
+
+If you have any questions or need further assistance, please feel free to contact **Jiaao Li** on our Discord channel.
+
+## Further Information
+
+### Hugoblox Documentation
+
+[Hugoblox|Docs](https://bootstrap.hugoblox.com)
+
+[Hugo Site Customization](https://bootstrap.hugoblox.com/getting-started/customization/)
 
 ### Example Branch Names
 
@@ -72,16 +87,4 @@ This includes updating personal information, research content, or any webpage co
 - Provide clear and descriptive commit messages and pull request descriptions.
 - Please ensure your changes align with HugoBlox Syntax.
 
-By following these steps, we can maintain the quality and integrity of our repository while allowing all staff members to contribute effectively.
-
 Thank you for your cooperation!
-
-## Contact
-
-If you have any questions or need further assistance, please contact **Jiaao Li** on our Discord channel.
-
-## Related Documentation
-
-[Hugoblox|Docs](https://bootstrap.hugoblox.com)
-
-[Hugo Site Customization](https://bootstrap.hugoblox.com/getting-started/customization/)
