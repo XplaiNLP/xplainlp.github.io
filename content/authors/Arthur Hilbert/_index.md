@@ -27,13 +27,15 @@ organizations:
 bio: 
 
 interests:
-  - User-centric xAI Design
-  - ML systems' explainability and interpretability
-  - Extraction of entities, relations, narratives
-  - Side Topics (feel free to approach me if you want to do a project on any of the following :)
+  - MAIN TOPICS
+  - Emergence of (Disinformation) Narratives
+  - User-Centric xAI Development
+  - Mechanistic Interpretability
+  - Indcutive Logic Programming for xAI
+  - SIDE TOPICS (some options for Master's Theses/Projects)
   - AI-Driven Sports Analytics
   - Game-Based AI Research
-  - Higher-dimensional GANs
+  - Higher-Dimensional GANs
   - Neural Cellular Automata
 
 # Social/Academic Networking
