@@ -29,7 +29,7 @@ sections:
       title: Applications
       text: |
         ### Research Assistant and Scholarship (d/m/f)
-        We continously looking for talented PhDs and student researchers - please check our [website](https://www.tu.berlin/en/qu/about-us/job-offers) for open positions.
+        We currently looking for talented student researchersfor NLP and RAG tasks - please check [website](https://www.jobs.tu-berlin.de/en/job-postings/192539) for the open positions(80h/month).
 
         ### Student Assistant:
         * Studentische Hilfskraft 80 Monatsstunden ("Medinym", deadline 09.01.2025) [TUB-Stellenticket](https://www.jobs.tu-berlin.de/stellenausschreibungen/190255)
