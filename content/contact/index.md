@@ -32,7 +32,7 @@ sections:
         We continously looking for talended researchers and student researchers and open positions are posted below. We also offer the opportunity doing research stays with us concerning the topics NLP/LLMs/MLLMs, XAI, HCI and legal enquiries. 
 
         ### Student Assistant:
-        *We currently looking for talented student researchersfor NLP and RAG tasks - please check [website](https://www.jobs.tu-berlin.de/en/job-postings/192539) for the open positions (80h/month - deadline 20.03.2025).
+        We currently looking for talented student researchersfor NLP and RAG tasks - please check [website](https://www.jobs.tu-berlin.de/en/job-postings/192539) for the open positions (80h/month - deadline 20.03.2025).
 
         ### Bachelor or Master Thesis
         We are always looking for talented students for Bachelor or Master Thesis. Please check the [website](https://www.tu.berlin/en/qu/study-and-teaching/theses) for more information.
