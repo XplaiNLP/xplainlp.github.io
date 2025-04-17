@@ -45,10 +45,10 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'veronika.solopova@tu-berlin.de'
-  - icon: twitter
+    link: 'mailto:veronika.solopova@tu-berlin.de'
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.linkedin.com/in/veronika-solopova-387693189/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=CpOBNbMAAAAJ&hl

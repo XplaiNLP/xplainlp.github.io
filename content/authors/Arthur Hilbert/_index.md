@@ -45,10 +45,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'arthur.hilbert@tu-berlin.de'
+    link: 'mailto:arthur.hilbert@tu-berlin.de'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/arthur-hilbert/
   - icon: github
     icon_pack: fab
-    link: https://github.com/dagobert42
+    link: https://github.com/Dagobert42
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
