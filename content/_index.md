@@ -93,17 +93,34 @@ sections:
     content:
       title: Projects
       text: |
-        ## Running
-        ### [NEWS-POLYGRAPH](https://news-polygraph.com/)
+        # Running
+        ### [NEWS-POLYGRAPH](/projects/past_projects/news_polygraph/)
         Verification and Extraction of Disinformation Narratives with Individualized Explanations
-        ### [VERANDA](https://www.tu.berlin/qu/forschung/laufende-vergangene-projekte/laufende-projekte/veranda)
+        ### [VERANDA](/projects/past_projects/veranda/)
         Trustworthy Anonymization of Sensitive Patient Records for Remote Consultation (VERANDA)
-        ### [VeraXtract](https://www.tu.berlin/en/qu/research/current-past-projects/laufende-projekte/veraxtract)
+        ### [VeraXtract](/projects/past_projects/veraXtract/)
         Verification and Extraction of Disinformation Narratives with Individualized Explanations
+        ### [fakeXplain](/projects/past_projects/fakeXplain/)
+        Transparent and meaningful explanations in the context of disinformation detection
+        ### [PSST](/projects/running_projects/psst/)
+        Removing identifying features in speech, improving interactions between devices and cloud services, and creating new ways to assess privacy threats
+        ### ORCHESTRA
+        Orchestrating Reliable, Compliant, and eXplainable Agentic AI Workflows
 
-        ## Past
-        ### [ateSDG](https://www.tu.berlin/en/qu/forschung/laufende-vergangene-projekte/laufende-projekte/atesdg)
-        ### [DFG-project LocTrace](https://www.tu.berlin/en/qu/research/current-past-projects/past-projects/monetary-valuation-of-location-information)
+
+        # Under Review
+        ### Fake-O-Meter
+        Multimodaler KI-basierter Desinformations-Assistent für Aufklärung und Resilienz im Umgang mit medialen Desinformationen
+        ### Deutsch-Israleische Projektkooperation (DIP)
+        Adaptive AI for High-Stakes Decision Processes: Balancing Automation and Human Control
+        ### KI-basiertes Kreislaufwirtschaft Ökosystem (KIKÖ)
+        Aufbau und Nutzung eines modulares, wiederverwendbaren und domänenspezifischen KI-basiertes Ökosystem für die Kreislaufwirtschaft
+
+        # Past
+        #### [ateSDG](/projects/past_projects/ateSGD/)
+        Analyzing Sustainability Reports from companies and classifying them according to their contribution to one or multiple SDGs.
+        #### [DFG-project LocTrace](/projects/past_projects/DFG/)
+        Evaluation of different methods for the monetary evaluation of privacy.
     design:
       columns: '2'
 

@@ -43,7 +43,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:feldhus@tu-berlin.de'
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/nils-feldhus-7bb96211a/
   - icon: google-scholar

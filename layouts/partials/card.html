@@ -1,0 +1,49 @@
+<div class="card">
+    <div class="card-body">
+        
+        <p class="project-meta">
+            {{ if .Params.funding.funder }}
+              {{ .Params.funding.funder }} &nbsp;&nbsp;•&nbsp;&nbsp;
+            {{ end }}
+            {{ if .Params.funding.duration }}
+              ⏳ {{ .Params.funding.duration }}
+            {{ end }}
+            {{ if and .Params.funding.duration .Params.funding.amount }}&nbsp;&nbsp;•&nbsp;&nbsp;{{ end }}
+            {{ if .Params.funding.amount }}
+              💰 {{ .Params.funding.amount }}
+            {{ end }}
+          </p>         
+        
+        {{ if .Params.url }}
+          <h3 class="card-title">
+            <a href="{{ .Params.url }}" class="title-link">{{ .Title }}</a>
+          </h3>
+        {{ else }}
+          <h3 class="card-title">{{ .Title }}</h3>
+        {{ end }}
+
+        {{ if .Params.subtitle }}
+          <h4 class="card-subtitle">{{ .Params.subtitle }}</h4>
+        {{ end }}
+        
+        <p class="card-text">{{ .Summary }}</p>
+        
+        {{ if .Params.Team }}
+        <div class="project-tags">
+            <span class="tag-label">Partners:</span>
+            {{ range .Params.Team }}
+            <a href="{{ .link }}" class="project-tag">{{ .name }}</a>
+            {{ end }}
+        </div>
+        {{ end }}
+        
+        {{ if .Params.external_link }}
+        <a href="{{ .Params.url}}" class="project-link">
+            Learn more
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
+                <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
+            </svg>
+        </a>
+        {{ end }}
+    </div>
+</div>

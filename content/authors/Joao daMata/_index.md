@@ -8,7 +8,7 @@ last_name: da Mata
 
 # Username (this should match the folder name)
 authors:
-  - Joao deMata
+  - Joao daMata
 
 # Is this the primary user of the site?
 superuser: false
