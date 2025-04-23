@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: 'ITG Position Paper: Large Language Models are Transformers in Artificial Intelligence, Industry, Education, and Society'
 subtitle: 'Prof. Rainer Martin, Prof. Stefan Brüggenwirth, Dr. Aljoscha Burchard, Prof. Tim Fingscheidt, Prof. Holger Hoos, Prof. Klaus Illgner, Dr. Henrik Junklewitz, Prof. André Kaup, Dr. Katharina von Knop, Dr. Joachim Köhler, Prof. Gitta Kutyniok, Prof. Dorothea Kolossa, Prof. Sebastian Möller, Dr. Ralf Schlüter, Dr. David Thulke, Dr. Vera Schmitt, Prof. Ingo Siegert, and Dr. Volker Ziegler (2024). VDE Verband der Elektrotechnik Elektronik Informationstechnik e. V.'
 
@@ -98,4 +98,4 @@ slides: ""
 ---
 
 
- -->
+
