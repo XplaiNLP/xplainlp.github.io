@@ -18,15 +18,7 @@ funding:
 team:
   - name: Dr. Vera Schmitt
     link: /authors/dr.-vera-schmitt/
-  - name: Prof. Joachim Meyer
-    link: https://english.tau.ac.il/profile/jmeyer
-  - name: Dr. Sven Schmeier
-    link: https://www.schmeier.de/
-  - name: Prof. Sebastian Möller
-    link: https://www.tu.berlin/qu/ueber-uns/leitung
-  - name: Prof. Birgit Beck
-    link: https://www.tu.berlin/humanities/ueber-uns/dekanat-leitung/dekanat
-
+    
 weight: 4
 ---
 
@@ -46,12 +38,13 @@ In the long term, the knowledge and experience gained from VeraXtract should hel
 In VeraXtract, we want to create an overview and go into less depth. This overview is necessary to provide better information about disinformation and also to be able to more quickly assign statements to existing disinformation narratives. The results of the VeraXtract project will be integrated into a publicly accessible platform.
 
 ### Associated Partners:
-- DFKI
+
 - Deutsche Presse-Agentur
 - DW News
+- TU Berlin (Prof. Sebastian Möller, Prof. Birgit Beck)
+- Tel Aviv University (Prof. Joachim Meyer)
+- DFKI (Dr. Sven Schmeier)
 - Ubermetrics Technologies GmbH
 - delphai GmbH
 - nyonic GmbH
 - Crowdee GmbH
-- Q&U Lab Technische Universität Berlin
-- Tel Aviv University
