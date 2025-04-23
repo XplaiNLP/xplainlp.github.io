@@ -21,7 +21,7 @@ authors:
     - Prof. Sebastian Möller
     - Dr. Ralf Schlüter
     - Dr. David Thulke
-    - Dr. Vera Schmitt
+    - Vera Schmitt
     - Prof. Ingo Siegert
     - Dr. Volker Ziegler
 # Author notes (optional)
