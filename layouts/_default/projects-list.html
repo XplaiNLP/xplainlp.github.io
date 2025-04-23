@@ -2,7 +2,7 @@
 
 <!-- Link the css file in assets/css -->
 {{ $projectsCSS := resources.Get "css/projects.css" | minify | fingerprint }}
-<link rel="stylesheet" href="{{ $projectsCSS.Permalink }}" integrity="{{ $projectsCSS.Data.Integrity }}">
+<link rel="stylesheet" href="{{ $projectsCSS.RelPermalink }}" media="all">
 
 <div class="universal-wrapper">
   <h1>{{ .Title }}</h1>
