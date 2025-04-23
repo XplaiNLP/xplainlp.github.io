@@ -13,7 +13,7 @@ funding:
   funder: BMBF(ExperTeam4KI)
   details: funding focus "KI Nachwuchsgruppen unter Leitung von Frauen" 
   duration: "09.2024 - 09.2027"
-  funding: EUR 1,403,742 
+  amount: EUR 1,403,742 
 
 team:
   - name: Dr. Vera Schmitt
