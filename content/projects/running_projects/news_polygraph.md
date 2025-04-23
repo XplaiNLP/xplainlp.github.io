@@ -15,14 +15,8 @@ funding:
   amount: EUR 1,492,547 
 
 team:
-  - name: DW
-  - name: rbb
-  - name: TU Berlin (XplaiNLP)
-  - name: DFKI (SLT)
-  - name: Fraunhofer IDMT
-  - name: Ubermetrics Technologies GmbH
-  - Intapp GmbH
-  - Transfermedia GmbH
+  - name: Vera Schmitt
+    link: /authors/dr.-vera-schmitt/
 
 
 weight: 2
