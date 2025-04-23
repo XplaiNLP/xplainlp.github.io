@@ -7,7 +7,7 @@ url: /projects/past_projects/veraXtract/
 external_link: "https://www.tu.berlin/en/qu/research/current-past-projects/laufende-projekte/veraxtract"
 
 date: 2024-09-01
-authors: ["admin"]
+authors: ["Vera Schmitt"]
 
 funding:
   funder: BMBF(ExperTeam4KI)

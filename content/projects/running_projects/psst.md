@@ -7,7 +7,7 @@ url: /projects/running_projects/psst/
 external_link: "https://psst-doctoralnetwork.eu/"
 
 date: 2025-04-01
-authors: ["admin"]
+authors: ["Vera Schmitt"]
 
 funding:
   funder:

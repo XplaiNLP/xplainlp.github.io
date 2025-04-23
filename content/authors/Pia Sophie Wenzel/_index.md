@@ -39,6 +39,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:p.wenzel.2@campus.tu-berlin.de'
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/pia-wenzel-neves-999b75204
   - icon: github
     icon_pack: fab
     link: https://github.com/PiaSW

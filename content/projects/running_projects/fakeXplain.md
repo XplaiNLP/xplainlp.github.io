@@ -6,7 +6,7 @@ summary: "FakeXplain creates a framework to systematically evaluate AI explanati
 url: /projects/past_projects/fakeXplain/
 external_link: "https://www.bifold.berlin/research/agility-projects/detail?tx_psn_workgroupsdetailagility%5Baction%5D=detailagility&tx_psn_workgroupsdetailagility%5Bcontroller%5D=Workgroups&tx_psn_workgroupsdetailagility%5Bworkgroup%5D=60&cHash=43bf590b9c291faf5e6cae0566148411"
 
-authors: ["admin"]
+authors: ["Vera Schmitt"]
 date: "2024-11-01"
 
 funding:

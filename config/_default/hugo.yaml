@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: XplaiNLP Research Group # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://xplainlp.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -19,6 +19,7 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
+layoutDir: "layouts"
 enableGitInfo: false
 summaryLength: 30
 pagination:
