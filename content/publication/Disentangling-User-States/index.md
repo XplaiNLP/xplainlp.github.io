@@ -8,10 +8,10 @@ subtitle: "Robert P Spang, Maximilian Warsinke, Vera Schmitt, Luis-Felipe Villa-
 authors:
 - Robert P Spang
 - Maximilian Warsinke
-- Vera Schmitt
+- Dr. Vera Schmitt
 - Luis-Felipe Villa-Arenas
 - Navid Ashrafi
-- Sebastian Möller
+- Prof. Sebastian Möller
 
 # Author notes (optional)
 author_notes: 

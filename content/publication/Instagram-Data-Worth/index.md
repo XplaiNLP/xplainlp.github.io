@@ -6,7 +6,7 @@ subtitle: "Vera Schmitt, Paul Michel dit Ferrer, Arooj Anwar Khan - Internationa
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Vera Schmitt
+- Dr. Vera Schmitt
 - Paul Michel dit Ferrer
 - Arooj Anwar Khan
 

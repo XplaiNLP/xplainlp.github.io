@@ -10,8 +10,8 @@ authors:
     - Nils Feldhus
     - Simon Ostermann
     - Luis Felipe Villa-Arenas
-    - Sebastian Möller
-    - Vera Schmitt
+    - Prof. Sebastian Möller
+    - Dr. Vera Schmitt
 # Author notes (optional)
 author_notes: 
 

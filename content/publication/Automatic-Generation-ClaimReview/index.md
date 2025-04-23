@@ -9,9 +9,9 @@ authors:
 - Vinicius Woloszyn
 - Eduardo G. Cortes
 - Rafael Amantea
-- Vera Schmitt
+- Dr. Vera Schmitt
 - Dante A. C. Barone
-- Sebastian Möller
+- Prof. Sebastian Möller
 # Author notes (optional)
 author_notes: 
 

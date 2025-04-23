@@ -6,12 +6,12 @@ subtitle: 'Vera Schmitt, Luis-Felipe Villa-Arenas, Nils Feldhus, Joachim Meyer, 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-    - Vera Schmitt
+    - Dr. Vera Schmitt
     - Luis-Felipe Villa-Arenas
     - Nils Feldhus
     - Joachim Meyer
     - Robert P Spang
-    - Sebastian Möller
+    - Prof. Sebastian Möller
 # Author notes (optional)
 author_notes: 
 

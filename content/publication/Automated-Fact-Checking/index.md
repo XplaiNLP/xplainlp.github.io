@@ -10,8 +10,8 @@ authors:
 - Iffat Maab
 - Junichi Yamagishi
 - Jawan Kolanowski
-- Sebastian Möller
-- Vera Schmitt
+- Prof. Sebastian Möller
+- Dr. Vera Schmitt
 # Author notes (optional)
 author_notes: 
 

@@ -9,7 +9,7 @@ authors:
 - Ariana Sahitaj
 - Markus Nilles
 - Ralf Schenkel
-- Vera Schmitt
+- Dr. Vera Schmitt
 
 # Author notes (optional)
 author_notes: 

@@ -6,13 +6,13 @@ subtitle: 'Vera Schmitt, Balázs Patrik Csomor, Joachim Meyer, Luis-Felipe Villa
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-    - Vera Schmitt
+    - Dr. Vera Schmitt
     - Balázs Patrik Csomor
     - Joachim Meyer
     - Luis-Felipe Villa-Areas
     - Charlott Jakob
     - Tim Polzehl
-    - Sebastian Möller
+    - Prof. Sebastian Möller
 # Author notes (optional)
 author_notes: 
 

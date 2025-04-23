@@ -6,7 +6,7 @@ subtitle: 'Vera Schmitt, Jakob Tesch, Eva Lopez, Tim Polzehl, Aljoscha Burchardt
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-    - Vera Schmitt
+    - Dr. Vera Schmitt
     - Jakob Tesch
     - Eva Lopez
     - Luis-Felipe Villa-Areas
@@ -14,7 +14,7 @@ authors:
     - Aljoscha Burchardt
     - Konstanze Neumann
     - Salar Mohtaj
-    - Sebastian Möller
+    - Prof. Sebastian Möller
 # Author notes (optional)
 author_notes: 
 

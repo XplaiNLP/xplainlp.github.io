@@ -7,7 +7,7 @@ url:
 external_link:
 
 date: "2024-04-20"
-authors: ["Vera Schmitt"]
+authors: ["Dr. Vera Schmitt"]
 
 funding:
   funder: BMWK

@@ -10,9 +10,9 @@ authors:
 - Ramon Ruiz-Dolz
 - Ariana Sahitaj
 - Ata Nizamoglu
-- Vera Schmitt
+- Dr. Vera Schmitt
 - Salar Mohtaj
-- Sebastian Möller
+- Prof. Sebastian Möller
 
 # Author notes (optional)
 author_notes: 

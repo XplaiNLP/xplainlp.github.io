@@ -7,9 +7,9 @@ subtitle: 'Charlott Jakob, Vera Schmitt, Salar Mohtaj, Sebastian Möller'
 # and it will be replaced with their full name and linked to their profile.
 authors:
     - Charlott Jakob
-    - Vera Schmitt
+    - Dr. Vera Schmitt
     - Salar Mohtaj
-    - Sebastian Möller
+    - Prof. Sebastian Möller
 # Author notes (optional)
 author_notes: 
 

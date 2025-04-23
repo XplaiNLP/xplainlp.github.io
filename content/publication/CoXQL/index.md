@@ -5,8 +5,8 @@ authors:
   - Qianli Wang
   - Tatiana Anikina
   - Nils Feldhus
-  - Simon Ostermann
-  - Sebastian Möller
+  - Dr. Simon Ostermann
+  - Prof. Sebastian Möller
 date: "2024-09-11T00:00:00Z"
 doi: ""
 

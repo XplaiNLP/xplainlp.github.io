@@ -39,7 +39,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ibrahim.baroud@tu-berlin.de'
-  - icon: Linkedin
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ibrahim-baroud/
   - icon: google-scholar

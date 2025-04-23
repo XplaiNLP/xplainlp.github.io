@@ -9,7 +9,7 @@ authors:
     - Charlott Jakob
     - Pia Wenzel
     - Salar Mohtaj
-    - Vera Schmitt
+    - Dr. Vera Schmitt
 # Author notes (optional)
 author_notes: 
 

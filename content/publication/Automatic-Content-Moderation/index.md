@@ -1,13 +1,13 @@
 ---
 title: 'Implications of the New Regulation Proposed by the European Commission on Automatic Content Moderation'
-subtitle: "Vera Schmitt, Veroniak Solopova, Vinicius Woloszyn, and Jessica J. de Pino Pinhal (2021). In Proceedings of the ISCA Symposium on Security and Privacy in Speech Communication, 47-51."
+subtitle: "Vera Schmitt, Veronika Solopova, Vinicius Woloszyn, and Jessica J. de Pino Pinhal (2021). In Proceedings of the ISCA Symposium on Security and Privacy in Speech Communication, 47-51."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Vera Schmitt
-- Veroniak Solopova
+- Dr. Vera Schmitt
+- Dr. Veronika Solopova
 - Vinicius Woloszyn
 - Jessica J. de Pino Pinhal
 # Author notes (optional)

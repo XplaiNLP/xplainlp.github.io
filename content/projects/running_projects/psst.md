@@ -7,10 +7,10 @@ url: /projects/running_projects/psst/
 external_link: "https://psst-doctoralnetwork.eu/"
 
 date: 2025-04-01
-authors: ["Vera Schmitt"]
+authors: ["Dr. Vera Schmitt"]
 
 funding:
-  funder:
+  funder: Horizon Europe Marie Skłodowska-Curie Action
   duration: "04/2025 - 03/2028"
   amount: EUR 521,978 
 

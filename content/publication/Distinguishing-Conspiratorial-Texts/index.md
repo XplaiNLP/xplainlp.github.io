@@ -9,8 +9,8 @@ authors:
 - Ariana Sahitaj
 - Premtim Sahitaj
 - Salar Mohtaj
-- Sebastian Möller
-- Vera Schmitt
+- Prof. Sebastian Möller
+- Dr. Vera Schmitt
 
 # Author notes (optional)
 author_notes: 

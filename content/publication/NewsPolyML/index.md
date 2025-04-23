@@ -10,8 +10,8 @@ authors:
 - Ata Nizamoglu
 - Premtim Sahitaj
 - Charlott Jakob
-- Vera Schmitt
-- Sebastian Möller
+- Dr. Vera Schmitt
+- Prof. Sebastian Möller
 # Author notes (optional)
 author_notes: 
 

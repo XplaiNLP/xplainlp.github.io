@@ -7,10 +7,10 @@ url:
 external_link:
 
 date: "2024-04-20"
-authors: ["Vera Schmitt"]
+authors: ["Dr. Vera Schmitt"]
 
 funding:
-  funder: 
+  funder: Trilateral Seed 
   amount: "EUR 20,000"
   duration: "05/2025 - 10/2025"
 

@@ -7,9 +7,9 @@ subtitle: 'Salar Mohtaj, Vera Schmitt, Razieh Khamsehashari, Sebastian Möller'
 # and it will be replaced with their full name and linked to their profile.
 authors:
     - Salar Mohtaj
-    - Vera Schmitt
+    - Dr. Vera Schmitt
     - Razieh Khamsehashari
-    - Sebastian Möller
+    - Prof. Sebastian Möller
 # Author notes (optional)
 author_notes: 
 

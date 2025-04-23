@@ -7,7 +7,7 @@ url: /projects/past_projects/news_polygraph/
 external_link: "https://news-polygraph.com/en/landing-page/"
 
 date: 2023-05-01
-authors: ["Vera Schmitt"]
+authors: ["Dr. Vera Schmitt"]
 
 funding:
   funder: BMBF

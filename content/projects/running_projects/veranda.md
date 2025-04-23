@@ -6,7 +6,7 @@ summary: "VERANDA explores and promotes informational self-determination in the 
 url: /projects/past_projects/veranda/
 external_link: "https://project-veranda.github.io/VERANDA/"
 
-authors: ["Vera Schmitt"]
+authors: ["Dr. Vera Schmitt"]
 date: 2023-05-01
 
 funding:
