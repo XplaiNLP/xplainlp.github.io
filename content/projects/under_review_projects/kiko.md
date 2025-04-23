@@ -19,6 +19,6 @@ team:
 
 
 ### Partners:
-- DFKI Speech and Language Technology Lab
-- TU Berlin XplaiNLP Group
+- DFKI (SLT)
+- TU Berlin (XplaiNLP Group)
 - CircularTree GmbH 
