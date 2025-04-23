@@ -1,5 +1,5 @@
 ---
-title: "News-Polygraph"
+title: "news-polygraph"
 subtitle: "Assisting journalists in the identification of disinformation in images, video, audio and text."
 summary: "news-polygraph is a collaborative research project working on a comprehensive, multimodal technology platform for analyzing and detecting disinformation."
 
@@ -15,16 +15,21 @@ funding:
   amount: EUR 1,492,547 
 
 team:
-  - name: Dr. Vera Schmitt
-    link: /authors/dr.-vera-schmitt/
-  - name: Joao daMata
-    link: /authors/Joao daMata/
+  - name: DW
+  - name: rbb
+  - name: TU Berlin (XplaiNLP)
+  - name: DFKI (SLT)
+  - name: Fraunhofer IDMT
+  - name: Ubermetrics Technologies GmbH
+  - Intapp GmbH
+  - Transfermedia GmbH
+
 
 weight: 2
 ---
 
 ### Project Overview
-News-Polygraph is a collaborative research project working on a comprehensive, multimodal technology platform for analyzing and detecting disinformation. By combining (AI) analysis methods for text, audio, image and video as well as the integration of crowd support, our project aims to support journalists and the media in effectively combating disinformation.
+news-polygraph is a collaborative research project working on a comprehensive, multimodal technology platform for analyzing and detecting disinformation. By combining AI analysis methods for text, audio, image and video as well as the integration of crowd support, our project aims to support journalists and the media in effectively combating disinformation.
 
 The News-Polygraph research alliance is the biggest research project funded by the Federal Ministry of Education and Research (BMBF) as part of the “RUBIN – Regional Entrepreneurial Alliances for Innovation” funding program. A total of nine partners from Berlin, Brandenburg and Thuringia, including institutions from science, media, technology and business, are working together on effective solutions to integrate AI as intelligent decision support in the information verification workflow.
 
