@@ -45,7 +45,7 @@ In the long term, the knowledge and experience gained from VeraXtract should hel
 
 In VeraXtract, we want to create an overview and go into less depth. This overview is necessary to provide better information about disinformation and also to be able to more quickly assign statements to existing disinformation narratives. The results of the VeraXtract project will be integrated into a publicly accessible platform.
 
-### Partners:
+### Associated Partners:
 - DFKI
 - Deutsche Presse-Agentur
 - DW News
