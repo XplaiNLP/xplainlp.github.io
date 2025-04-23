@@ -15,8 +15,13 @@ funding:
   amount: EUR 521,978 
 
 team:
-  - name: Dr. Vera Schmitt
-    link: /authors/dr.-vera-schmitt/
+ - AALTO University
+ - EUROCOM GIE
+ - INESC ID
+ - Stitching Radboud University
+ - Institut National De Recherche
+ - Ruhr-Universität Bochum
+ - TU Berlin
 
 weight: 1
 ---
