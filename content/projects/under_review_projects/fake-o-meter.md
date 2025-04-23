@@ -19,8 +19,8 @@ team:
 
 
 ### Partners:
-- DFKI Speech and Language TEchnology Lab
-- TU Berlin XplaiNLP group
+- DFKI (SLT)
+- TU Berlin (XplaiNLP Group)
 - Otto-von-Guericke-Universität Magdeburg Fachgebiet Mobile Dialogsysteme (MDS)
 - HS Magdeburg/Stendal Institut für demokratische Kultur
 - Deutsche Welle
