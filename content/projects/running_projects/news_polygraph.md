@@ -15,8 +15,15 @@ funding:
   amount: EUR 1,492,547 
 
 team:
-  - name: Dr. Vera Schmitt
-    link: /authors/dr.-vera-schmitt/
+- DW News
+- Rundfunk Berlin-Brandenburg
+- TU Berlin (XplaiNLP Group)
+- DFKI (SLT)
+- Fraunhofer IDMT
+- Ubermetrics Technologies GmbH
+- delphai GmbH
+- Crowdee GmbH
+- Transfermedia GmbH
 
 
 weight: 2
