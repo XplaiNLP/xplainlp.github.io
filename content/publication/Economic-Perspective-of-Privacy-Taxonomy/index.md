@@ -1,19 +1,16 @@
 ---
-title: 'Augmented Political Leaning Detection: Leveraging Parliamentary Speeches for Classifying News Articles'
-subtitle: 'Charlott Jakob, Pia Wenzel, Salar Mohtaj, Vera Schmitt'
+title: 'Empirical Investigation of the Economic Perspective of Privacy Taxonomy'
+subtitle: "Vera Schmitt, Monetary Valuation of Privacy, T-Labs Series in Telecommunication Services, Springer Nature Switzerland AG 2025"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-    - Charlott Jakob
-    - Salar Mohtaj
-    - Vera Schmitt
-    - Sebastian Möller
+- Vera Schmitt
 # Author notes (optional)
 author_notes: 
 
-date: '2024-06-03T00:00:00Z' #2024/6/3
+date: '2025-03-28T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -22,14 +19,14 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: 
+publication_types: ['Academic Book']
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the 4th Workshop on Computational Linguistics for the Political and Social Sciences Long and short papers
-publication_short: 
+publication: T-Labs Series in Telecommunication Services, Springer Nature Switzerland AG 2025
+publication_short:
 
-abstract: In an era where political discourse infiltrates online platforms and news media, identifying opinion is increasingly critical, especially in news articles, where objectivity is expected. Readers frequently encounter authors’ inherent political viewpoints, challenging them to discern facts from opinions. Classifying text on a spectrum from left to right is a key task for uncovering these viewpoints. Previous approaches rely on outdated datasets to classify current articles, neglecting that political opinions on certain subjects change over time. This paper explores a novel methodology for detecting political leaning in news articles by augmenting them with political speeches specific to the topic and publication time. We evaluated the impact of the augmentation using BERT and Mistral models. The results show that the BERT model’s F1 score improved from a baseline of 0.82 to 0.85, while the Mistral model’s F1 score increased from 0.30 to 0.31.
-
+abstract: |
+    This chapter synthesizes empirical findings from prior chapters into a structured model of privacy valuation. Using structural equation modeling, it identifies relationships between privacy-related and general influencing factors and their predictive power on WTP and WTA. The chapter provides a holistic view of privacy economics, integrating theoretical and empirical insights.
 # Summary. An optional shortened abstract.
 summary: 
 
@@ -43,7 +40,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://aclanthology.org/2024.cpss-1.11.pdf'
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-84239-9_6'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -73,5 +70,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-

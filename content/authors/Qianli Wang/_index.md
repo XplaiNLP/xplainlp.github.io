@@ -40,9 +40,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:qianli.wang@tu-berlin.de'
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://x.com/qiaw991
+    link: https://www.linkedin.com/in/qianliwang/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=dKmUzp4AAAAJ

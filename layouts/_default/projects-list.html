@@ -1,0 +1,57 @@
+{{ define "main" }}
+
+<!-- Link the css file in assets/css -->
+{{ $projectsCSS := resources.Get "css/projects.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $projectsCSS.Permalink }}" integrity="{{ $projectsCSS.Data.Integrity }}">
+
+<div class="universal-wrapper">
+  <h1>{{ .Title }}</h1>
+  
+  <!-- Running Projects Section -->
+  <div class="projects-section">
+    <h2 class="section-title">
+      Currently Running
+    </h2>
+    <div class="row">
+      {{ range (where .Site.RegularPages "Section" "projects") }}
+        {{ if in .File.Path "running_projects/" }}
+          <div class="col-12 col-md-6 col-lg-6 mb-4">
+            {{ partial "card.html" . }}
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+  
+  <div class="projects-section">
+    <h2 class="section-title">
+      Under Review
+      </h2>
+    <div class="row">
+      {{ range (where .Site.RegularPages "Section" "projects") }}
+        {{ if in .File.Path "under_review_projects/" }}
+          <div class="col-12 col-md-6 col-lg-6 mb-4">
+            {{ partial "card.html" . }}
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+  
+  <!-- Past Projects Section -->
+  <div class="projects-section">
+    <h2 class="section-title">
+      Past
+    </h2>
+    <div class="row">
+      {{ range (where .Site.RegularPages "Section" "projects") }}
+        {{ if in .File.Path "past_projects/" }}
+          <div class="col-12 col-md-6 col-lg-6 mb-4">
+            {{ partial "card.html" . }}
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
