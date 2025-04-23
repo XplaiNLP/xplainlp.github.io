@@ -6,7 +6,7 @@ summary: "Assessment of methods for monetary valuation of privacy and analysis o
 url: /projects/past_projects/DFG/
 external_link: https://www.tu.berlin/en/qu/research/current-past-projects/past-projects/monetary-valuation-of-location-information
 
-authors: ["admin"]
+authors: ["Vera Schmitt"]
 date: "2020-02-01"
 
 funding:

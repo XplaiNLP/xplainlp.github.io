@@ -1,8 +1,13 @@
 {{ define "main" }}
 
 <!-- Link the css file in assets/css -->
-{{ $projectsCSS := resources.Get "css/projects.css" | minify | fingerprint }}
-<link rel="stylesheet" href="{{ $projectsCSS.RelPermalink }}" media="all">
+{{ $projectsCSS := resources.Get "css/projects.css"}}
+{{ if hugo.IsProduction }}
+  {{ $projectsCSS = $projectsCSS | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $projectsCSS.RelPermalink }}" integrity="{{ $projectsCSS.Data.Integrity }}" crossorigin="anonymous">
+{{ else }}
+  <link rel="stylesheet" href="{{ $projectsCSS.RelPermalink }}">
+{{ end }}
 
 <div class="universal-wrapper">
   <h1>{{ .Title }}</h1>

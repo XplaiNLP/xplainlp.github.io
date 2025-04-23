@@ -6,7 +6,7 @@ summary: "Natural Language Processing system for classifying organizational text
 url: /projects/past_projects/ateSGD/
 external_link: "https://www.tu.berlin/en/qu/forschung/laufende-vergangene-projekte/laufende-projekte/atesdg"
 
-authors: ["admin"]
+authors: ["Vera Schmitt"]
 date: 2023-03-01
 
 funding:

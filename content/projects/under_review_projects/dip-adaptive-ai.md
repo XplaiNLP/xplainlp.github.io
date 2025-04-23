@@ -7,7 +7,7 @@ url:
 external_link:
 
 date: "2024-04-20"
-authors: ["admin"]
+authors: ["Vera Schmitt"]
 
 funding:
   funder: BMBF
