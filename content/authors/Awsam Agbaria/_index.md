@@ -23,7 +23,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
   - Natural Language Processing
@@ -58,4 +58,3 @@ email: ''
 user_groups:
   - Research Assistants
 ---
-Will join the group soon...
