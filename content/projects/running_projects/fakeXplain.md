@@ -17,12 +17,12 @@ funding:
 team:
   - name: Prof. Konrad Rieck
     link: https://mlsec.org/team/rieck/
-  - name: Prof. Joachim Meyer
-    link: https://english.tau.ac.il/profile/jmeyer
   - name: Prof. Sebastian Möller
     link: https://www.tu.berlin/qu/ueber-uns/leitung
   - name: Prof. Wojciech Samek
     link: https://iphome.hhi.de/samek/
+  - name: Prof. Joachim Meyer
+    link: https://english.tau.ac.il/profile/jmeyer
   - name: Dr. Vera Schmitt
     link: /authors/dr.-vera-schmitt/
   - name: Dr. Jing Yang
