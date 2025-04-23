@@ -26,6 +26,8 @@ jobs:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
     steps:
+      - name: Show Hugo version
+        run: hugo version
       - name: Checkout
         uses: actions/checkout@v4
         with:
