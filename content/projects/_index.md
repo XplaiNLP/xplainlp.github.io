@@ -1,4 +1,4 @@
 ---
 title: Projects
-type: projects-list
+layout: "projects-list"
 ---
