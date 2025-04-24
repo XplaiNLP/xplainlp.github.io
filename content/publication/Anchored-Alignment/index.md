@@ -1,6 +1,6 @@
 ---
 title: "Anchored Alignment for Self-Explanations Enhancement"
-subtitle: 'Luis Felipe Villa-Arenas, Ata Nizamoglu, Qianli Wang, Sebastian Möller, Vera Schmitt'
+subtitle: 'Luis Felipe Villa-Arenas, Ata Nizamoglu, Qianli Wang, Sebastian Möller, Vera Schmitt - Journal of Source Themes'
 authors:
   - Luis Felipe Villa-Arenas
   - Ata Nizamoglu
@@ -31,7 +31,7 @@ summary:
 
 tags:
 - Source Themes
-featured: false
+featured: True
 
 # links:
 # - name: ""

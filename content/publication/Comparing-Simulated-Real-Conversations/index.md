@@ -1,20 +1,20 @@
 ---
 title: 'Comparing Simulated and Real Conversations for QoE Assessments: Insights from ARKit-Based Facial Configuration Analyses'
-subtitle: "Robert P. Spang, Wafaa Wardah, Premtim Sahitaj, Sebastian Möller - 2023 15th International Conference on Quality of Multimedia Experience (QoMEX)"
+subtitle: "Robert P Spang, Wafaa Wardah, Vera Schmitt, Sebastian Möller - 2023 15th International Conference on Quality of Multimedia Experience (QoMEX)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Daniel Sivizaca Conde
-- Premtim Sahitaj
+- Robert P. Spang,
+- Wafaa Wardah
 - Dr. Vera Schmitt
 - Prof. Sebastian Möller
 
 # Author notes (optional)
 author_notes: 
 
-date: '2023-11-08T00:00:00Z'
+date: '2023-06-20T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,11 +26,11 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 2023 15th International Conference on Quality of Multimedia Experience (QoMEX)
-publication_short:
+publication: 2023 15th International Conference on Quality of Multimedia Experience
+publication_short: QoMEX
 
 abstract: |
-    Various smartphone and web applications use personal information to estimate the user’s behaviour among others for targeted advertising and improvement of personalized applications. Often applications and web services offer only two choices, either accept their privacy policies or not use the services. Hereby, the general scenario is to pay applications and web services with personal data. As privacy policies are lengthy to read and not comprehensible, most users accept the terms and conditions without the awareness of potential consequences. Thus, most users are unaware of continuously being tracked by many applications installed on their smart devices or accept sharing personal data in exchange for using applications and services online. Therefore, this study attempts to shed some light on the willingness to pay for data protection when offered this option in a continuous data-sharing scenario, and the willingness to accept when offered the option to sell personal data to two different data requestors. The study (N = 500) is conducted via crowdsourcing and examines the monetary valuation of users with respect to different data-sharing scenarios and different data types to allow for a more fine-grained analysis of user preferences. Moreover, different influencing factors such as privacy concerns, awareness and intended behaviour are examined in relation to the user’s monetary valuation. The results show significant differences between willingness to pay and accept for ten different data types and the two sharing scenarios contributing to further empirical evidence for the endowment effect. However, the sharing scenarios seem to have not a big influence on willingness to pay but showed significant differences in willingness to accept. Furthermore, the privacy influencing factors seem to negatively correlate with willingness to pay and positively correlate with willingness to accept.
+    This manuscript investigates the suitability of video-based conversation simulations for studying human reactions to quality degradations, focusing on facial configurations as a proxy for QoE. We analyze data from two distinct studies: a video-simulated video-telephony scenario using the storytime dataset, where participants passively watched videos, and a second study involving real conversations between participants. In both studies, facial features were continuously recorded using Apple's iOS ARKit API. We identify a factor structure of facial features that significantly relates to participants' QoE ratings in the first study and validate its robustness by replicating it in the second, independent study. Our findings suggest statistically significant estimations of QoE ratings across both paradigms, demonstrating the suitability of passive conversation simulations for studying human reactions to quality degradation. We assess the value of the proposed approach at its present stage and conclude that it can be a valuable tool when used in conjunction with other methods, as its predictive capabilities are still not robust enough to rely solely on this analysis technique.
 # Summary. An optional shortened abstract.
 summary: 
 
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-47748-5_13'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10178587/authors#authors'
 url_code: ''
 url_dataset: ''
 url_poster: ''

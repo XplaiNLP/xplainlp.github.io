@@ -1,6 +1,6 @@
 ---
 title: 'Towards a Novel Benchmark for Automatic Generation of ClaimReview Markup'
-subtitle: "Vinicius Woloszyn, Eduardo G. Cortes, Rafael Amantea, Vera Schmitt, Dante A. C. Barone, and Sebastian Möller (2021). In Proceedings of the 13th ACM Web Science Conference 2021 (WebSci '21)."
+subtitle: "Vinicius Woloszyn, Eduardo G. Cortes, Rafael Amantea, Vera Schmitt, Dante A. C. Barone, and Sebastian Möller. In Proceedings of the 13th ACM Web Science Conference 2021 (WebSci '21)."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

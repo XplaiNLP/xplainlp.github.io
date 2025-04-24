@@ -1,6 +1,6 @@
 ---
 title: 'Towards Automated Fact-Checking of Real-World Claims: Exploring Task Formulation and Assessment with LLMs'
-subtitle: "P. Sahitaj, I. Maab, J. Yamagishi, J. Kolanowski, S. Möller, V. Schmitt- arXiv preprint arXiv:2502.08909, 2025"
+subtitle: "Premtim Sahitaj, Iffat Maab, Junichi Yamagishi, Jawan Kolanowski, Sebastian Möller, Vera Schmitt- arXiv preprint arXiv:2502.08909, 2025"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -27,8 +27,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['preprint']
 
 # Publication name and optional abbreviated publication name.
-publication: arXiv preprint arXiv:2502.08909, 2025
-publication_short: arXiv:2502.08909
+publication: arXiv
+publication_short: arXiv
 
 abstract: |
     Fact-checking is necessary to address the increasing volume of misinformation. Traditional fact-checking relies on manual analysis to verify claims, but it is slow and resource-intensive. This study establishes baseline comparisons for Automated Fact-Checking (AFC) using Large Language Models (LLMs) across multiple labeling schemes (binary, three-class, five-class) and extends traditional claim verification by incorporating analysis, verdict classification, and explanation in a structured setup to provide comprehensive justifications for real-world claims.

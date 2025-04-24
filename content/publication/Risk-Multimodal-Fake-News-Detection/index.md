@@ -1,16 +1,21 @@
 ---
-title: 'Empirical Investigation of the Economic Perspective of Privacy Taxonomy'
-subtitle: "Vera Schmitt, Monetary Valuation of Privacy, T-Labs Series in Telecommunication Services, Springer Nature Switzerland AG 2025"
+title: 'How Risky is Multimodal Fake News Detection? A Review of Cross-Modal Learning Approaches under EU AI Act Constrains'
+subtitle: "Razieh Khamsehashari, Vera Schmitt, Tim Polzehl, Salar Mohtaj, Sebastian Möller - In Proceedings of the 3rd Symposium on Security and Privacy in Speech Communication"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Razieh Khamsehashari
 - Dr. Vera Schmitt
+- Tim Polzehl
+- Salar Mohtaj
+- Prof. Sebastian Möller
+
 # Author notes (optional)
 author_notes: 
 
-date: '2025-03-28T00:00:00Z'
+date: '2023-08-19T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -19,14 +24,14 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['book']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: T-Labs Series in Telecommunication Services, Springer Nature Switzerland AG 2025
+publication: 3rd Symposium on Security and Privacy in Speech Communication
 publication_short:
 
 abstract: |
-    This chapter synthesizes empirical findings from prior chapters into a structured model of privacy valuation. Using structural equation modeling, it identifies relationships between privacy-related and general influencing factors and their predictive power on WTP and WTA. The chapter provides a holistic view of privacy economics, integrating theoretical and empirical insights.
+    Manual review methods have become insufficient when combating today’s scale of online fake news, leading researchers to develop AI-based detection models, many of which struggle with, e.g., multimodal conflicts and ambiguity. Most promising models combine images and textual information in a cross-modal learning strategy. This work summarizes current multimodal fake news detection models, based on cross-modal learning. In order to evaluate if and how they can be applied in real-world use cases, we analyze best-performing models with respect to obligations like risk management, data governance, documentation, transparency, human oversight, and required accuracy, following the European Commission’s AI Act. The analysis shows that the AI Act can be applied to a certain extent only, as the categories and their obligations are vaguely defined, leaving room for interpretation when translating the obligations into technical requirements. 
 # Summary. An optional shortened abstract.
 summary: 
 
@@ -40,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-84239-9_6'
+url_pdf: 'https://www.isca-archive.org/spsc_2023/khamsehashari23_spsc.html'
 url_code: ''
 url_dataset: ''
 url_poster: ''

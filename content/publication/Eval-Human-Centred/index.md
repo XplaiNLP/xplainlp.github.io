@@ -1,6 +1,6 @@
 ---
 title: 'Evaluating Human-Centered AI Explanations: Introduction of an XAI Evaluation Framework for Fact-Checking'
-subtitle: 'Vera Schmitt, Balázs Patrik Csomor, Joachim Meyer, Luis-Felipe Villa-Areas, Charlott Jakob, Tim Polzehl, Sebastian Möller'
+subtitle: 'Vera Schmitt, Balázs Patrik Csomor, Joachim Meyer, Luis-Felipe Villa-Areas, Charlott Jakob, Tim Polzehl, Sebastian Möller - 3rd ACM International Workshop on Multimedia AI against Disinformation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

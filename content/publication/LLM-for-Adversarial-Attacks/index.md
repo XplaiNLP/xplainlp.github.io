@@ -1,6 +1,6 @@
 ---
 title: 'Utilising Large Language Models for Adversarial Attacks in Text-to-SQL: A Perpetrator and Victim Approach'
-subtitle: "Sahitaj, Ariana; Nilles, Markus; Schenkel, Ralf; Schmitt, Vera (2025). Datenbanksysteme für Business, Technologie und Web (BTW 2025). DOI: 10.18420/BTW2025-59. Gesellschaft für Informatik, Bonn. EISSN: 2944-7682. pp. 919-931. Student Track. Bamberg. 3.-7. März 2025"
+subtitle: "Sahitaj, Ariana; Nilles, Markus; Schenkel, Ralf; Schmitt, Vera. Datenbanksysteme für Business, Technologie und Web (BTW 2025)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

@@ -1,6 +1,6 @@
 ---
 title: "CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems"
-subtitle: 'Qianli Wang, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Sebastian Möller'
+subtitle: 'Qianli Wang, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Sebastian Möller - Findings of the Association for Computational Linguistics: EMNLP 2024'
 authors:
   - Qianli Wang
   - Tatiana Anikina
@@ -27,7 +27,7 @@ abstract: Conversational explainable artificial intelligence (ConvXAI) systems b
 # Summary. An optional shortened abstract.
 summary: 
 tags:
-featured: false
+featured: true
 
 url_pdf: https://aclanthology.org/2024.findings-emnlp.76.pdf
 url_code: ''

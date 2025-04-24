@@ -25,7 +25,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Springer Nature - International Summer School, Privacy and Identity 2023, Oslo, Norway, August 8–11, 2023, Revised Selected Papers
+publication: International Summer School, Privacy and Identity 2023, Oslo, Norway, August 8–11, 2023, Revised Selected Papers
 publication_short:
 
 abstract: |

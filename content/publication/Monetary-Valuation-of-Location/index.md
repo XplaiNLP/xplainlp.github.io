@@ -1,6 +1,6 @@
 ---
 title: 'What is Your Location Privacy Worth? Monetary Valuation of Different Location Types and Privacy Influencing Factors'
-subtitle: "Vera Schmitt, Zhenni Li, Maija Poikela, Robert P. Spang, and Sebastian Möller (2023). In Proceedings of the 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec '23). Association for Computing Machinery, New York, NY, USA, 19–29."
+subtitle: "Vera Schmitt, Zhenni Li, Maija Poikela, Robert P. Spang, and Sebastian Möller. In Proceedings of the 16th ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec '23). Association for Computing Machinery, New York, NY, USA, 19–29."
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

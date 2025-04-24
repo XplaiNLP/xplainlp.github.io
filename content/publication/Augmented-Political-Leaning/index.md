@@ -1,6 +1,6 @@
 ---
 title: 'Augmented Political Leaning Detection: Leveraging Parliamentary Speeches for Classifying News Articles'
-subtitle: 'Charlott Jakob, Pia Wenzel, Salar Mohtaj, Vera Schmitt'
+subtitle: 'Charlott Jakob, Pia Wenzel, Salar Mohtaj, Vera Schmitt - In *Proceedings of the 4th Workshop on Computational Linguistics for the Political and Social Sciences*'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -22,11 +22,11 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['workshop-paper']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 4th Workshop on Computational Linguistics for the Political and Social Sciences*
-publication_short: In *Proceedings of the 4th Workshop on Computational Linguistics for the Political and Social Sciences*
+publication: 4th Workshop on Computational Linguistics for the Political and Social Sciences*
+publication_short:
 
 abstract: In an era where political discourse infiltrates online platforms and news media, identifying opinion is increasingly critical, especially in news articles, where objectivity is expected. Readers frequently encounter authors’ inherent political viewpoints, challenging them to discern facts from opinions. Classifying text on a spectrum from left to right is a key task for uncovering these viewpoints. Previous approaches rely on outdated datasets to classify current articles, neglecting that political opinions on certain subjects change over time. This paper explores a novel methodology for detecting political leaning in news articles by augmenting them with political speeches specific to the topic and publication time. We evaluated the impact of the augmentation using BERT and Mistral models. The results show that the BERT model’s F1 score improved from a baseline of 0.82 to 0.85, while the Mistral model’s F1 score increased from 0.30 to 0.31.
 # Summary. An optional shortened abstract.

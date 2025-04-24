@@ -1,16 +1,18 @@
 ---
-title: 'Empirical Investigation of the Economic Perspective of Privacy Taxonomy'
-subtitle: "Vera Schmitt, Monetary Valuation of Privacy, T-Labs Series in Telecommunication Services, Springer Nature Switzerland AG 2025"
+title: "A Feature Extraction based Model for Hate Speech Identification"
+subtitle: "Salar Mohtaj, Vera Schmitt, Sebastian Möller - arXiv preprint arXiv:2201.04227"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Salar Mohtaj
 - Dr. Vera Schmitt
+- Prof. Sebastian Möller
 # Author notes (optional)
 author_notes: 
 
-date: '2025-03-28T00:00:00Z'
+date: '2022-01-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -19,14 +21,14 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['book']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: T-Labs Series in Telecommunication Services, Springer Nature Switzerland AG 2025
+publication: arXiv
 publication_short:
 
 abstract: |
-    This chapter synthesizes empirical findings from prior chapters into a structured model of privacy valuation. Using structural equation modeling, it identifies relationships between privacy-related and general influencing factors and their predictive power on WTP and WTA. The chapter provides a holistic view of privacy economics, integrating theoretical and empirical insights.
+    The detection of hate speech online has become an important task, as offensive language such as hurtful, obscene and insulting content can harm marginalized people or groups. This paper presents TU Berlin team experiments and results on the task 1A and 1B of the shared task on hate speech and offensive content identification in Indo-European languages 2021. The success of different Natural Language Processing models is evaluated for the respective subtasks throughout the competition. We tested different models based on recurrent neural networks in word and character levels and transfer learning approaches based on Bert on the provided dataset by the competition. Among the tested models that have been used for the experiments, the transfer learning-based models achieved the best results in both subtasks.
 # Summary. An optional shortened abstract.
 summary: 
 
@@ -40,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-84239-9_6'
+url_pdf: 'https://arxiv.org/abs/2201.04227'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -70,3 +72,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+
+
