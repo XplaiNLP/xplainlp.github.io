@@ -15,13 +15,13 @@ funding:
   amount: EUR 521,978 
 
 team:
- - AALTO University
- - EUROCOM GIE
- - INESC ID
- - Stitching Radboud University
- - Institut National De Recherche
- - Ruhr-Universität Bochum
- - TU Berlin
+ - name: AALTO University
+ - name: EUROCOM GIE
+ - name: INESC ID
+ - name: Stitching Radboud University
+ - name: Institut National De Recherche
+ - name: Ruhr-Universität Bochum
+ - name: TU Berlin
 
 weight: 1
 ---

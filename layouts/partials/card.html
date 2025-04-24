@@ -32,7 +32,11 @@
         <div class="project-tags">
             <span class="tag-label">Partners:</span>
             {{ range .Params.Team }}
-            <a href="{{ .link }}" class="project-tag">{{ .name }}</a>
+                {{ if .link }}
+                    <a href="{{ .link }}" class="project-tag">{{ .name }}</a>
+                {{ else }}
+                    <span class="project-tag">{{ .name }}</span>
+                {{ end }}
             {{ end }}
         </div>
         {{ end }}

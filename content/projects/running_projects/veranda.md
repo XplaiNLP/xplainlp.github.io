@@ -15,10 +15,10 @@ funding:
   amount: EUR 321,600
 
 team:
-- TU Berlin (XplaiNLP)
-- Fraunhofer AISEC
-- BIH and IfSS Charité
-- DFKI (SLT)
+- name: TU Berlin (XplaiNLP)
+- name: Fraunhofer AISEC
+- name: BIH and IfSS Charité
+- name: DFKI (SLT)
 
 
 weight: 5

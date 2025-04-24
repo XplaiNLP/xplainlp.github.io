@@ -15,15 +15,15 @@ funding:
   amount: EUR 1,492,547 
 
 team:
-- DW News
-- Rundfunk Berlin-Brandenburg
-- TU Berlin (XplaiNLP Group)
-- DFKI (SLT)
-- Fraunhofer IDMT
-- Ubermetrics Technologies GmbH
-- delphai GmbH
-- Crowdee GmbH
-- Transfermedia GmbH
+  - name: DW News
+  - name: Rundfunk Berlin-Brandenburg
+  - name: TU Berlin (XplaiNLP Group)
+  - name: DFKI (SLT)
+  - name: Fraunhofer IDMT
+  - name: Ubermetrics Technologies GmbH
+  - name: delphai GmbH
+  - name: Crowdee GmbH
+  - name: Transfermedia GmbH
 
 
 weight: 2
