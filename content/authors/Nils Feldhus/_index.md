@@ -29,7 +29,6 @@ bio:
 
 interests:
   - Interpretability and Analysis of NLP Models
-  - Rationale Generation
   - Text Simplification and Summarization
   - Dialogue Systems, Interactive Systems and User Interfaces
   - Trustworthy Biomedical and Clinical NLP
@@ -67,7 +66,7 @@ user_groups:
   - Senior Researchers
 ---
 Nils completed his undergraduate studies in Computational Linguistics (B.A.) at Heidelberg University in 2016 and obtained a master's degree in Cognitive Systems (M.Sc.) at Potsdam University in 2020, specializing in natural language processing and machine learning techniques.
-In January 2020, he joined the Speech and Language Technology research group at German Research Institute for Artificial Intelligence (DFKI) in Berlin and worked on various NLP-related topics with a focus on explainability and dialogue systems. Between 2021 and 2024, he pursued his PhD at TU Berlin under the supervision of Prof. Sebastian Möller. He will defend his thesis with the title "Approaches for Generating and Evaluating Natural Language Explanations of Language Models" in early 2025.
-In December 2024, he joined TU Berlin conducting research on the BIFOLD agility project IlluminateCardio ("Interpretable Large Language Models for the Cardiovascular Medicine") and is affiliated with the XplaiNLP group at TU Berlin as a Senior Researcher as well as with DFKI as a guest researcher.
+In January 2020, he joined the Speech and Language Technology research group at German Research Institute for Artificial Intelligence (DFKI) in Berlin and worked on various NLP-related topics with a focus on explainability and dialogue systems. Between 2021 and 2024, he pursued his PhD at TU Berlin under the supervision of Prof. Sebastian Möller. He defended his thesis with the title "Approaches for Generating and Evaluating Natural Language Explanations of Language Models" in April 2025.
+In January 2025, he joined TU Berlin conducting research on the BIFOLD agility project IlluminateCardio ("Interpretable Large Language Models for the Cardiovascular Medicine") and is affiliated with the XplaiNLP group at TU Berlin as a Senior Researcher as well as with DFKI as a guest researcher.
 
 Personal website: https://nfelnlp.github.io/
