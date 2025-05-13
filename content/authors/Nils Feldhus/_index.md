@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nils Feldhus
+title: Dr. Nils Feldhus
 
 # Full name (for SEO)
 first_name: Nils
