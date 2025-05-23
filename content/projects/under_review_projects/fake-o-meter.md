@@ -10,7 +10,7 @@ date: "2024-04-20"
 authors: ["Dr. Vera Schmitt"]
 
 funding:
-  funder: DFG
+  funder: BMFTR (previously BMBF)
   duration:
   amount: EUR 883,000 TUB Requested funding 
 
