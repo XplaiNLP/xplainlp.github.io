@@ -10,7 +10,7 @@ date: 2023-05-01
 authors: ["Dr. Vera Schmitt"]
 
 funding:
-  funder: BMBF
+  funder: BMFTR (previous BMBF)
   duration: "05/2023 - 04/2026"
   amount: EUR 1,492,547 
 
