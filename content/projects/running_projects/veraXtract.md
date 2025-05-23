@@ -1,7 +1,7 @@
 ---
 title: "VeraXtract"
 subtitle: "Verification and extraction of disinformation narratives with individualized explanations"
-summary: "The VeraXtract project is funded by the BMBF to establish and expand the XplaiNLP research group. The thematic focus is on gaining a better understanding of disinformation narratives. The goal is to create a comprehensive overview of misinformation and disinformation in order to make it easier for citizens to access this information."
+summary: "The VeraXtract project is funded by the BMFTR to establish and expand the XplaiNLP research group. The thematic focus is on gaining a better understanding of disinformation narratives. The goal is to create a comprehensive overview of misinformation and disinformation in order to make it easier for citizens to access this information."
 
 url: /projects/past_projects/veraXtract/
 external_link: "https://www.tu.berlin/en/qu/research/current-past-projects/laufende-projekte/veraxtract"
@@ -23,7 +23,7 @@ weight: 4
 ---
 
 ### Project Overview
-The VeraXtract project is funded by the BMBF to establish and expand the XplaiNLP research group. The thematic focus of the project is on the extraction and detection of disinformation narratives and the development of approaches in the field of eXplainable AI.
+The VeraXtract project is funded by the BMFTR to establish and expand the XplaiNLP research group. The thematic focus of the project is on the extraction and detection of disinformation narratives and the development of approaches in the field of eXplainable AI.
 
 Within the project, PhD students will focus on different topics:
 - Knowledge Base: development of a vector-based database consisting of disinformation narratives and provenance analysis/similarity search,
