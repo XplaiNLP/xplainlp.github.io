@@ -20,7 +20,7 @@ weight: 7
 
 # Organizations/Affiliations
 organizations:
-  - name: Technische Universität Berlin
+  - name: Potsdam University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
