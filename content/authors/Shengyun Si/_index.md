@@ -27,10 +27,11 @@ organizations:
 bio: 
 
 interests:
-  - Post-hoc explanations (counterfactual generation, rationale generation etc.)
-  - Interactive conversational XAI systems
-  - Evaluation of text generation
-  - Data-centric interpretability
+  - Multimodal language models
+  - Disinformation detection
+  - Retrieval augmented generation
+  - LLM-based multiagent systems
+  - Alignment of large language models
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -39,13 +40,13 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'shengyuninmunich@gmail.com'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shengyun-si-67543a244/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=4P8fSDMAAAAJ
+    link: https://scholar.google.com/citations?user=4P8fSDMAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,5 +61,10 @@ email: ''
 user_groups:
   - Researchers
 ---
-Will join the group soon...
+Shengyun Si received his B.Sc. in Engineering from Zhejiang University in 2021. He subsequently pursued an M.Sc. in Robotics, Cognition, and Intelligence at the Technical University of Munich. During his master's studies, he worked as a research assistant in the NLP group (link https://nlp.cs.yale.edu/) at Yale University, collaborating with Yilun Zhao (link https://yilunzhao.github.io/) under the supervision of Prof. Arman Cohan (link https://armancohan.com/). This research focused on table-to-text generation using large language models. His master's thesis, titled "Think Before Refusal: Triggering Safety Reflection in LLMs to Mitigate False Refusal Behaviour", explored the safety alignment of large language models and was conducted in collaboration with Xinpeng Wang (link https://xinpeng-wang.github.io/)  and Prof. Barbara Plank (https://bplank.github.io/) in the MaiNLP group (https://mainlp.github.io/) at Ludwig Maximilian University of Munich.
+He is currently a doctoral researcher at the Quality and Usability Lab (QU Lab) in the XplaiNLP group at Technical University of Berlin, and a guest researcher affiliated with the Speech and Language Technology (SLT) group at DFKI (Deutsches Forschungszentrum für Künstliche Intelligenz), working on the VeraXtract project. His research interests include multimodal language models, retrieval-augmented generation, disinformation detection, LLM-based multi-agent systems, and the alignment of large language models.
+
+
+
+
 
