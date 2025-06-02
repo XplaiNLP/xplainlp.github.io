@@ -16,7 +16,7 @@ superuser: false
 # Role/position
 role: Student Researcher
 
-weight: 4
+weight: 7
 
 # Organizations/Affiliations
 organizations:
