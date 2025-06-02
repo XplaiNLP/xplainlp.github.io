@@ -36,9 +36,6 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:y.tsoneva@campus.tu-berlin.de'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/neda-foroutan-2491574b/
