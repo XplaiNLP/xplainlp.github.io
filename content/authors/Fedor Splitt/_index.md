@@ -38,7 +38,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:splitt@campus.tu-berlin.de'
+    link: 'mailto:splitt@tu-berlin.de'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/fedor-splitt/
