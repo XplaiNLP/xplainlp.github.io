@@ -1,8 +1,6 @@
 ---
 title: AI_Berlin Interview - “AI should not only help to disseminate information more quickly, but also to check its validity immediately.”
 date: 2024-10-30
-authors:
-    - admin
 ---
 “AI should not only help to disseminate information more quickly, but also to check its validity immediately.”
 
