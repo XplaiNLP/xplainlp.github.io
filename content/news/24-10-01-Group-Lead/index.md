@@ -1,8 +1,6 @@
 ---
 title: Announcing Our New Research Group Lead Vera Schmitt for Disinformation Narrative Detection and eXplainable AI (xAI)
 date: 2024-10-01
-authors:
-    - admin
 ---
 
 Announcing Our New Research Group Lead Vera Schmitt for Disinformation Narrative Detection and eXplainable AI (xAI)
