@@ -1,8 +1,6 @@
 ---
 title: 'Interview with BR: "Faktencheck mit KI? Prüfen Sie die Antwort!"'
 date: 2025-04-07
-authors:
-    - admin
 ---
 <!--more-->
 
