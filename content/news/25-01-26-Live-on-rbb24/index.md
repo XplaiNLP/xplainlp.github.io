@@ -1,11 +1,9 @@
 ---
 title: Live on rbb24 & ARD Mediathek – Fighting Disinformation Together!
 date: 2025-01-27
-authors:
-    - admin
 ---
 
-Last Friday, Vera participated in an intriguing panel discussion with Alexandra Geese, Jörg Müller, Patrick Stegemann, Moritz Demmig and Dr. David Biesinger moderated by Jörg Thadeusz at the rooftop lounge (Studio 14) at Rundfunk Berlin-Brandenburg! 
+Friday 27.01.25, Vera participated in an intriguing panel discussion with Alexandra Geese, Jörg Müller, Patrick Stegemann, Moritz Demmig and Dr. David Biesinger moderated by Jörg Thadeusz at the rooftop lounge (Studio 14) at Rundfunk Berlin-Brandenburg! 
 
 <!--more-->
 
