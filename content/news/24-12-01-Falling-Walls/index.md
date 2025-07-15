@@ -1,8 +1,6 @@
 ---
 title: News-polygraph at Falling Walls Science Summit
 date: 2024-10-01
-authors:
-    - admin
 ---
 
 🚀 Thrilled to share that we presented the news-polygraph project at the Falling Walls Science Summit in Berlin, in collaboration with the DFKI, as part of the AI Night during Berlin Science Week (https://lnkd.in/e2T_G9Yy)! 🌐✨
