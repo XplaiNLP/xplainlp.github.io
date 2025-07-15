@@ -1,8 +1,6 @@
 ---
 title: CLEF 2024 - Towards a Computational Framework for Distinguishing Critical and Conspiratorial Texts by Elaborating on the Context and Argumentation with LLMs
 date: 2024-09-01
-authors:
-    - admin
 ---
 
 🎉 This week, I had the incredible opportunity to present my first research paper at the CLEF 2024 Conference. The conference was held in Grenoble, but I skipped the airport lines and presented from Berlin instead. No lost luggage, but I definitely missed out on some French pastries and mountain views!
