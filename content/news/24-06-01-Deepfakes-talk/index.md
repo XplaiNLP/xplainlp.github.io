@@ -1,8 +1,6 @@
 ---
 title: “Deepfakes - Our New Reality?” Talk at re:publica 24
 date: 2024-06-01
-authors:
-    - admin
 image:
   focal_point: 'top'
 ---
