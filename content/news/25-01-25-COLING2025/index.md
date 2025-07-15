@@ -1,8 +1,6 @@
 ---
 title: COLING 2025 -  Cross-Refine:Improving Natural Language Explanation Generation by Learning in Tandem
 date: 2025-01-25
-authors:
-    - admin
 ---
 
 Qianli Wang, a member of the XplaiNLP research group at Technische Universität Berlin and Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI), has been accepted at COLING 2025! 🎉
