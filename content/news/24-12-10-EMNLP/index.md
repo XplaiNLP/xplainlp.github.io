@@ -1,8 +1,6 @@
 ---
 title: EMNLP2024! CoXQL - A Dataset for Parsing Explanation Requests in Conversational XAI Systems
 date: 2024-10-01
-authors:
-    - admin
 ---
 
 Exciting News from hashtag#EMNLP2024! 🚀
