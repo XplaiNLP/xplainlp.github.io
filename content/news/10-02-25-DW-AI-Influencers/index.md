@@ -1,8 +1,6 @@
 ---
 title: 'Interview with DW: "Fact check: AI influencers targeting German elections"'
 date: 2025-02-10
-authors:
-    - admin
 ---
 
 Dr. Vera Schmitt assisted in fact-checking "AI influencer" accounts for a DW News report.
