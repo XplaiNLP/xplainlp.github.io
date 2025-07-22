@@ -28,3 +28,60 @@
     </div>
   </div>
 </div>
+
+<style>
+/* The container that acts as the "window" */
+.slider-container {
+  width: 100%;
+  max-width: 1100px; /* Or any width you prefer */
+  margin: 30px auto;
+  overflow: hidden; /* This is crucial for the sliding effect */
+  position: relative;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* The long strip of slides */
+.slider {
+  display: flex;
+  transition: transform 0.5s ease-in-out; /* Smooth transition animation */
+}
+
+/* Each individual slide */
+.slide {
+  min-width: 100%;
+  box-sizing: border-box;
+}
+
+/* Styling for the images inside the slides */
+.slide img {
+  width: 100%;
+  display: block; /* Removes bottom space under the image */
+  object-fit: cover; /* Ensures the image covers the area without distortion */
+  aspect-ratio: 16 / 9; /* Sets a consistent aspect ratio */
+}
+</style>
+
+<script>
+// Wait for the page to fully load before running the script
+document.addEventListener('DOMContentLoaded', () => {
+  const slider = document.querySelector('.slider');
+  if (!slider) return; // Exit if the slider doesn't exist
+
+  const slides = document.querySelectorAll('.slide');
+  const slideCount = slides.length;
+  if (slideCount <= 1) return; // Exit if there's only one or zero slides
+
+  let currentSlide = 0;
+
+  // Set an interval to run the slide function every 1.5 seconds
+  setInterval(() => {
+    // Move to the next slide
+    // The modulo (%) operator makes the slider loop back to the start
+    currentSlide = (currentSlide + 1) % slideCount;
+
+    // Move the slider strip to the left to show the current slide
+    slider.style.transform = `translateX(-${currentSlide * 100}%)`;
+  }, 1500); // 1500 milliseconds = 1.5 seconds
+});
+</script>
