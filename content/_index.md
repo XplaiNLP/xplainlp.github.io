@@ -9,7 +9,6 @@ sections:
       title: Welcome to XplaiNLP Research Group
       text: |
         ### **XplaiNLP: Advancing Transparent and Trustworthy AI for Decision Support in High-Stakes Domains*
-    
   - block: hero
     content:
       title: |
