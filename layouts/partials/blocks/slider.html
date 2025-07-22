@@ -30,58 +30,66 @@
 </div>
 
 <style>
-/* The container that acts as the "window" */
 .slider-container {
   width: 100%;
-  max-width: 1100px; /* Or any width you prefer */
+  max-width: 1100px;
   margin: 30px auto;
-  overflow: hidden; /* This is crucial for the sliding effect */
+  overflow: hidden;
   position: relative;
   border-radius: 12px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  /* Optional: Adds a nice fade effect at the edges */
+  mask-image: linear-gradient(to right, transparent, black 15%, black 85%, transparent);
 }
 
-/* The long strip of slides */
 .slider {
   display: flex;
-  transition: transform 0.7s ease-in-out; /* Smooth transition animation */
+  /* Duration = 3s per slide * 6 slides = 18s total */
+  animation: scroll 18s linear infinite;
 }
 
-/* Each individual slide */
+/* Pause animation on hover */
+.slider-container:hover .slider {
+  animation-play-state: paused;
+}
+
+/* Define the scrolling animation */
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    /* Moves the slider left by the width of the original 6 slides */
+    transform: translateX(-50%);
+  }
+}
+
 .slide {
-  min-width: 100%;
+  min-width: 16.666%; /* 100% / 6 slides */
   box-sizing: border-box;
+  padding: 0 10px; /* Adds a small gap between images */
 }
 
-/* Styling for the images inside the slides */
 .slide img {
   width: 100%;
-  display: block; /* Removes bottom space under the image */
-  object-fit: cover; /* Ensures the image covers the area without distortion */
-  aspect-ratio: 16 / 9; /* Sets a consistent aspect ratio */
+  display: block;
+  object-fit: cover;
+  aspect-ratio: 16 / 9;
+  border-radius: 8px; /* Softer edges for images */
 }
 </style>
 
 <script>
-// Wait for the page to fully load before running the script
 document.addEventListener('DOMContentLoaded', () => {
   const slider = document.querySelector('.slider');
-  if (!slider) return; // Exit if the slider doesn't exist
+  if (!slider) return;
 
-  const slides = document.querySelectorAll('.slide');
-  const slideCount = slides.length;
-  if (slideCount <= 1) return; // Exit if there's only one or zero slides
-
-  let currentSlide = 0;
-
-  // Set an interval to run the slide function every 1.5 seconds
-  setInterval(() => {
-    // Move to the next slide
-    // The modulo (%) operator makes the slider loop back to the start
-    currentSlide = (currentSlide + 1) % slideCount;
-
-    // Move the slider strip to the left to show the current slide
-    slider.style.transform = `translateX(-${currentSlide * 100}%)`;
-  }, 1500); // 1500 milliseconds = 1.5 seconds
+  const slides = slider.querySelectorAll('.slide');
+  if (slides.length > 1) {
+    // Clone each slide and append it to the slider to create a continuous loop
+    slides.forEach(slide => {
+      slider.appendChild(slide.cloneNode(true));
+    });
+  }
 });
 </script>
