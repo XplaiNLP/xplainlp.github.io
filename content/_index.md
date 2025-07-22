@@ -35,8 +35,6 @@ sections:
       columns: '1'
 
   - block: markdown
-
-  - block: markdown
     content:
       title: Our Methods
       subtitle: Advancing AI for Responsible Decision Support
@@ -69,4 +67,4 @@ sections:
       title: Research
       subtitle: "Advancing Transparent and Trustworthy AI for Decision Support in High-Stakes Domains"
       text: |
-        In the XplaiNLP Group, we create intelligent decision support systems
+        In the XplaiNLP Group, we create intelligent decision support systems that are not only powerful but also transparent and trustworthy. Our work focuses on developing explainable AI (XAI) methods tailored for Natural Language Processing (NLP) and integrating them into high-stakes domains where decision-making is critical. We explore the entire pipeline, from fundamental research in large language models (LLMs) to the design of human-computer interfaces (HCI) that empower users to understand and trust AI-driven insights. Our projects often involve interdisciplinary collaboration, tackling real-world challenges in areas like disinformation analysis, medical informatics, and legal tech. By focusing on human-centered evaluation, we ensure our systems are effective, ethical, and aligned with societal values.
