@@ -34,7 +34,6 @@ sections:
     content:
       text: |
         <img src="/uploads/media/team_park.jpg" alt="A photo of our team" style="width: 80%; max-width: 700px; margin: 2rem auto; display: block; border-radius: 10px;">
-        
         <div style="text-align: center;">
           <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem;">About Us</h1>
           <p style="font-size: 1.2rem; color: #6c757d;">
