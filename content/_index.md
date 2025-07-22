@@ -5,10 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-    content:
-      title: Welcome to XplaiNLP Research Group
-      text: |
-        ### **XplaiNLP: Advancing Transparent and Trustworthy AI for Decision Support in High-Stakes Domains*
   - block: hero
     content:
       title: |
@@ -20,6 +16,11 @@ sections:
           NLP and XAI Research Group at the <a href="https://www.tu.berlin/en/qu" target="_blank">Quality and Usability Lab TU Berlin</a>
           </span>
         </div>
+      # The text from your first block has been moved here.
+      text: |
+        At the **XplaiNLP research group**, we are shaping the future of **Intelligent Decision Support Systems (IDSS)** by developing AI that is **explainable, trustworthy, and human-centered**. Our research spans the entire **IDSS pipeline**, integrating advances in **natural language processing (NLP), large language models (LLM), explainability (XAI), evaluation, legal frameworks, and human-computer interaction (HCI)** to ensure AI-driven decision-making aligns with ethical and societal values.
+
+        We focus on **high-risk AI applications** where **human oversight is critical**, including **disinformation detection, social media analysis, medical data processing, and legal AI systems**.
     design:
       background:
         image:
