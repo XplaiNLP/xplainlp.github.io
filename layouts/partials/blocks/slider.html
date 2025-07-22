@@ -1,1 +1,81 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-12">
+      <div class="slider-container">
+        <div class="slider">
 
+          <div class="slide">
+            <video autoplay muted loop playsinline>
+              <source src="/media/your_video.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+          </div>
+
+          <div class="slide">
+            <img src="/authors/dr-vera-schmitt/avatar.jpg" alt="Dr. Vera Schmitt">
+          </div>
+          <div class="slide">
+            <img src="/authors/dr-jing-yang/avatar.jpg" alt="Dr. Jing Yang">
+          </div>
+          <div class="slide">
+            <img src="/authors/dr-nils-feldhus/avatar.jpg" alt="Dr. Nils Feldhus">
+          </div>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+/* Styles for the sliding window */
+.slider-container {
+  width: 100%;
+  max-width: 1100px;
+  margin: 30px auto;
+  overflow: hidden;
+  position: relative;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  background-color: #f8f9fa; /* Light background for loading */
+}
+
+.slider {
+  display: flex;
+  transition: transform 0.7s ease-in-out;
+}
+
+.slide {
+  min-width: 100%;
+  box-sizing: border-box;
+}
+
+.slide video,
+.slide img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9; /* Enforce a consistent aspect ratio */
+  object-fit: cover;
+  display: block;
+}
+</style>
+
+<script>
+(function() {
+  // Wait for the page to be fully loaded
+  window.addEventListener('load', () => {
+    const slider = document.querySelector('.slider');
+    if (!slider) return;
+
+    const slides = document.querySelectorAll('.slide');
+    let currentSlide = 0;
+    const slideCount = slides.length;
+
+    if (slideCount > 1) {
+      setInterval(() => {
+        currentSlide = (currentSlide + 1) % slideCount;
+        slider.style.transform = `translateX(-${currentSlide * 100}%)`;
+      }, 3000); // 3 seconds
+    }
+  });
+})();
+</script>
