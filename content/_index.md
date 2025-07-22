@@ -1,4 +1,3 @@
----
 # Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
@@ -8,34 +7,34 @@ sections:
   - block: hero
     content:
       title: |
-        <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh;">
+        <div style="font-size: 2.5rem; font-weight: bold;">
           XplaiNLP Research Group
         </div>
-        <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh;">
-          <span style="color:rgba(150, 148, 148, 0.87); font-size: 1rem;">
-          NLP and XAI Research Group at the <a href="https://www.tu.berlin/en/qu" target="_blank">Quality and Usability Lab TU Berlin</a>
-          </span>
+        <div style="font-size: 1.2rem; color: rgba(255, 255, 255, 0.8);">
+          NLP and XAI Research Group at the <a href="https://www.tu.berlin/en/qu" target="_blank" style="color: white; text-decoration: underline;">Quality and Usability Lab TU Berlin</a>
         </div>
-      # The text field has been removed from this block.
-      text:
     design:
+      # This block sets the background image and applies a filter to ensure text is readable.
       background:
         image:
           filename: welcome.jpg
           filters:
-            brightness: 0.3
-        text_color_light: true
+            brightness: 0.4 # Adjusted brightness for better contrast
+      # Ensures the text on the hero block is light-colored to stand out against the dark background.
+      text_color_light: true
 
   - block: markdown
     content:
-      # This block contains the text that now appears below the image.
+      # This text will appear below the hero image section.
       text: |
         At the **XplaiNLP research group**, we are shaping the future of **Intelligent Decision Support Systems (IDSS)** by developing AI that is **explainable, trustworthy, and human-centered**. Our research spans the entire **IDSS pipeline**, integrating advances in **natural language processing (NLP), large language models (LLM), explainability (XAI), evaluation, legal frameworks, and human-computer interaction (HCI)** to ensure AI-driven decision-making aligns with ethical and societal values.
 
         We focus on **high-risk AI applications** where **human oversight is critical**, including **disinformation detection, social media analysis, medical data processing, and legal AI systems**. Our interdisciplinary research tackles key challenges to set new standards for AI-driven decision support, ensuring that these technologies serve society **responsibly and effectively**.
     design:
-      # This centers the text content.
+      # This centers the text content in a single column.
       columns: '1'
+
+  - block: markdown
 
   - block: markdown
     content:
