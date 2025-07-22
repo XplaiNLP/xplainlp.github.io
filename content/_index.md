@@ -7,7 +7,7 @@ sections:
   - block: hero
     content:
       title: |
-        <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh;">
+        <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh; color: white;">
           XplaiNLP Research Group
         </div>
         <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh;">
