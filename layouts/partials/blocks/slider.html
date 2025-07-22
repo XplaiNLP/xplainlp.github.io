@@ -45,7 +45,7 @@
   position: relative;
   border-radius: 12px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-  background-color: #f8f9fa; /* Light background for loading */
+  background-color: #000; /* Change the background to black */
 }
 
 .slider {
@@ -62,8 +62,8 @@
 .slide img {
   width: 100%;
   height: auto;
-  aspect-ratio: 16 / 9; /* Enforce a consistent aspect ratio */
-  object-fit: cover;
+  aspect-ratio: 16 / 9;
+  object-fit: contain; /* Change 'cover' to 'contain' */
   display: block;
 }
 </style>
