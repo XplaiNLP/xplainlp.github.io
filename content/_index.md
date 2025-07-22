@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  <!--  - block: hero
     content:
       title: |
         <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh;">
@@ -22,13 +22,31 @@ sections:
           filename: welcome.jpg
           filters:
             brightness: 0.3
-        text_color_light: true
+        text_color_light: true -->
 
   - block: markdown
     content:
       title: Welcome to XplaiNLP Research Group
       text: |
         ### **XplaiNLP: Advancing Transparent and Trustworthy AI for Decision Support in High-Stakes Domains**
+
+  - block: markdown
+    content:
+      text: |
+        <img src="/uploads/media/team_park.jpg" alt="A photo of our team" style="width: 80%; max-width: 700px; margin: 2rem auto; display: block; border-radius: 10px;">
+        
+        <div style="text-align: center;">
+          <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem;">About Us</h1>
+          <p style="font-size: 1.2rem; color: #6c757d;">
+          XplaiNLP: Advancing Transparent and Trustworthy AI for Decision Support in High-Stakes Domains
+          </p>
+        </div>
+    design:
+      # Use '1' to center the content
+      columns: '1'
+      # Optional: Adjust top and bottom padding
+      spacing:
+        padding: ['50px', '0', '20px', '0']
         <!-- {style="color: grey"} -->
         
         At the **XplaiNLP research group**, we are shaping the future of **Intelligent Decision Support Systems (IDSS)** by developing AI that is **explainable, trustworthy, and human-centered**. Our research spans the entire **IDSS pipeline**, integrating advances in **natural language processing (NLP), large language models (LLM), explainability (XAI), evaluation, legal frameworks, and human-computer interaction (HCI)** to ensure AI-driven decision-making aligns with ethical and societal values.
