@@ -16,10 +16,8 @@ sections:
           NLP and XAI Research Group at the <a href="https://www.tu.berlin/en/qu" target="_blank">Quality and Usability Lab TU Berlin</a>
           </span>
         </div>
-      text: |
-        At the **XplaiNLP research group**, we are shaping the future of **Intelligent Decision Support Systems (IDSS)** by developing AI that is **explainable, trustworthy, and human-centered**. Our research spans the entire **IDSS pipeline**, integrating advances in **natural language processing (NLP), large language models (LLM), explainability (XAI), evaluation, legal frameworks, and human-computer interaction (HCI)** to ensure AI-driven decision-making aligns with ethical and societal values.
-
-        We focus on **high-risk AI applications** where **human oversight is critical**, including **disinformation detection, social media analysis, medical data processing, and legal AI systems**. Our interdisciplinary research tackles key challenges to set new standards for AI-driven decision support, ensuring that these technologies serve society **responsibly and effectively**.
+      # The text field has been removed from this block.
+      text:
     design:
       background:
         image:
@@ -27,6 +25,17 @@ sections:
           filters:
             brightness: 0.3
         text_color_light: true
+
+  - block: markdown
+    content:
+      # This block contains the text that now appears below the image.
+      text: |
+        At the **XplaiNLP research group**, we are shaping the future of **Intelligent Decision Support Systems (IDSS)** by developing AI that is **explainable, trustworthy, and human-centered**. Our research spans the entire **IDSS pipeline**, integrating advances in **natural language processing (NLP), large language models (LLM), explainability (XAI), evaluation, legal frameworks, and human-computer interaction (HCI)** to ensure AI-driven decision-making aligns with ethical and societal values.
+
+        We focus on **high-risk AI applications** where **human oversight is critical**, including **disinformation detection, social media analysis, medical data processing, and legal AI systems**. Our interdisciplinary research tackles key challenges to set new standards for AI-driven decision support, ensuring that these technologies serve society **responsibly and effectively**.
+    design:
+      # This centers the text content.
+      columns: '1'
 
   - block: markdown
     content:
@@ -61,33 +70,4 @@ sections:
       title: Research
       subtitle: "Advancing Transparent and Trustworthy AI for Decision Support in High-Stakes Domains"
       text: |
-        In the XplaiNLP Group, we create intelligent decision support systems (IDSS), by researching the whole cycle from developing and implementing large language models, and designing user interfaces with human-meaningful representations of model outputs and metadata, by implementing eXplanations and transparency features from NLP-based predictions.
-      filters:
-        folders:
-          - research
-        tags: []
-
-  - block: collection
-    content:
-      title: News
-      count: 3
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: news
-    design:
-      view: compact
-      columns: '2'
-
-  - block: markdown
-    content:
-      title: Projects
-      text: |
-        # Running
-        ### [NEWS-POLYGRAPH](/projects/past_projects/news_polygraph/)
-        Verification and Extraction of Disinformation Narr
+        In the XplaiNLP Group, we create intelligent decision support systems
