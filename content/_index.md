@@ -4,7 +4,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-    content:
+  - content:  
       title: Welcome to XplaiNLP Research Group
       text: |
         ### **XplaiNLP: Advancing Transparent and Trustworthy AI for Decision Support in High-Stakes Domains*
