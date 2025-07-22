@@ -10,8 +10,6 @@ sections:
     design:
       # Use full-width design so the slider can be centered nicely
       columns: '1'
-
-sections:
   - block: people
     content:
       title: Meet the Team
