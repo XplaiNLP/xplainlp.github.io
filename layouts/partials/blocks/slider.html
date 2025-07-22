@@ -67,23 +67,58 @@
   display: block;
 }
 </style>
-
 <script>
 (function() {
-  // Wait for the page to be fully loaded
   window.addEventListener('load', () => {
     const slider = document.querySelector('.slider');
     if (!slider) return;
 
     const slides = document.querySelectorAll('.slide');
-    let currentSlide = 0;
     const slideCount = slides.length;
+    if (slideCount <= 1) return;
 
-    if (slideCount > 1) {
+    const video = slider.querySelector('video'); // Get the video element
+    let currentSlide = 0;
+
+    // This function handles the 3-second rotation for image slides
+    function startImageInterval() {
+      setInterval(() => {
+        // Increment the slide index
+        currentSlide++;
+        // If we go past the last image, loop back to the FIRST IMAGE (index 1), not the video
+        if (currentSlide >= slideCount) {
+          currentSlide = 1; 
+        }
+        slider.style.transform = `translateX(-${currentSlide * 100}%)`;
+      }, 3000); // 3 seconds
+    }
+
+    // Check if a video exists on the first slide
+    if (video && slides[0].contains(video)) {
+      // Try to play the video (muted autoplay is usually allowed)
+      video.play().catch(error => {
+        console.log("Autoplay was prevented. Starting slider immediately.", error);
+        // If autoplay fails for any reason, just move to the first image and start the rotation
+        slider.style.transform = `translateX(-100%)`;
+        currentSlide = 1;
+        startImageInterval();
+      });
+
+      // Listen for when the video has finished playing
+      video.addEventListener('ended', () => {
+        // Move to the next slide (the first image)
+        currentSlide = 1;
+        slider.style.transform = `translateX(-100%)`;
+        // NOW, start the 3-second timer for the images
+        startImageInterval();
+      }, { once: true }); // This listener will only run once
+
+    } else {
+      // If there's no video, start the normal 3-second rotation for all slides immediately
       setInterval(() => {
         currentSlide = (currentSlide + 1) % slideCount;
         slider.style.transform = `translateX(-${currentSlide * 100}%)`;
-      }, 3000); // 3 seconds
+      }, 3000);
     }
   });
 })();
