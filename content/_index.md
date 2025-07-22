@@ -4,7 +4,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-- block: hero
+  - block: hero
     content:
       title: |
         <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh;">
@@ -15,13 +15,22 @@ sections:
           NLP and XAI Research Group at the <a href="https://www.tu.berlin/en/qu" target="_blank">Quality and Usability Lab TU Berlin</a>
           </span>
         </div>
-  - content:
+      # The text key is now empty as requested, so no text appears over the image.
+      text: |
+    design:
+      background:
+        image:
+          filename: welcome.jpg
+          filters:
+            brightness: 0.3
+      text_color_light: true
+
+  - block: markdown
+    content:
       title: Welcome to XplaiNLP Research Group
       text: |
         ### **XplaiNLP: Advancing Transparent and Trustworthy AI for Decision Support in High-Stakes Domains**
 
-  
-      text: |
         At the **XplaiNLP research group**, we are shaping the future of **Intelligent Decision Support Systems (IDSS)** by developing AI that is **explainable, trustworthy, and human-centered**. Our research spans the entire **IDSS pipeline**, integrating advances in **natural language processing (NLP), large language models (LLM), explainability (XAI), evaluation, legal frameworks, and human-computer interaction (HCI)** to ensure AI-driven decision-making aligns with ethical and societal values.
 
         We focus on **high-risk AI applications** where **human oversight is critical**, including **disinformation detection, social media analysis, medical data processing, and legal AI systems**. Our interdisciplinary research tackles the following key challenges:
@@ -45,12 +54,9 @@ sections:
 
         Through **interdisciplinary collaboration, hands-on research, and mentorship**, **XplaiNLP** is at the forefront of shaping AI that is not only powerful but also **transparent, fair, and accountable**. Our goal is to **set new standards for AI-driven decision support**, ensuring that these technologies serve society **responsibly and effectively**.
     design:
-      background:
-        image:
-          filename: welcome.jpg
-          filters:
-            brightness: 0.3
-      text_color_light: true
+      # This block will now have a standard background, not the hero image.
+      columns: '1'
+    
 
   - block: portfolio
     content:
