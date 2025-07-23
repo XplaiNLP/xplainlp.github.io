@@ -123,44 +123,56 @@ sections:
         Evaluation of different methods for the monetary evaluation of privacy.
     design:
       columns: '1'
-
+    
   - block: markdown
     content:
-      title: Partnerships
+      title: Projects
       text: |
         <div style="display: flex; flex-wrap: wrap;">
           <div style="flex: 1; min-width: 48%; margin-right: 2%;">
-            ## Academic Partnerships
+            # Running
             
-            - [Quality and Usability Lab, TU Berlin](https://www.tu.berlin/qu)
-            - [Berlin Institute for the Foundations of Learning and Data (BIFOLD)](https://www.bifold.berlin)
-            - Tel Aviv University, [Prof. Joachim Meyer](https://www.jmeyer.sites.tau.ac.il/)
-            - Fraunhofer [IDMT](https://www.idmt.fraunhofer.de) / [AISEC](https://www.aisec.fraunhofer.de/)
-            - Charité [BIH](https://www.bihealth.org/en/)/[IfSS](https://sexualmedizin.charite.de/)
-            - [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/web/dfki/en)
+            ### [NEWS-POLYGRAPH](/projects/past_projects/news_polygraph/)
+            Verification and Extraction of Disinformation Narratives with Individualized Explanations
+            
+            ### [VERANDA](/projects/past_projects/veranda/)
+            Trustworthy Anonymization of Sensitive Patient Records for Remote Consultation (VERANDA)
+            
+            ### [VeraXtract](/projects/past_projects/veraXtract/)
+            Verification and Extraction of Disinformation Narratives with Individualized Explanations
+            
+            ### [fakeXplain](/projects/past_projects/fakeXplain/)
+            Transparent and meaningful explanations in the context of disinformation detection
+            
+            ### [PSST](/projects/running_projects/psst/)
+            Removing identifying features in speech, improving interactions between devices and cloud services, and creating new ways to assess privacy threats
+            
+            ### ORCHESTRA
+            Orchestrating Reliable, Compliant, and eXplainable Agentic AI Workflows
           </div>
           <div style="flex: 1; min-width: 48%;">
-            ## Industry Collaborations
+            # Under Review
             
-            - [Deutsche Presse-Agentur (dpa)](https://www.dpa.com/)
-            - [Deutsche Welle (DW)](https://www.dw.com/en)
-            - [Rundfunk Berlin-Brandenburg (rbb)](https://www.rbb-online.de/)
-            - [Ubermetrics Technology GmbH/Unicepta](https://www.ubermetrics.de/)
-            - [delphai/INTAPP GmbH](https://www.delphai.com/)
-            - [Transfermedia GmbH](https://www.transfermedia.de/)
-            - [Crowdee GmbH](https://www.crowdee.de/)
-            - [AI Berlin](https://www.ai-berlin.de/)
+            ### Fake-O-Meter
+            Multimodaler KI-basierter Desinformations-Assistent für Aufklärung und Resilienz im Umgang mit medialen Desinformationen
+            
+            ### Deutsch-Israleische Projektkooperation (DIP)
+            Adaptive AI for High-Stakes Decision Processes: Balancing Automation and Human Control
+            
+            ### KI-basertes Kreislaufwirtschaft Ökosystem (KIKÖ)
+            Aufbau und Nutzung eines modulares, wiederverwendbaren und domänenspezifischen KI-basiertes Ökosystem für die Kreislaufwirtschaft
 
-            ## Research Networks
+            # Past
             
-            - [CERTAIN](https://www.certain-trust.eu/)
-            - [AI4Media](https://www.ai4media.eu/)
-            - [AI-GRID](https://www.ai-grid.eu/)
+            #### [ateSDG](/projects/past_projects/ateSGD/)
+            Analyzing Sustainability Reports from companies and classifying them according to their contribution to one or multiple SDGs.
+            
+            #### [DFG-project LocTrace](/projects/past_projects/DFG/)
+            Evaluation of different methods for the monetary evaluation of privacy.
           </div>
         </div>
     design:
-      columns: '1'
-  
+      columns: '1'  
 
 
   - block: markdown
