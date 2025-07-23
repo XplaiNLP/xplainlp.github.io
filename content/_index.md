@@ -116,7 +116,6 @@ sections:
             Multimodaler KI-basierter Desinformations-Assistent für Aufklärung und Resilienz im Umgang mit medialen Desinformationen
             ### Deutsch-Israleische Projektkooperation (DIP)
             Adaptive AI for High-Stakes Decision Processes: Balancing Automation and Human Control
-
             # Past
             #### [ateSDG](/projects/past_projects/ateSGD/)
             Analyzing Sustainability Reports from companies and classifying them according to their contribution to one or multiple SDGs.
@@ -125,7 +124,7 @@ sections:
           </div>
         </div>
     design:
-      columns: '1' # Keep this as '1' as we are handling columns internally with HTML/CSS
+      columns: '1' 
 
   - block: markdown
     content:
