@@ -124,43 +124,43 @@ sections:
     design:
       columns: '1'
   
-- block: markdown
-    content:
-      title: Projects
-      text: |
-        <div style="display: flex; flex-wrap: wrap;">
-          <div style="flex: 1; min-width: 48%; margin-right: 2%;">
-            # Running
-            ### [NEWS-POLYGRAPH](/projects/past_projects/news_polygraph/)
-            Verification and Extraction of Disinformation Narratives with Individualized Explanations
-            ### [VERANDA](/projects/past_projects/veranda/)
-            Trustworthy Anonymization of Sensitive Patient Records for Remote Consultation (VERANDA)
-            ### [VeraXtract](/projects/past_projects/veraXtract/)
-            Verification and Extraction of Disinformation Narratives with Individualized Explanations
-            ### [fakeXplain](/projects/past_projects/fakeXplain/)
-            Transparent and meaningful explanations in the context of disinformation detection
-            ### [PSST](/projects/running_projects/psst/)
-            Removing identifying features in speech, improving interactions between devices and cloud services, and creating new ways to assess privacy threats
-            ### ORCHESTRA 
-            Orchestrating Reliable, Compliant, and eXplainable Agentic AI Workflows
+-   block: markdown
+      content:
+        title: Projects
+        text: |
+          <div style="display: flex; flex-wrap: wrap;">
+            <div style="flex: 1; min-width: 48%; margin-right: 2%;">
+              # Running
+              ### [NEWS-POLYGRAPH](/projects/past_projects/news_polygraph/)
+              Verification and Extraction of Disinformation Narratives with Individualized Explanations
+              ### [VERANDA](/projects/past_projects/veranda/)
+              Trustworthy Anonymization of Sensitive Patient Records for Remote Consultation (VERANDA)
+              ### [VeraXtract](/projects/past_projects/veraXtract/)
+              Verification and Extraction of Disinformation Narratives with Individualized Explanations
+              ### [fakeXplain](/projects/past_projects/fakeXplain/)
+              Transparent and meaningful explanations in the context of disinformation detection
+              ### [PSST](/projects/running_projects/psst/)
+              Removing identifying features in speech, improving interactions between devices and cloud services, and creating new ways to assess privacy threats
+              ### ORCHESTRA 
+              Orchestrating Reliable, Compliant, and eXplainable Agentic AI Workflows
+            </div>
+            <div style="flex: 1; min-width: 48%;">
+              # Under Review
+              ### Fake-O-Meter
+              Multimodaler KI-basierter Desinformations-Assistent für Aufklärung und Resilienz im Umgang mit medialen Desinformationen
+              ### Deutsch-Israleische Projektkooperation (DIP)
+              Adaptive AI for High-Stakes Decision Processes: Balancing Automation and Human Control
+              ### KI-basertes Kreislaufwirtschaft Ökosystem (KIKÖ)
+              Aufbau und Nutzung eines modulares, wiederverwendbaren und domänenspezifischen KI-basiertes Ökosystem für die Kreislaufwirtschaft
+              # Past
+              #### [ateSDG](/projects/past_projects/ateSGD/)
+              Analyzing Sustainability Reports from companies and classifying them according to their contribution to one or multiple SDGs.
+              #### [DFG-project LocTrace](/projects/past_projects/DFG/)
+              Evaluation of different methods for the monetary evaluation of privacy.
+            </div>
           </div>
-          <div style="flex: 1; min-width: 48%;">
-            # Under Review
-            ### Fake-O-Meter
-            Multimodaler KI-basierter Desinformations-Assistent für Aufklärung und Resilienz im Umgang mit medialen Desinformationen
-            ### Deutsch-Israleische Projektkooperation (DIP)
-            Adaptive AI for High-Stakes Decision Processes: Balancing Automation and Human Control
-            ### KI-basertes Kreislaufwirtschaft Ökosystem (KIKÖ)
-            Aufbau und Nutzung eines modulares, wiederverwendbaren und domänenspezifischen KI-basiertes Ökosystem für die Kreislaufwirtschaft
-            # Past
-            #### [ateSDG](/projects/past_projects/ateSGD/)
-            Analyzing Sustainability Reports from companies and classifying them according to their contribution to one or multiple SDGs.
-            #### [DFG-project LocTrace](/projects/past_projects/DFG/)
-            Evaluation of different methods for the monetary evaluation of privacy.
-          </div>
-        </div>
-    design:
-      columns: '1'
+      design:
+        columns: '1'
 
   - block: markdown
     content:
