@@ -148,27 +148,51 @@ sections:
       title: Partnerships
       text: |
         ## Academic Partnerships
-        - [Quality and Usability Lab, TU Berlin](https://www.tu.berlin/qu)
-        - [Berlin Institute for the Foundations of Learning and Data (BIFOLD)](https://www.bifold.berlin)
-        - Tel Aviv University, [Prof. Joachim Meyer](https://www.jmeyer.sites.tau.ac.il/)
-        - Fraunhofer [IDMT](https://www.idmt.fraunhofer.de) / [AISEC](https://www.aisec.fraunhofer.de/)
-        - Charité [BIH](https://www.bihealth.org/en/)/[IfSS](https://sexualmedizin.charite.de/)
-        - [German Research Center for Artificial Intelligence (DFKI)](https://www.dfki.de/web/dfki/en)
+        <div style="display: flex; gap: 20px;">
 
-        ## Industry Collaborations
+        <div style="flex: 1;">
+
         - [Deutsche Presse-Agentur (dpa)](https://www.dpa.com/)
         - [Deutsche Welle (DW)](https://www.dw.com/en)
         - [Rundfunk Berlin-Brandenburg (rbb)](https://www.rbb-online.de/)
         - [Ubermetrics Technology GmbH/Unicepta](https://www.ubermetrics.de/)
+
+        </div>
+
+        <div style="flex: 1;">
+
         - [delphai/INTAPP GmbH](https://www.delphai.com/)
         - [Transfermedia GmbH](https://www.transfermedia.de/)
         - [Crowdee GmbH](https://www.crowdee.de/)
         - [AI Berlin](https://www.ai-berlin.de/)
 
+        </div>
+
+        </div>
+
         ## Research Networks
+
+        <div style="display: flex; gap: 20px;">
+
+        <div style="flex: 1;">
+
         - [CERTAIN](https://www.certain-trust.eu/)
+
+        </div>
+
+        <div style="flex: 1;">
+
         - [AI4Media](https://www.ai4media.eu/)
+
+        </div>
+
+        <div style="flex: 1;">
+
         - [AI-GRID](https://www.ai-grid.eu/)
+
+        </div>
+
+        </div>
     design:
       columns: '1'
 ---
