@@ -3,10 +3,10 @@ title: People
 date: 2025-01-09
 type: landing
 sections:
-  - block: slider
-    content: {}
-    design:
-      columns: '1'
+ # - block: slider
+ #   content: {}
+ #   design:
+ #     columns: '1'
   - block: people
     content:
       title: Meet the Team
