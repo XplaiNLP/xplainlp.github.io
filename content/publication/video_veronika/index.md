@@ -23,14 +23,14 @@ publishDate: '2025-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article-journal']
+publication_types: ['']
 
 # Publication name and optional abbreviated publication name.
 publication: Proceedings of the 4th ACM International Workshop on Multimedia AI against Disinformation
 publication_short:
 
 abstract: |
-  Disinformation increasingly spans multiple modalities, includingmanipulated audio, fake videos, and text-image content pairs in thecase of articles. Existing detection models often address the modali-ties separately, limiting their effectiveness in real-world scenarios. This study proposes a unified multimodal disinformation detectionmodel that simultaneously analyzes text, image, and video con-tent. To operationalize this unified approach, we transform videodata into complementary textual and visual representations. Audiotracks are transcribed using Whisper, while keyframes are extractedfrom video using one of three methods: random frame extraction,clustering-based selection, and our novel extraction method. Cap-tions are generated for each keyframe to embed visual semanticsinto the textual stream, enabling integrated cross-modal analysis. This combined representation is evaluated against unimodalbaselines and state-of-the-art Vision-Language Models (VLMs), in-cluding LLaMA and VILA. Results across model architectures anddataset configurations show that our unified multimodal pipelineoutperforms separate modality-specific systems in detecting disin-formation.
+Disinformation increasingly spans multiple modalities, includingmanipulated audio, fake videos, and text-image content pairs in thecase of articles. Existing detection models often address the modali-ties separately, limiting their effectiveness in real-world scenarios. This study proposes a unified multimodal disinformation detectionmodel that simultaneously analyzes text, image, and video con-tent. To operationalize this unified approach, we transform videodata into complementary textual and visual representations. Audiotracks are transcribed using Whisper, while keyframes are extractedfrom video using one of three methods: random frame extraction,clustering-based selection, and our novel extraction method. Cap-tions are generated for each keyframe to embed visual semanticsinto the textual stream, enabling integrated cross-modal analysis. This combined representation is evaluated against unimodalbaselines and state-of-the-art Vision-Language Models (VLMs), in-cluding LLaMA and VILA. Results across model architectures anddataset configurations show that our unified multimodal pipelineoutperforms separate modality-specific systems in detecting disin-formation.
 # Summary. An optional shortened abstract.
 summary: 
 
