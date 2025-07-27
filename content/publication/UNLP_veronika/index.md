@@ -1,7 +1,6 @@
 ---
 title: 'Improving Sentiment Analysis for Ukrainian Social Media Code-Switching Data'
-subtitle: "Yurii Shynkarov, Veronika Solopova, Vera Schmitt"
-" 
+subtitle: "Yurii Shynkarov, Veronika Solopova, Vera Schmitt" 
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
