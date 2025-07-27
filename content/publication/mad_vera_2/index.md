@@ -1,5 +1,5 @@
 ---
-title: 'MAD25: 4th ACM International Workshop on Multimedia AI against Disinformation'
+title: "MAD25: 4th ACM International Workshop on Multimedia AI against Disinformation"
 subtitle: "Dan-Cristian Stanciu, Bogdan Ionescu, Symeon Papadopoulos, Giorgos Kordopatis-Zilos, Adrian Popescu, Roberto Caldelli, Milica Gerhardt, Vera Schmitt" 
 
 # Authors
