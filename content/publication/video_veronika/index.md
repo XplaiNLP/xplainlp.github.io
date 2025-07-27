@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ebooks.iospress.nl/volumearticle/69224'
+url_pdf: 'https://dl.acm.org/doi/full/10.1145/3733567.3735570'
 url_code: ''
 url_dataset: ''
 url_poster: ''
