@@ -3,9 +3,9 @@ title: People
 date: 2025-01-09
 type: landing
 sections:
-  - block: slider
-    content:
-      slides:
+  #- block: slider
+   # content:
+    #  slides:
       - title: 
         content: 
         align: center
