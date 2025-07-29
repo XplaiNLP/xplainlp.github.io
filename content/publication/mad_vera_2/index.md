@@ -1,32 +1,39 @@
 ---
-title: 'Empirical Investigation of the Economic Perspective of Privacy Taxonomy'
-subtitle: "Vera Schmitt, Monetary Valuation of Privacy, T-Labs Series in Telecommunication Services, Springer Nature Switzerland AG 2025"
+title: 'MAD25 - 4th ACM International Workshop on Multimedia AI against Disinformation'
+subtitle: "Dan-Cristian Stanciu, Bogdan Ionescu, Symeon Papadopoulos, Giorgos Kordopatis-Zilos, Adrian Popescu, Roberto Caldelli, Milica Gerhardt, Vera Schmitt" 
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Dr. Vera Schmitt
+- Dan-Cristian Stanciu
+- Bogdan Ionescu
+- Symeon Papadopoulos
+- Giorgos Kordopatis-Zilos
+- Adrian Popescu
+- Roberto Caldelli
+- Milica Gerhardt
+- Vera Schmitt
+
 # Author notes (optional)
 author_notes: 
 
-date: '2025-03-28T00:00:00Z'
+date: '2025-07-18T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['book']
+publication_types: ['']
 
 # Publication name and optional abbreviated publication name.
-publication: T-Labs Series in Telecommunication Services, Springer Nature Switzerland AG 2025
+publication: Proceedings of the 2025 International Conference on Multimedia Retrieval
 publication_short:
 
 abstract: |
-    This chapter synthesizes empirical findings from prior chapters into a structured model of privacy valuation. Using structural equation modeling, it identifies relationships between privacy-related and general influencing factors and their predictive power on WTP and WTA. The chapter provides a holistic view of privacy economics, integrating theoretical and empirical insights.
 # Summary. An optional shortened abstract.
 summary: 
 
@@ -40,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-031-84239-9_6'
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3731715.3734512'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -70,3 +77,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+
