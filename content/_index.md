@@ -142,11 +142,35 @@ sections:
 
         <div style="flex: 1;">
 
+        - [DFKI SLT] (https://www.dfki.de/web/forschung/forschungsbereiche/speech-and-language-technology)
+        - [BIH Charité]([https://www.dw.com/en](https://www.bihealth.org/en/)
+        - [IfSS Charité](https://sexualmedizin.charite.de/)
+        - [Fraunhofer IDMT](https://www.idmt.fraunhofer.de/)
+        - [Fraunhofer AISEC](https://www.aisec.fraunhofer.de/)
+         </div>
+
+        <div style="flex: 1;">
+
+        - [CopeNLU University of Copenhagen](https://www.copenlu.com/)
+        - [Tel Aviv university](https://english.tau.ac.il/profile/jmeyer)
+        - [Oxford University](https://www.cs.ox.ac.uk/people/ani.calinescu/)
+        - [IRIT Toulouse](https://www.irit.fr/)
+        -
+
+        </div>
+
+        </div>
+
+        ## Partnerships with Media and Industry
+        <div style="display: flex; gap: 20px;">
+
+        <div style="flex: 1;">
+
         - [Deutsche Presse-Agentur (dpa)](https://www.dpa.com/)
         - [Deutsche Welle (DW)](https://www.dw.com/en)
         - [Rundfunk Berlin-Brandenburg (rbb)](https://www.rbb-online.de/)
         - [Ubermetrics Technology GmbH/Unicepta](https://www.ubermetrics.de/)
-        - [Exorde Labs France]([https://www.ubermetrics.de/](https://www.exordelabs.com/))
+        - [Exorde Labs France](https://www.exordelabs.com/))
     
 
         </div>
