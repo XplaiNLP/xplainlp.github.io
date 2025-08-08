@@ -1,9 +1,9 @@
 ---
-title: 'ACL 2025: A Week of Innovation and Collaboration in NLP 🚀'
+title: 'Exploring the Future of NLP: Highlights from ACL 2025 🚀'
 date: 2025-08-01
 ---
 
-In July 2025, eight members of the XplaiNLP research group had the opportunity to attend the Annual Meeting of the Association for Computational Linguistics (ACL 2025) in Vienna. What began with great anticipation turned into a week filled with inspiring discussions, cutting-edge research insights, and valuable connection. 🎉
+In July 2025, eight members of the XplaiNLP research group had the opportunity to attend the Annual Meeting of the Association for Computational Linguistics (ACL 2025) in Vienna. What began with great anticipation turned into a week filled with inspiring discussions, cutting-edge research insights, and valuable connection.
 
 <!--more-->
 
