@@ -1,5 +1,5 @@
 ---
-title: 'Exploring the Future of NLP: Highlights from ACL 2025 🚀'
+title: 'XplaiNLP at ACL 2025: A Week of Learning, Sharing, and Connecting 🚀'
 date: 2025-08-01
 ---
 
