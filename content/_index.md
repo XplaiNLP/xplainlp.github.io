@@ -120,7 +120,7 @@ sections:
         #### [DFG-project LocTrace](/projects/past_projects/DFG/)
         Evaluation of different methods for the monetary evaluation of privacy
     design:
-      columns: '1'
+      columns: '2'
 
 
   - block: markdown
