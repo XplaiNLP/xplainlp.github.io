@@ -169,7 +169,7 @@ sections:
         - [Deutsche Welle (DW)](https://www.dw.com/en)
         - [Rundfunk Berlin-Brandenburg (rbb)](https://www.rbb-online.de/)
         - [Ubermetrics Technology GmbH/Unicepta](https://www.ubermetrics.de/)
-        - [Exorde Labs France](https://www.exordelabs.com/))
+        - [Exorde Labs France](https://www.exordelabs.com/)
     
 
         </div>
