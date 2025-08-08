@@ -122,16 +122,6 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title: Teaching
-      text: |
-        ### [Natural Language Processing (Summer Term)](https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/beschreibung/anzeigen.html?nummer=41047&version=1&sprache=2)
-        ### Privacy Seminar (Summer Term)
-        ### Advanced Study Projects (Summer and Winter Term)
-    design:
-      columns: '1'
-
 
   - block: markdown
     content:
