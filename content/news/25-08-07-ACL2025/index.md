@@ -1,6 +1,6 @@
 ---
 title: 'ACL 2025: A Week of Innovation and Collaboration in NLP 🚀'
-date: 2025-07-28
+date: 2025-08-01
 ---
 
 The XplaiNLP group from TU Berlin had a strong presence at ACL 2025, presenting multiple papers and actively engaging with the global NLP community. 🎉
