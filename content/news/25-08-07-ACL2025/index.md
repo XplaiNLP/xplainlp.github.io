@@ -27,4 +27,4 @@ Additionally, we're excited to share that a strong delegation of NLP researchers
 - BIFOLD - Berlin Institute for the Foundations of Learning and Data 
 - Technische Universität Berlin (from Vera Schmitt's XplaiNLP group) 
 
-are presenting several papers, organizing workshops and sessions, and actively engaging in discussions that shape the future of NLP research.
+were presenting several papers, organizing workshops and sessions, and actively engaging in discussions that shape the future of NLP research.
