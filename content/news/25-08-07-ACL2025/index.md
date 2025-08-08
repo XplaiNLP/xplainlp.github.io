@@ -9,7 +9,7 @@ In July 2025, eight members of the XplaiNLP research group had the opportunity t
 
 We were inspired by the keynotes delivered by Verena Rieser, Isabelle Augenstein, Andreas Vlachos, Barbara Plank, Jean-Rémi King, and Luke Zettlemoyer, each of them offered valuable insights into the current and future directions of NLP, responsible AI, and how language is processed in the human brain.
 
-Dr. Jing Yang, Dr. Veronika Solopova, Dr. Nils Feldhus, Max Upravitelev, Premtim and Ariana Sahitaj, Qianli Wang and the research group lead Vera Schmitt presented multiple papers on a wide range of topics. Our group presented research on explainability methods for NLP models, approaches to disinformation narrative detection, and evaluation frameworks for model faithfulness. We particularly valued the vibrant discussions around interpretability, robustness, and human-centered evaluation, topics that lie at the core of our research agenda.
+Dr. Jing Yang, Dr. Veronika Solopova, Dr. Nils Feldhus, Max Upravitelev, Premtim and Ariana Sahitaj, Qianli Wang and the research group lead Dr. Vera Schmitt presented multiple papers on a wide range of topics. Our group presented research on explainability methods for NLP models, approaches to disinformation narrative detection, and evaluation frameworks for model faithfulness. We particularly valued the vibrant discussions around interpretability, robustness, and human-centered evaluation, topics that lie at the core of our research agenda.
 
 Link to papers: 
 1. Findings: "FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation" https://aclanthology.org/2025.findings-acl.64/ 
