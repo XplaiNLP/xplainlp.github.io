@@ -1,5 +1,5 @@
 ---
-title: ACL 2025: A Week of Innovation and Collaboration in NLP 🚀
+title: 'ACL 2025: A Week of Innovation and Collaboration in NLP 🚀'
 date: 2025-07-28
 ---
 
