@@ -120,7 +120,7 @@ sections:
         #### [DFG-project LocTrace](/projects/past_projects/DFG/)
         Evaluation of different methods for the monetary evaluation of privacy
     design:
-      columns: '2'
+      columns: '1'
 
 
   - block: markdown
@@ -137,7 +137,7 @@ sections:
     content:
       title: Partnerships
       text: |
-        ## Academic Partnerships
+        ## Partnerships with Media and Industry
         <div style="display: flex; gap: 20px;">
 
         <div style="flex: 1;">
