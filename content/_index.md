@@ -137,13 +137,13 @@ sections:
     content:
       title: Partnerships
       text: |
-        ## Partnerships with Media and Industry
+        ## Research Partners
         <div style="display: flex; gap: 20px;">
 
         <div style="flex: 1;">
 
-        - [DFKI SLT] (https://www.dfki.de/web/forschung/forschungsbereiche/speech-and-language-technology)
-        - [BIH Charité]([https://www.dw.com/en](https://www.bihealth.org/en/)
+        - [DFKI SLT](https://www.dfki.de/web/forschung/forschungsbereiche/speech-and-language-technology)
+        - [BIH Charité](https://www.bihealth.org/en/)
         - [IfSS Charité](https://sexualmedizin.charite.de/)
         - [Fraunhofer IDMT](https://www.idmt.fraunhofer.de/)
         - [Fraunhofer AISEC](https://www.aisec.fraunhofer.de/)
@@ -155,13 +155,12 @@ sections:
         - [Tel Aviv university](https://english.tau.ac.il/profile/jmeyer)
         - [Oxford University](https://www.cs.ox.ac.uk/people/ani.calinescu/)
         - [IRIT Toulouse](https://www.irit.fr/)
-        -
 
         </div>
 
         </div>
 
-        ## Partnerships with Media and Industry
+        ## Media and Industry Partners
         <div style="display: flex; gap: 20px;">
 
         <div style="flex: 1;">
