@@ -29,5 +29,5 @@ team:
 ### Associated Partners:
 - Prof. Ran Balicer Ben-Gurion University of the Negev
 - Prof. Marc Dewey Charité
-- Prof. Leif Sander Charité, Deutsche Welle
+- Prof. Leif Sander Charité
 - Prof. Sebastian Möller TU Berlin 
