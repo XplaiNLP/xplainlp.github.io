@@ -13,7 +13,7 @@ sections:
         </div>
         <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh;">
           <span style="color: #DCDCDC; font-size: 1rem;">
-          XplaiNLP: Advancing Transparent and Trustworthy AI for Decision Support in High-Stakes Domains
+          XplaiNLP: Explainable and Interpretable NLP for Trustworthy and Meaningful Decision Support in High-Stake Domains
           </span>
         </div>
     design:
