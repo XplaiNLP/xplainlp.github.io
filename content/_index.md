@@ -22,7 +22,7 @@ sections:
         image:
           filename: team_park_2.jpg
           filters:
-            brightness: 0.7
+            brightness: 0.99
       text_color_light: true
 
   - block: markdown
