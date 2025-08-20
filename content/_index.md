@@ -30,7 +30,7 @@ sections:
     content:
       title: XplaiNLP Research Group
       text: |
-        ### **XplaiNLP: Explainable and Interpretable NLP for Trustworthy and Meaningful Decision Support in High-Stakes Environments**
+        ### **XplaiNLP: Explainable and Interpretable NLP for Trustworthy and Meaningful Decision Support in High-Stake Domains**
 
         At the **XplaiNLP research group**, we are shaping the future of **Intelligent Decision Support Systems (IDSS)** by developing AI that is **explainable, trustworthy, and human-centered**. Our research spans the entire **IDSS pipeline**, integrating advances in **NLP, (M)LLMs, XAI, evaluation, legal frameworks, and HCI** to ensure AI-driven decision-making aligns with ethical and societal values.
 
