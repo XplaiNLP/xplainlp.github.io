@@ -23,7 +23,7 @@ sections:
           filename: team_park_2.jpg
           filters:
             brightness: 0.99
-          height: 90vh
+          height: 120vh
       text_color_light: true
 
   - block: markdown
