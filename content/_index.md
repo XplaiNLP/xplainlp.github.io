@@ -20,7 +20,7 @@ sections:
     design:
       background:
         image:
-          filename: team_park_2.jpg
+          filename: team_park_all.jpg
           filters:
             brightness: 0.99
           height: 120vh
