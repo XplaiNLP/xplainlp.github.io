@@ -8,11 +8,11 @@ sections:
     content:
       title: |
         <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh; color: white;">
-          XplaiNLP Research Group
+          
         </div>
         <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh;">
           <span style="color:rgba(150, 148, 148, 0.87); font-size: 1rem;">
-          NLP and XAI Research Group at the <a href="https://www.tu.berlin/en/qu" target="_blank">Quality and Usability Lab TU Berlin</a>
+    
           </span>
         </div>
       # The text key is now empty as requested, so no text appears over the image.
@@ -33,7 +33,7 @@ sections:
       text: |
         ### **XplaiNLP: Explainable and Interpretable NLP for Trustworthy and Meaningful Decision Support in High-Stake Domains**
 
-        At the **XplaiNLP research group**, we are researching on the future of **Intelligent Decision Support Systems (IDSS)** by developing AI that is **explainable, trustworthy, and human-centered**. Our research spans the entire **IDSS pipeline**, integrating advances in **NLP/(M)LLMs, XAI/Interpretability, HCI, and legal analysis** to ensure AI-driven decision-making aligns with ethical and societal values.
+        At the **XplaiNLP research group** at the <a href="https://www.tu.berlin/en/qu" target="_blank">Quality and Usability Lab TU Berlin</a>, we are researching on the future of **Intelligent Decision Support Systems (IDSS)** by developing AI that is **explainable, trustworthy, and human-centered**. Our research spans the entire **IDSS pipeline**, integrating advances in **NLP/(M)LLMs, XAI/Interpretability, HCI, and legal analysis** to ensure AI-driven decision-making aligns with ethical and societal values.
 
         We focus on **high-risk AI applications** where **human oversight is critical**, including **disinformation detection, social media analysis, medical data processing, and legal AI systems**. 
 
