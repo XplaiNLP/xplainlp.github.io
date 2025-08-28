@@ -10,7 +10,7 @@ sections:
         <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh; color: white;">
           
         </div>
-        <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh;">
+        <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 80vh;">
           <span style="color:rgba(150, 148, 148, 0.87); font-size: 1rem;">
     
           </span>
@@ -23,8 +23,6 @@ sections:
           filename: team_park_all.jpg
           filters:
             brightness: 0.99
-          size: contain
-          position: top
       text_color_light: true
       css_class: wide-hero
 
