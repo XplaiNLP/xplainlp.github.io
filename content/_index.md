@@ -7,7 +7,7 @@ sections:
   - block: hero
     content:
       title: |
-        <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh; color: white;">
+        <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 100vh; color: white;">
           
         </div>
         <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 100vh;">
