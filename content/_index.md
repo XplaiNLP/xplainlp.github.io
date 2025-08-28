@@ -23,7 +23,7 @@ sections:
           filename: team_park_all.jpg
           filters:
             brightness: 0.99
-          height: 60vh
+          height: 80vh
       text_color_light: true
       css_class: wide-hero
 
