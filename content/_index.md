@@ -24,6 +24,7 @@ sections:
           filters:
             brightness: 0.99
           size: contain
+          position: top
       text_color_light: true
       css_class: wide-hero
 
