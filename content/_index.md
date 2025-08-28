@@ -10,7 +10,7 @@ sections:
         <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh; color: white;">
           
         </div>
-        <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 120vh;">
+        <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 100vh;">
           <span style="color:rgba(150, 148, 148, 0.87); font-size: 1rem;">
     
           </span>
