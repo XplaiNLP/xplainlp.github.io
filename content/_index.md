@@ -7,23 +7,51 @@ sections:
   - block: hero
     content:
       title: |
-        <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 10vh; color: white;">
-          
-        </div>
-        <div style="display: flex; justify-content: center; align-items: center; text-align: center; height: 20vh;">
-          <span style="color:rgba(150, 148, 148, 0.87); font-size: 1rem;">
-    
-          </span>
+        <style>
+          /* desktop: control vh in order to adjust how high the next doc section is */
+          #section-hero .hero-spacer {
+            height: 40vh;
+            height: 40dvh;
+          }
+          /* phone (portait and landscape): control vh in order to adjust how high the next doc section is*/
+          @media (max-width: 576px) and (orientation: portrait) {
+            #section-hero .hero-spacer {
+              height: 60vh;
+              height: 30dvh;
+            }
+          }
+          @media (max-width: 812px) and (orientation: landscape) {
+          #section-hero .hero-spacer {
+              height: 70vh;
+              height: 30dvh;
+          }
+        }
+          /* lock background (to sync between browsers) */
+          #section-hero .home-section-bg {
+            background-position: 50% 50% !important;
+            background-size: cover !important;
+            background-repeat: no-repeat !important;
+            background-attachment: scroll !important;
+          }
+          /* remove parallax from themes */
+          #section-hero .parallax {
+            background-attachment: scroll !important;
+            transform: none !important;
+          }
+
+        </style>
+
+        <div class="hero-spacer" style="display:flex; justify-content:center; align-items:center; text-align:center; color:white;">
         </div>
       # The text key is now empty as requested, so no text appears over the image.
       text: |
     design:
       background:
         image:
-          filename: team_park_all.png
+          filename: team_park_2.jpg
           filters:
             brightness: 0.99
-          height: 90vh 
+          position: "center 130%"
       text_color_light: true
       css_class: wide-hero
 
