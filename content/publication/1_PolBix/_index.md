@@ -1,5 +1,5 @@
 ---
-title: 'PolBiX: Detecting LLMs' Political Bias in Fact-Checking through X-phemisms'
+title: 'PolBiX: Detecting LLMs Political Bias in Fact-Checking through X-phemisms'
 subtitle: 'Qianli Wang, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, Vera Schmitt'
 
 # Authors
