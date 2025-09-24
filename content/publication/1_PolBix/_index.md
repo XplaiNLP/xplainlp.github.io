@@ -6,14 +6,10 @@ subtitle: 'Qianli Wang, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Fedor Sp
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-    - Qianli Wang
-    - Tatiana Anikina
-    - Nils Feldhus
-    - Simon Ostermann
-    - Fedor Splitt
-    - Jiaao Li
-    - Yoana Tsoneva
-    - Sebastian Möller
+    - Charlott Jakob
+    - David Harbecke
+    - Patrick Parschan
+    - Pia Wenzel Neves
     - Vera Schmitt
 # Author notes (optional)
 author_notes: 
