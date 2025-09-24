@@ -1,5 +1,5 @@
 ---
-title: 'PolBiX: Detecting LLMs’ Political Bias in Fact-Checking through X-phemisms'
+title: 'PolBiX: Detecting LLMs Political Bias in Fact-Checking through X-phemisms'
 subtitle: 'Charlott Jakob, David Harbecke, Patrick Parschan, Pia Wenzel Neves, Vera Schmitt'
 
 # Authors
