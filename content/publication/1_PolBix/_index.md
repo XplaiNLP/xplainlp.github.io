@@ -1,6 +1,6 @@
 ---
 title: 'PolBiX: Detecting LLMs Political Bias in Fact-Checking through X-phemisms'
-subtitle: 'Qianli Wang, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, Vera Schmitt'
+subtitle: 'Charlott Jakob, David Harbecke, Patrick Parschan, Pia Wenzel Neves, Vera Schmitt'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
