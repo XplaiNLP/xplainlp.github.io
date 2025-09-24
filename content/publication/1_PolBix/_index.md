@@ -29,7 +29,7 @@ publication_types: ['paper-conference']
 publication: "EMNLP 2025 Findings"
 publication_short: "EMNLP 2025 Findings"
 
-abstract: 
+abstract: Large Language Models are increasingly used in applications requiring objective assessment, which could be compromised by political bias. Many studies found preferences for left-leaning positions in LLMs, but downstream effects on tasks like fact-checking remain underexplored. In this study, we systematically investigate political bias through exchanging words with euphemisms or dysphemisms in German claims. We construct minimal pairs of factually equivalent claims that differ in political connotation, to assess the consistency of LLMs in classifying them as true or false. We evaluate six LLMs and find that, more than political leaning, the presence of judgmental words significantly influences truthfulness assessment. While a few models show tendencies of political bias, this is not mitigated by explicitly calling for objectivism in prompts. Warning: This paper contains content that may be offensive or upsetting.
 # Summary. An optional shortened abstract.
 summary: 
 
@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2508.14982'
+url_pdf: 'https://arxiv.org/abs/2509.15335'
 url_code: ''
 url_dataset: ''
 url_poster: ''
