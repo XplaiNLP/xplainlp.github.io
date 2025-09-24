@@ -1,18 +1,20 @@
 ---
-title: 'PolBiX: Detecting LLMs Political Bias in Fact-Checking through X-phemisms'
-subtitle: 'Charlott Jakob, David Harbecke, Patrick Parschan, Pia Wenzel Neves, Vera Schmitt'
+title: 'Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems'
+subtitle: 'Qianli Wang, Tatiana Anikina, Nils Feldhus, Simon Ostermann, Fedor Splitt, Jiaao Li, Yoana Tsoneva, Sebastian Möller, Vera Schmitt'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-authors:
-    - Charlott Jakob
-    - David Harbecke
-    - Patrick Parschan
-    - Pia Wenzel Neves
+    - Qianli Wang
+    - Tatiana Anikina
+    - Nils Feldhus
+    - Simon Ostermann
+    - Fedor Splitt
+    - Jiaao Li
+    - Yoana Tsoneva
+    - Sebastian Möller
     - Vera Schmitt
-    
 # Author notes (optional)
 author_notes: 
 
@@ -31,7 +33,7 @@ publication_types: ['paper-conference']
 publication: "EMNLP 2025 Findings"
 publication_short: "EMNLP 2025 Findings"
 
-abstract: Large Language Models are increasingly used in applications requiring objective assessment, which could be compromised by political bias. Many studies found preferences for left-leaning positions in LLMs, but downstream effects on tasks like fact-checking remain underexplored. In this study, we systematically investigate political bias through exchanging words with euphemisms or dysphemisms in German claims. We construct minimal pairs of factually equivalent claims that differ in political connotation, to assess the consistency of LLMs in classifying them as true or false. We evaluate six LLMs and find that, more than political leaning, the presence of judgmental words significantly influences truthfulness assessment. While a few models show tendencies of political bias, this is not mitigated by explicitly calling for objectivism in prompts. Warning: This paper contains content that may be offensive or upsetting.
+abstract: Conversational explainable artificial intelligence (ConvXAI) systems based on large language models (LLMs) have garnered considerable attention for their ability to enhance user comprehension through dialogue-based explanations. Current ConvXAI systems are often based on intent recognition to accurately identify the user’s desired intention and map it to an explainability method. While such methods offer great precision and reliability in discerning users’ underlying intentions for English, a significant challenge in the scarcity of training data persists, which impedes multilingual generalization. Besides, the support for free-form custom inputs, which are user-defined data distinct from pre-configured dataset instances, remains largely limited. To bridge these gaps, we first introduce MultiCoXQL, a multilingual extension of the CoXQL dataset spanning five typologically diverse languages, including one low-resource language. Subsequently, we propose a new parsing approach aimed at enhancing multilingual parsing performance, and evaluate three LLMs on MultiCoXQL using various parsing strategies. Furthermore, we present Compass, a new multilingual dataset designed for custom input extraction in ConvXAI systems, encompassing 11 intents across the same five languages as MultiCoXQL1. We conduct monolingual, cross-lingual, and multilingual evaluations on Compass, employing three LLMs of varying sizes alongside BERT-type models.
 # Summary. An optional shortened abstract.
 summary: 
 
@@ -45,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2509.15335'
+url_pdf: 'https://arxiv.org/abs/2508.14982'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -75,6 +77,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
 
 
