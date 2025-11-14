@@ -33,9 +33,9 @@ team:
     link: https://logically.ai/
   - name: Deutsche Welle (Germany) 
     link: https://innovation.dw.com/team
-   - name: VoxUkraine (Ukraine) 
+  - name: VoxUkraine (Ukraine) 
     link: https://voxukraine.org/en/
-   - name: Factiverse AS (Norway) 
+  - name: Factiverse AS (Norway) 
     link: https://www.factiverse.ai/
 ---
 
