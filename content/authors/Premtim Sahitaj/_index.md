@@ -1,4 +1,4 @@
----
+<!-- ---
 # Display name
 title: Premtim Sahitaj
 
@@ -63,4 +63,4 @@ email: ''
 user_groups:
   - Researchers
 ---
-Premtim Sahitaj completed his undergraduate studies in information systems (B.Sc.) at the University of Trier. Afterwards, he completed his graduate studies in data science (M.Sc.) with an emphasis on the quantitative foundations of machine learning. During his undergraduate and graduate studies, he contributed to the ReCAP project within the DFG-funded focus program RATIO as a research assistant where he mainly worked on natural language processing problems with a focus on the argumentation domain. He worked as a researcher at the University of Trier where he focused on integration of background knowledge into the reasoning process of large language models. He joined the XplaiNLP Group within the Q&U Lab as a researcher and PhD student to explore fake news detection from a computational perspective within the BMBF-funded news-polygraph project which has the goal of developing a fake-news-detection platform for the assistance of investigative journalism.
+Premtim Sahitaj completed his undergraduate studies in information systems (B.Sc.) at the University of Trier. Afterwards, he completed his graduate studies in data science (M.Sc.) with an emphasis on the quantitative foundations of machine learning. During his undergraduate and graduate studies, he contributed to the ReCAP project within the DFG-funded focus program RATIO as a research assistant where he mainly worked on natural language processing problems with a focus on the argumentation domain. He worked as a researcher at the University of Trier where he focused on integration of background knowledge into the reasoning process of large language models. He joined the XplaiNLP Group within the Q&U Lab as a researcher and PhD student to explore fake news detection from a computational perspective within the BMBF-funded news-polygraph project which has the goal of developing a fake-news-detection platform for the assistance of investigative journalism. -->

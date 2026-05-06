@@ -1,4 +1,4 @@
----
+<!-- ---
 # Display name
 title: Luis-Felipe Villa-Arenas
 
@@ -64,4 +64,4 @@ email: ''
 user_groups:
   - Researchers
 ---
-Luis Felipe Villa Arenas earned his M.Sc. in Information and Communication Engineering from TU Darmstadt in 2018. Since then, he has worked as a Data Scientist and Tech Lead in the Product Innovation Department at Deutsche Telekom, where he leads the design and implementation of machine learning (ML) solutions to enhance both new and existing products. He is also pursuing a PhD as an external candidate in the XplaiNLP group at the Quality and Usability Lab (QUL). His research focuses on model alignment, particularly improving large language models' ability to explain their reasoning in natural language.
+Luis Felipe Villa Arenas earned his M.Sc. in Information and Communication Engineering from TU Darmstadt in 2018. Since then, he has worked as a Data Scientist and Tech Lead in the Product Innovation Department at Deutsche Telekom, where he leads the design and implementation of machine learning (ML) solutions to enhance both new and existing products. He is also pursuing a PhD as an external candidate in the XplaiNLP group at the Quality and Usability Lab (QUL). His research focuses on model alignment, particularly improving large language models' ability to explain their reasoning in natural language. -->
