@@ -18,14 +18,14 @@ publication_types: ["article-journal"]
 publication: VM Verwaltung & Management
 publication_short: 
 
-abstract: This article addresses the increasing spread of misinformation and disinformation through deepfakes and AI-generated content. Such content poses a serious threat to societal stability and was classified as a critical short-term risk by the Global Risks Report 2024. Effective fact-checking is essential but is limited by the speed of digital dissemination. The article examines regulatory requirements for the use of AI and presents current research projects on AI-supported disinformation verification the BMBF-funded collaborative project newspolygraph, which is developing a modular, multimodal technology platform for the detection and analysis of disinformation across text, audio, image, and video content; and the BMBF-funded junior research group project VeraXtract, which focuses on researching and visualizing disinformation narratives on…
+abstract: This article addresses the increasing spread of misinformation and disinformation through deepfakes and AI-generated content. Such content poses a serious threat to societal stability and was classified as a critical short-term risk by the Global Risks Report 2024. Effective fact-checking is essential, but is limited by the speed of digital dissemination. The article examines regulatory requirements for the use of AI and presents current research projects on AI-supported disinformation verification the BMBF-funded collaborative project newspolygraph, which is developing a modular, multimodal technology platform for the detection and analysis of disinformation across text, audio, image, and video content; the BMBF-funded junior research group project VeraXtract, which is dedicated to researching and visualizing disinformation narratives at various levels of abstraction and creating an interactive platform for political education; and the BIFOLD agility project FakeXplain, which explores personalized explanations for AI systems used for disinformation detection. These projects combine technological innovation with ethical and legal requirements to improve human-machine interaction, promote trust, and contribute to democratic resilience. 
 
 # Summary. An optional shortened abstract.
 summary: 
 tags:
 featured: true
 
-url_pdf: ''
+url_pdf: https://www.researchgate.net/publication/396367289_Deepfakes_-_Unsere_neue_Realitat
 url_code: ''
 url_dataset: ''
 url_poster: ''
