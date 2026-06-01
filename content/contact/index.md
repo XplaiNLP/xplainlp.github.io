@@ -48,9 +48,9 @@ sections:
       email: contact Vera Schmitt
       phone: 
       address:
-        street: Marchstraße 23, or Jakob-Welder-Weg 9 
-        region: Berlin, Mainz
-        postcode: '10587', '55128' 
+        street: Marchstraße 23/or Jakob-Welder-Weg 9 
+        region: Berlin/Mainz
+        postcode: '10587'/'55128' 
         country: Germany
         country_code: DE
       coordinates:
