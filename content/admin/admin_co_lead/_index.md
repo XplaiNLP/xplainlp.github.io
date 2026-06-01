@@ -25,7 +25,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-    #- Senior Researcher
+    #- Co-Group Lead
     #- Guest Researcher at German Research Center for Artificial Intelligence (DFKI)
   
 
