@@ -16,7 +16,7 @@ superuser: true
 # Role/position
 role: Senior Researcher
 
-weight: 3
+weight: 2
 
 # Organizations/Affiliations
 organizations:
@@ -25,7 +25,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-    #- Senior Researcher
+    #- Deputy Group Lead
     #- Guest Researcher at German Research Center for Artificial Intelligence (DFKI)
   
 
@@ -67,7 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Senior Researchers
+  - Group Lead
 ---
 After studying linguistics at the National I.I.Mechnikov University of Odesa in Ukraine and the University of Granada in Spain, Veronika specialized in natural language processing with a master's degree at the University of Sorbonne Nouvelle. This was followed by a visiting fellowship at the University of Potsdam in Manfred Stede's discourse processing lab. In 2020, Solopova began her PhD at Freie Universität Berlin and defended her dr.rer.nat with "summa cum laude" in July 2024 with her topic being "Hybrid AI systems for Automated Content Moderation and analysis".  During her PhD, she worked in the BMBF-funded PetraKIP project on an application for student teachers with automated feedback on their reflective essays, and as a senior researcher also was part of coordination & development of BMBF-funded noFake project working on CORRECTIV,Faktenforum - a fact-checking platform for citizen journalists. She authored a number of publications on social media moderation and analysis, on topics such as hate speech, propaganda, and shitstorm detection.
 
