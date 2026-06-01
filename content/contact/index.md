@@ -32,7 +32,7 @@ sections:
         We continously looking for talended researchers and student researchers and open positions are posted below. We also offer the opportunity doing research stays with us concerning the topics NLP/LLMs/MLLMs, XAI, HCI and legal enquiries. 
 
         ### Student Assistant:
-        We currently looking for 2 talented student researchersfor NLP and XAI tasks - please check the [job opening for XAI](https://www.jobs.tu-berlin.de/en/job-postings/193722) with the deadline of 12.05. to apply and the [job opening for NLP](https://tub.stellenticket.de/en/offers/193727/) application deadline 28.04. for the open positions. Both positions are 80h per month. 
+        We currently looking for 2 talented PostDocs for NLP and XAI- realted topics for 1.5 years for the location in Mainz. Moreover, a PhD position will be opened in June 26 for the Mainz location.  
 
         ### Bachelor or Master Thesis
         We are always looking for talented students for Bachelor or Master Thesis. Please check the [website](https://www.tu.berlin/en/qu/study-and-teaching/theses) for more information.
