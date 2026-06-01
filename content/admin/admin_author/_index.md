@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-  # - Head of XplaiNLP Research Group at the Department of Electrical Engineering and Computer Science, Quality and Usability Lab, Technische Universität Berlin
+  # - Head of XplaiNLP Research Group at Johannes-Gutenberg University Mainz and Technische Universitity Berlin
   # - Guest Researcher at German Research Center for Artificial Intelligence (DFKI), Speech and Language Technology (SLT) group
 
 interests:
