@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof. Vera Schmitt
+title: Prof. Dr. Vera Schmitt
 
 # Full Name (for SEO)
 first_name: Vera 
