@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Researcher
+role: Co-Lead and Senior Researcher
 
 weight: 2
 
