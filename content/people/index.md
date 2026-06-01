@@ -90,6 +90,7 @@ sections:
       title: Meet the Team
       user_groups:
         - Group Lead
+        - Co-Group Lead
         - Honorary Professorship
         - Administration
         - Senior Researchers
