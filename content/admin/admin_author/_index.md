@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Vera Schmitt
+title: Prof. Vera Schmitt
 
 # Full Name (for SEO)
 first_name: Vera 
@@ -14,7 +14,7 @@ role: Founder and Head of the XplaiNLP Group
 
 # Organizations/Affiliations
 organizations:
-  - name: Technical University Berlin/ German Research Center for Artificial Intelligence
+  - name: Johannes-Gutenberg University Mainz (Technical University Berlin)
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
