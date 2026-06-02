@@ -31,10 +31,10 @@ sections:
         ### Researcher and Research Visits (d/m/f)
         We continously looking for talended researchers and student researchers and open positions are posted below. We also offer the opportunity doing research stays with us concerning the topics NLP/LLMs/MLLMs, XAI, HCI and legal enquiries. 
 
-        ### Student Assistant:
+        ### Open Positions:
         We currently looking for 2 talented PostDocs for NLP and XAI- realted topics for 1.5 years for the location in Mainz. Moreover, a PhD position will be opened in June 26 for the Mainz location.  
 
-        ### Bachelor or Master Thesis
+        ### Bachelor or Master Thesis:
         We are always looking for talented students for Bachelor or Master Thesis. Please check the [website](https://www.tu.berlin/en/qu/study-and-teaching/theses) for more information.
     design:
       columns: '2'
