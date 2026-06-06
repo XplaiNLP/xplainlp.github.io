@@ -66,7 +66,7 @@ sections:
         We focus on **high-risk AI applications** where **human oversight is critical**, including **disinformation detection, social media analysis, medical data processing, and legal AI systems**. 
 
         ### **Our Applications: Tackling High-Risk AI Challenges**
-        We adeveloping and deploying AI tools for real-world decision-making scenarios, including:
+        We are developing and deploying AI tools for real-world decision-making scenarios, including:
 
         - **Disinformation Detection & Social Media Analysis**: Investigating **mis- disinformation, hate speech, propaganda and FIMI** using advanced **NLP, XAI and Interpretability** methods. 
         - **Medical Data Processing & Trustworthy AI in Healthcare**: Developing AI tools that **simplify access to medical information**, improve **faithfulness and factual consistency** in medical text generation, and support clinicians in **interpreting AI-generated recommendations**.
