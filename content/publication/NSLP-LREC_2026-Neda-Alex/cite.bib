@@ -1,0 +1,13 @@
+@inproceedings{foroutan-etal-2026-retrieval,
+  title = {Retrieval-Augmented LLMs and Encoder Models for Multi-Label Climate Disinformation Narrative Classification },
+  author = {Foroutan, Neda and Tsiakalou, Alexandra and Schmitt, Vera},
+  booktitle = {Proceedings of Natural Scientific Language Processing (NSLP) @ LREC 2026},
+  month = {May},
+  year = {2026},
+  pages = {225--234},
+  address = {Palma, Mallorca, Spain},
+  publisher = {European Language Resources Association (ELRA)},
+  editor = {Rehm, Georg and Dietze, Stefan and Dessi, Danilo and Maynard, Diana and Schimmler, Sonja},
+  doi = {10.63317/2sxk32q2vrqz},
+  abstract = {The detection of climate misinformation narratives remains challenging due to label imbalance, hierarchical taxonomies, and the multi-label nature of real-world claims. Developing models that can reliably assign fine-grained narrative categories is therefore essential for scalable analysis of climate disinformation. We present our approach to multi-label climate misinformation narrative classification for ClimateCheck@NSLP 2026 Task 2. The task requires assigning one or more narrative categories, defined by the hierarchical CARDS taxonomy, to climate-related claims. We investigate both encoder-based transformers and decoder-only large language models (LLMs), comparing fine-tuning BERT-based models with prompt-based and retrieval-augmented instruction tuning strategies with Qwen3 model. To address data scarcity and label imbalance, we explore targeted augmentation using external CARDS-based resources as well as semantic similarity filtering. Our experiments show that augmentation improves encoder-based models, with ModernBERT achieving competitive performance at low computational cost. However, the strongest results are obtained using retrieval-augmented instruction tuning with Qwen3, which narrows the candidate narrative space prior to prediction. This approach achieves a Macro-F1 score of 59.72% on the official test set, securing second place on the leaderboard. These findings demonstrate the effectiveness of retrieval-guided LLM adaptation for structured multi-label narrative classification while highlighting the continued relevance of efficient encoder-based models.}
+}
