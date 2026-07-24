@@ -29,7 +29,7 @@ bio:
 interests:
   - Human-Computer Interaction
   - Natural Language Processing
-  - Legal and Ethical Considerations
+  - NLP for Social good
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
