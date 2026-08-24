@@ -1,6 +1,6 @@
 # XplaiNLP Research Group
 
-**Our Webiste:**
+**Our Website:**
 [XplaiNLP](https://xplainlp.github.io)
 
 ## Updating Information in This Repository
