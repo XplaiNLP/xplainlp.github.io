@@ -14,20 +14,25 @@ authors:
 superuser: false
 
 # Role/position
-role: Student Researcher
+role: PhD Candidate
 
-weight: 1
+weight: 9
 
 # Organizations/Affiliations
 organizations:
-  - name: Technische Universität Berlin
-    url: ''
+  - name: Johannes Gutenberg University Mainz
+    url: 'https://www.uni-mainz.de/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
   - Natural Language Processing
+  - Large Language Models & RAG
+  - Disinformation & Propaganda Detection
+  - Foreign Information Manipulation and Interference (FIMI)
+  - LLM Personas & Algorithmic Bias
+  - Human-Centered AI Systems
 
 
 # Social/Academic Networking
@@ -37,7 +42,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ariana.sahitaj@campus.tu-berlin.de'
+    link: 'mailto:ariana.sahitaj@tu-berlin.de'
   - icon: linkedin
     icon_pack: fab
     link: 'https://www.linkedin.com/in/arianademirisahitaj/'
@@ -59,5 +64,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research Assistants
+  - Researchers
 ---
+Ariana Sahitaj holds a Bachelor’s degree in Business Information Systems from the University of Trier and a Master’s degree with honours in Information Systems Management from the Technical University of Berlin. Since her undergraduate studies, she has gained research experience across multiple institutions, including the University of Trier, the German Research Center for Artificial Intelligence (DFKI), and the Quality and Usability Lab (QUL) at the Technical University of Berlin. Her background spans Natural Language Processing, Large Language Models, argument analysis, and disinformation detection.
+
+In September 2026, Ariana started her PhD at Johannes Gutenberg University Mainz within the FIMI-Resist project, which addresses Foreign Information Manipulation and Interference (FIMI), referring to coordinated manipulative activities by foreign actors aimed at distorting public debate and threatening democratic processes. She also remains affiliated with the Technical University of Berlin as a guest researcher.
