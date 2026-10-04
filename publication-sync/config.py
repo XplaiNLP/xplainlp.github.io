@@ -3,7 +3,6 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parent
-PROJECT_ROOT = ROOT.parent.parent
 
 
 @dataclass(frozen=True)
@@ -124,11 +123,13 @@ cfg = Config(
     #   content/
     #   content/publication/
     #   content/authors/
-    website_root = Path("/Users/swarnadeep/Riju/Code/academic/XplaiNLP/xplainlp.github.io"),
+    #website_root = Path("/Users/swarnadeep/Riju/Code/academic/XplaiNLP/xplainlp.github.io"),
+    website_root = ROOT.parent,
     #website_root = ROOT / "website"
 
-    # Directory where generated reports and folders will be written.
-    output_root = PROJECT_ROOT / "data" / "output_2",
+    # Directory where generated reports and folders will be written
+    # (git-ignored; safe place for temp runs).
+    output_root = ROOT / "output",
 
     # Generate folders for missing publications
     generate_missing_folders=True,
@@ -148,3 +149,5 @@ cfg = Config(
     google_scholar_profile_url="https://scholar.google.com/citations?user=pKbJC10AAAAJ&hl=en",
 
 )
+
+cfg.output_root.mkdir(parents=True, exist_ok=True)
