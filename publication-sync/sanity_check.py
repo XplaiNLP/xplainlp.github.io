@@ -103,6 +103,16 @@ def main():
         for folder, title in already_on_site:
             problems.append(f"  - {folder}/  (title: {title!r})")
 
+    # Check 4: every folder has a cite.bib (powers the "Cite" button)
+    no_bib = [
+        folder for folder, _ in entries
+        if not os.path.isfile(os.path.join(MISSING_PAPERS_DIR, folder, "cite.bib"))
+    ]
+    if no_bib:
+        problems.append(f"\n{len(no_bib)} folder(s) without cite.bib:")
+        for f in no_bib:
+            problems.append(f"  - {f}")
+
     # Summary
     print("=" * 60)
     if not problems:
