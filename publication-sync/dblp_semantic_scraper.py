@@ -21,8 +21,9 @@ Configure the CONFIG block below and run:
     python scholar_scraper.py
 
 Notes:
-    - DBLP: any profile URL works; the script converts it to the
-      XML export endpoint (append .xml).
+    - DBLP: any profile URL works; the script reads the PID from it and
+      queries DBLP's public SPARQL endpoint. The per-person XML export
+      is behind a bot check and no longer returns XML to plain HTTP clients.
     - Semantic Scholar author ID: the numeric ID at the end of the
       profile URL, e.g. https://www.semanticscholar.org/author/Vera-Schmitt/1234567
       -> id is "1234567". Set to None to skip it.
@@ -44,7 +45,6 @@ import difflib
 import os
 import re
 import sys
-import xml.etree.ElementTree as ET
 from pathlib import Path
 from os import PathLike
 import requests
@@ -53,7 +53,7 @@ from config import cfg
 
 # ----------------------------- CONFIG -----------------------------
 DBLP_URL = cfg.dblp_url #"https://dblp.org/pid/295/6533.html"
-SEMANTIC_SCHOLAR_ID = cfg.dblp_url #"2114572998"
+SEMANTIC_SCHOLAR_ID = cfg.semantic_scholar_id #"2114572998"
 
 # Path to the website repo's existing publications folder
 # (one subfolder per paper, each containing an index.md).
@@ -97,67 +97,207 @@ PUBLICATION_TYPE_MAP = {
 DEFAULT_PUBLICATION_TYPE = "manuscript"
 
 
-def dblp_xml_url(profile_url: str) -> str:
-    """Convert a DBLP profile URL (.html or bare) into its .xml export URL."""
-    if profile_url.endswith(".xml"):
-        return profile_url
-    if profile_url.endswith(".html"):
-        return profile_url[: -len(".html")] + ".xml"
-    return profile_url.rstrip("/") + ".xml"
-
+# Public SPARQL endpoint. The per-person XML export
+# (https://dblp.org/pid/<id>.xml) is fronted by a bot check and answers
+# plain HTTP clients with an HTML interstitial, which is what used to
+# blow up ElementTree with "syntax error: line 1, column 0".
+DBLP_SPARQL_ENDPOINT = "https://sparql.dblp.org/sparql"
+_DBLP_SPARQL_PAGE = 500
+_BIBTEX_NS = "http://purl.org/net/nknouf/ns/bibtex#"
+_DOI_PREFIXES = (
+    "https://doi.org/",
+    "http://doi.org/",
+    "https://dx.doi.org/",
+    "http://dx.doi.org/",
+)
 
 # DBLP indexes more than just papers under a person's profile -- datasets,
-# software, homepages, and edited-volume records show up as different XML
-# tags too. Only these tags represent an actual authored publication;
-# anything else (e.g. "data" for datasets/software, "www" for homepages,
-# "editor" for edited volumes, "proceedings" for a volume itself) is
-# excluded so it never enters the pipeline as if it were a paper.
+# software, homepages, and edited-volume records show up as different
+# bibtex types too. Only these types represent an actual authored publication;
+# anything else (e.g. "misc"/"data" for datasets and software, edited
+# volumes, proceedings) is excluded so it never enters the pipeline as if
+# it were a paper.
 _DBLP_PAPER_TAGS = {
     "article", "inproceedings", "incollection", "book",
     "phdthesis", "mastersthesis",
 }
 
 
-def fetch_dblp(profile_url: str) -> list[dict]:
-    url = dblp_xml_url(profile_url)
-    resp = requests.get(url, headers=DBLP_HEADERS, timeout=30)
+def dblp_person_uri(profile_url: str) -> str:
+    """Return the DBLP person IRI for a profile URL (.html, .xml, or bare)."""
+    cleaned = profile_url.strip().split("?", 1)[0].split("#", 1)[0]
+    for suffix in (".html", ".xml", ".json"):
+        if cleaned.endswith(suffix):
+            cleaned = cleaned[: -len(suffix)]
+    cleaned = cleaned.rstrip("/")
+    marker = "/pid/"
+    idx = cleaned.find(marker)
+    if idx == -1:
+        raise ValueError(f"Not a DBLP person profile URL: {profile_url}")
+    pid = cleaned[idx + len(marker):]
+    if not re.fullmatch(r"[A-Za-z0-9._-]+/[A-Za-z0-9._-]+", pid):
+        raise ValueError(f"Unexpected DBLP PID in URL: {profile_url}")
+    return f"https://dblp.org/pid/{pid}"
+
+
+def _dblp_sparql(query: str) -> list[dict]:
+    headers = dict(DBLP_HEADERS or {})
+    headers["Accept"] = "application/sparql-results+json"
+    resp = requests.post(
+        DBLP_SPARQL_ENDPOINT,
+        data={"query": query},
+        headers=headers,
+        timeout=60,
+    )
     resp.raise_for_status()
-    root = ET.fromstring(resp.content)
+    content_type = resp.headers.get("Content-Type", "")
+    if "json" not in content_type.lower():
+        raise RuntimeError(
+            "DBLP SPARQL endpoint did not return JSON "
+            f"({resp.status_code} {content_type}): {resp.text[:160]!r}"
+        )
+    payload = resp.json()
+    if payload.get("status") == "ERROR":
+        raise RuntimeError(payload.get("exception") or "DBLP SPARQL query failed")
+    return payload.get("results", {}).get("bindings", [])
+
+
+def _sparql_pages(make_query) -> list[dict]:
+    rows = []
+    offset = 0
+    while True:
+        page = _dblp_sparql(make_query(offset, _DBLP_SPARQL_PAGE))
+        rows.extend(page)
+        if len(page) < _DBLP_SPARQL_PAGE:
+            return rows
+        offset += _DBLP_SPARQL_PAGE
+
+
+def _binding(row: dict, key: str) -> str | None:
+    cell = row.get(key)
+    if not cell:
+        return None
+    value = cell.get("value")
+    return value or None
+
+
+def _bibtex_tag(iri: str | None) -> str | None:
+    if iri and iri.startswith(_BIBTEX_NS):
+        return iri[len(_BIBTEX_NS):].lower()
+    return None
+
+
+def _bare_doi(value: str | None) -> str | None:
+    if not value:
+        return None
+    lowered = value.lower()
+    for prefix in _DOI_PREFIXES:
+        if lowered.startswith(prefix):
+            return value[len(prefix):]
+    return value
+
+
+def _fetch_dblp_publications(person_uri: str) -> dict[str, dict]:
+    def make_query(offset: int, limit: int) -> str:
+        return f"""
+PREFIX dblp: <https://dblp.org/rdf/schema#>
+SELECT ?publ ?title ?year ?venue ?page ?doi ?bibtype WHERE {{
+  ?publ dblp:authoredBy <{person_uri}> .
+  ?publ dblp:title ?title .
+  OPTIONAL {{ ?publ dblp:yearOfPublication ?year . }}
+  OPTIONAL {{ ?publ dblp:publishedIn ?venue . }}
+  OPTIONAL {{ ?publ dblp:primaryDocumentPage ?page . }}
+  OPTIONAL {{ ?publ dblp:doi ?doi . }}
+  OPTIONAL {{ ?publ dblp:bibtexType ?bibtype . }}
+}}
+ORDER BY ?publ
+LIMIT {limit}
+OFFSET {offset}
+"""
+
+    records: dict[str, dict] = {}
+    for row in _sparql_pages(make_query):
+        publ = _binding(row, "publ")
+        title = _binding(row, "title")
+        if not publ or not title:
+            continue
+        rec = records.get(publ)
+        if rec is None:
+            rec = {
+                "title": title.strip().rstrip("."),
+                "year": _binding(row, "year"),
+                "venue": _binding(row, "venue"),
+                "link": _binding(row, "page") or publ,
+                "doi": _bare_doi(_binding(row, "doi")),
+                "type": _bibtex_tag(_binding(row, "bibtype")),
+            }
+            records[publ] = rec
+            continue
+        rec["venue"] = rec["venue"] or _binding(row, "venue")
+        rec["link"] = rec["link"] or _binding(row, "page") or publ
+        rec["doi"] = rec["doi"] or _bare_doi(_binding(row, "doi"))
+        rec["type"] = rec["type"] or _bibtex_tag(_binding(row, "bibtype"))
+    return records
+
+
+def _fetch_dblp_authors(person_uri: str) -> dict[str, list[str]]:
+    def make_query(offset: int, limit: int) -> str:
+        return f"""
+PREFIX dblp: <https://dblp.org/rdf/schema#>
+SELECT ?publ ?ordinal ?name WHERE {{
+  ?publ dblp:authoredBy <{person_uri}> .
+  ?publ dblp:hasSignature ?sig .
+  ?sig a dblp:AuthorSignature .
+  ?sig dblp:signatureOrdinal ?ordinal .
+  ?sig dblp:signatureDblpName ?name .
+}}
+ORDER BY ?publ ?ordinal
+LIMIT {limit}
+OFFSET {offset}
+"""
+
+    by_publ: dict[str, dict[int, str]] = {}
+    for row in _sparql_pages(make_query):
+        publ = _binding(row, "publ")
+        name = _binding(row, "name")
+        ordinal = _binding(row, "ordinal")
+        if not publ or not name or ordinal is None:
+            continue
+        try:
+            position = int(ordinal)
+        except ValueError:
+            continue
+        by_publ.setdefault(publ, {})[position] = clean_author_name(name)
+    return {
+        publ: [names[pos] for pos in sorted(names)]
+        for publ, names in by_publ.items()
+    }
+
+
+def fetch_dblp(profile_url: str) -> list[dict]:
+    person_uri = dblp_person_uri(profile_url)
+    records = _fetch_dblp_publications(person_uri)
+    authors = _fetch_dblp_authors(person_uri)
 
     pubs = []
     skipped_non_paper = 0
-    for r in root.findall(".//r"):
-        for entry in list(r):
-            if entry.tag not in _DBLP_PAPER_TAGS:
-                skipped_non_paper += 1
-                continue
-
-            title_el = entry.find("title")
-            if title_el is None or not title_el.text:
-                continue
-            authors = [clean_author_name(a.text) for a in entry.findall("author") if a.text]
-            year_el = entry.find("year")
-            venue_el = entry.find("journal")
-            if venue_el is None:
-                venue_el = entry.find("booktitle")
-            ee_el = entry.find("ee")
-            url_el = entry.find("url")
-
-            pubs.append(
-                {
-                    "title": title_el.text.strip().rstrip("."),
-                    "authors": authors,
-                    "year": year_el.text if year_el is not None else None,
-                    "venue": venue_el.text if venue_el is not None else None,
-                    "link": ee_el.text if ee_el is not None else (
-                        f"https://dblp.org/{url_el.text}" if url_el is not None else None
-                    ),
-                    "doi": None,
-                    "abstract": None,
-                    "type": entry.tag,
-                    "source": "dblp",
-                }
-            )
+    for publ, rec in records.items():
+        if rec["type"] not in _DBLP_PAPER_TAGS:
+            skipped_non_paper += 1
+            continue
+        pubs.append(
+            {
+                "title": rec["title"],
+                "authors": authors.get(publ, []),
+                "year": rec["year"],
+                "venue": rec["venue"],
+                "link": rec["link"],
+                "doi": rec["doi"],
+                "abstract": None,
+                "type": rec["type"],
+                "source": "dblp",
+            }
+        )
 
     if skipped_non_paper:
         print(
