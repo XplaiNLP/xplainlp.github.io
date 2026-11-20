@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Charlott Jakob
+title: Jawher Said
 
 # Full name (for SEO)
-first_name: Charlott
-last_name: Jakob
+first_name: Jawher
+last_name: Said
 
 # Username (this should match the folder name)
 authors:
-  - Charlott Jakob
+  - Jawher Said
 
 # Is this the primary user of the site?
 superuser: false
@@ -27,10 +27,7 @@ organizations:
 bio: 
 
 interests:
-  - Natural Language Processing
-  - Human-Computer Interaction
-  - Algorithmic Bias
-  - Explainability
+  - 
 
 
 # Social/Academic Networking
@@ -40,16 +37,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:c.jakob@tu-berlin.de'
+    link: 'mailto:jasaid@uni-mainz.de'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/charlott-jakob-7aa0491a7/
+    link: https://www.linkedin.com/in/jawher-said-551a0b12b/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=AXpvddwAAAAJ
+    link: https://scholar.google.com/citations?user=FuCbq1YAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/charlottjakob
+    link: https://github.com/jawhar00
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,4 +61,4 @@ email: ''
 user_groups:
   - Researchers
 ---
-Charlott Jakob received her bachelor's degree in Industrial Engineering from the Karlsruhe Institute of Technology. She then pursued further studies in Industrial Engineering, majoring in Information & Communication Systems, at TU Berlin, where she completed her master’s thesis in the Quality and Usability Lab. Since 2023, she is employed as a research assistant in the XplaiNLP group in the QUL, exploring the interaction between NLP systems and humans towards responsible and ethical AI usage. Her focus is on uncovering discrimination due to algorithmic biases and examining machines’ transparency by applying explainability techniques.
+Jawher Said ... 
