@@ -20,8 +20,8 @@ weight: 1
 
 # Organizations/Affiliations
 organizations:
-  - name: Technische Universität Berlin
-    url: ''
+  - name: Johannes Gutenberg University Mainz
+    url: 'https://xplainlp.uni-mainz.de/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
