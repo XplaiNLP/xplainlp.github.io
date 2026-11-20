@@ -16,7 +16,7 @@ superuser: false
 # Role/position
 role: Principal Investigator
 
-weight: 1
+weight: 9
 
 # Organizations/Affiliations
 organizations:
