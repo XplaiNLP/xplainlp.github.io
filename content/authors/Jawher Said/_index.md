@@ -1,15 +1,14 @@
-
 ---
 # Display name
-title: Jawher Said
+title: Charlott Jakob
 
 # Full name (for SEO)
-first_name: Jawher 
-last_name: Said
+first_name: Charlott
+last_name: Jakob
 
 # Username (this should match the folder name)
 authors:
-  - Jawher Said
+  - Charlott Jakob
 
 # Is this the primary user of the site?
 superuser: false
@@ -17,17 +16,22 @@ superuser: false
 # Role/position
 role: PhD Candidate
 
-weight: 17
+weight: 1
 
 # Organizations/Affiliations
 organizations:
-  - name: Johannes Gutenberg University Mainz
-    url: 'https://xplainlp.uni-mainz.de/'
+  - name: Technische Universität Berlin
+    url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
+  - Natural Language Processing
+  - Human-Computer Interaction
+  - Algorithmic Bias
+  - Explainability
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -36,13 +40,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:jasaid@uni-mainz.de'
+    link: 'mailto:c.jakob@tu-berlin.de'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/jawher-said-551a0b12b/
+    link: https://www.linkedin.com/in/charlott-jakob-7aa0491a7/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=AXpvddwAAAAJ
   - icon: github
     icon_pack: fab
-    link: 
+    link: https://github.com/charlottjakob
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,4 +64,4 @@ email: ''
 user_groups:
   - Researchers
 ---
-
+Charlott Jakob received her bachelor's degree in Industrial Engineering from the Karlsruhe Institute of Technology. She then pursued further studies in Industrial Engineering, majoring in Information & Communication Systems, at TU Berlin, where she completed her master’s thesis in the Quality and Usability Lab. Since 2023, she is employed as a research assistant in the XplaiNLP group in the QUL, exploring the interaction between NLP systems and humans towards responsible and ethical AI usage. Her focus is on uncovering discrimination due to algorithmic biases and examining machines’ transparency by applying explainability techniques.
