@@ -24,10 +24,15 @@ organizations:
     url: 'https://xplainlp.uni-mainz.de/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Explainable and manipulation-resilient language models
 
 interests:
-  - 
+  - Explainable AI for Language Models
+  - Mechanistic Interpretability
+  - Concept-based Explanations
+  - Backdoor Detection and Unlearning
+  - Manipulation Resilience of LLMs and RAG Systems
+  - Human-Centered Evaluation of Explanations
 
 
 # Social/Academic Networking
@@ -61,4 +66,6 @@ email: ''
 user_groups:
   - Researchers
 ---
-Jawher Said ... 
+Jawher Said completed his M.Sc. at the Technical University of Berlin, majoring in computer vision and machine learning. During his studies, he worked for two years as a student researcher at Fraunhofer HHI on explainable AI for convolutional neural networks, focusing on attribution and concept-based explanation methods such as LRP, CRP and concept activation vectors. In his master's thesis, carried out as part of the EU project TEMA on disaster management, he adapted explainable AI methods to object detection and segmentation models.
+
+In November 2026, he joined the XplaiNLP group at Johannes Gutenberg University Mainz as a PhD candidate. His research will focus on detecting and neutralizing manipulation in large language models, such as backdoors, poisoned retrieval sources and persuasive framing, by analysing the models' internal representations, and on evaluating whether explanations help people recognise manipulated model behaviour.
